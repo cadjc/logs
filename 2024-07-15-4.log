@@ -1,0 +1,51 @@
+[15:51:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:51:58] [ServerMain/INFO]: Loaded 1290 recipes
+[15:51:58] [ServerMain/INFO]: Loaded 1399 advancements
+[15:51:59] [Server thread/INFO]: Starting minecraft server version 1.21
+[15:51:59] [Server thread/INFO]: Loading properties
+[15:51:59] [Server thread/INFO]: This server is running Paper version 1.21-57-master@0e02aa5 (2024-07-11T19:34:02Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[15:51:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:51:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:52:00] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[15:52:00] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[15:52:00] [Server thread/INFO]: Default game type: SURVIVAL
+[15:52:00] [Server thread/INFO]: Generating keypair
+[15:52:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:52:00] [Server thread/INFO]: Using default channel type
+[15:52:00] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[15:52:00] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[15:52:00] [Server thread/INFO]: [NoteBlockAPI] Loading server plugin NoteBlockAPI v1.6.2
+[15:52:00] [Server thread/INFO]: [MusicBox] Loading server plugin MusicBox v2.1.2
+[15:52:00] [Server thread/INFO]: [ImageFrame] Loading server plugin ImageFrame v1.7.9.0
+[15:52:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:52:00] [Server thread/INFO]: Preparing level "world"
+[15:52:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:52:02] [Server thread/INFO]: Time elapsed: 800 ms
+[15:52:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:52:02] [Server thread/INFO]: Time elapsed: 244 ms
+[15:52:02] [Server thread/INFO]: [NoteBlockAPI] Enabling NoteBlockAPI v1.6.2
+[15:52:02] [Server thread/INFO]: [MusicBox] Enabling MusicBox v2.1.2
+[15:52:02] [Server thread/INFO]: [ImageFrame] Enabling ImageFrame v1.7.9.0
+[15:52:03] [Server thread/INFO]: [ImageFrame] ImageFrame has been Enabled!
+[15:52:03] [Server thread/INFO]: Running delayed init tasks
+[15:52:03] [Server thread/INFO]: Done (4.361s)! For help, type "help"
+[15:52:03] [Server thread/INFO]: Timings Reset
+[15:52:04] [Craft Scheduler Thread - 4 - ImageFrame/INFO]: [ImageFrame] Data loading completed! Loaded 1 ImageMaps!
+[15:52:10] [User Authenticator #0/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[15:52:12] [Server thread/INFO]: canhvjp joined the game
+[15:52:12] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1]:53021] logged in with entity id 25 at ([world]-34082.92982589845, 82.0, 19949.756573563336)
+[15:52:43] [User Authenticator #0/INFO]: UUID of player HmzyyX is d0135778-6e50-40e9-93a9-328349820168
+[15:52:45] [Server thread/INFO]: HmzyyX joined the game
+[15:52:45] [Server thread/INFO]: HmzyyX[/[0:0:0:0:0:0:0:1]:53049] logged in with entity id 338 at ([world]-1264.2438652204119, 76.0, 1506.8166955144527)
+[15:52:52] [User Authenticator #0/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[15:52:53] [Server thread/INFO]: EvoKoifis joined the game
+[15:52:53] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1]:53051] logged in with entity id 645 at ([world]-3153.512499988079, 57.0, -6252.658748623248)
+[15:53:03] [Async Chat Thread - #1/INFO]: <EvoKoifis> o sao canh van de same port duoc
+[15:53:13] [User Authenticator #0/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[15:53:14] [Server thread/INFO]: TaFiz008 joined the game
+[15:53:14] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1]:53056] logged in with entity id 1379 at ([world]-104840.26248464137, 76.24918707874468, 106773.53161329572)
+[15:53:20] [User Authenticator #0/INFO]: UUID of player Logs369 is d7d0c0f5-d2bd-47d2-9bf3-05ceedd7ba85
+[15:53:21] [Server thread/INFO]: Logs369 joined the game
+[15:53:21] [Server thread/INFO]: Logs369[/[0:0:0:0:0:0:0:1]:53058] logged in with entity id 1786 at ([world]-34089.01812708335, 82.0, 19944.727766953445)

@@ -1,0 +1,1740 @@
+[04:09:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:09:54] [ServerMain/INFO]: Loaded 1290 recipes
+[04:09:54] [ServerMain/INFO]: Loaded 1399 advancements
+[04:09:54] [Server thread/INFO]: Starting minecraft server version 1.21
+[04:09:54] [Server thread/INFO]: Loading properties
+[04:09:54] [Server thread/INFO]: This server is running Paper version 1.21-57-master@0e02aa5 (2024-07-11T19:34:02Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[04:09:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:09:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:09:56] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[04:09:56] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[04:09:56] [Server thread/INFO]: Default game type: SURVIVAL
+[04:09:56] [Server thread/INFO]: Generating keypair
+[04:09:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:09:56] [Server thread/INFO]: Using epoll channel type
+[04:09:56] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:09:56] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[04:09:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:09:56] [Server thread/INFO]: Preparing level "world"
+[04:09:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:09:58] [Server thread/INFO]: Time elapsed: 1343 ms
+[04:09:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:09:58] [Server thread/INFO]: Time elapsed: 223 ms
+[04:09:58] [Server thread/INFO]: Running delayed init tasks
+[04:09:58] [Server thread/INFO]: Done (3.771s)! For help, type "help"
+[04:09:58] [Server thread/INFO]: Timings Reset
+[04:10:33] [User Authenticator #0/INFO]: UUID of player gato_the_gay is 45c7a210-8e9a-47b1-a1ed-94b423e1cdd2
+[04:10:33] [Server thread/INFO]: gato_the_gay joined the game
+[04:10:33] [Server thread/INFO]: gato_the_gay[/[0:0:0:0:0:0:0:1%0]:46252] logged in with entity id 12 at ([world]3916.2440318648714, -30.5, -3703.418032408506)
+[04:10:53] [User Authenticator #0/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[04:10:55] [Server thread/INFO]: PH1008 joined the game
+[04:10:55] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:44848] logged in with entity id 530 at ([world]-5136.300000011921, -8.0, -9781.702965110037)
+[04:11:01] [Server thread/INFO]: [Not Secure] [Server] sao ban nay sap
+[04:15:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2965ms or 59 ticks behind
+[04:17:11] [User Authenticator #1/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[04:17:12] [Server thread/INFO]: canhvjp joined the game
+[04:17:12] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:33298] logged in with entity id 2279 at ([world_nether]-4246.890097110065, 84.0, 2461.088864140557)
+[04:17:50] [Async Chat Thread - #1/INFO]: <canhvjp> cho bon dan lang thanh zombie xong no con giu trade ko
+[04:20:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3611ms or 72 ticks behind
+[04:20:41] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[04:20:41] [Server thread/INFO]: canhvjp left the game
+[04:20:47] [User Authenticator #2/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[04:20:48] [Server thread/INFO]: canhvjp joined the game
+[04:20:48] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:54636] logged in with entity id 4209 at ([world]-34061.30801146815, 63.0, 19945.79589503492)
+[04:25:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3138ms or 62 ticks behind
+[04:26:33] [Server thread/INFO]: gato_the_gay lost connection: Disconnected
+[04:26:33] [Server thread/INFO]: gato_the_gay left the game
+[04:30:17] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[04:30:18] [Server thread/INFO]: canhvjp left the game
+[04:32:35] [User Authenticator #3/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[04:32:36] [Server thread/INFO]: EvoKoifis joined the game
+[04:32:36] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:38596] logged in with entity id 7668 at ([world]-3152.059595899421, 57.0, -6253.601282879122)
+[04:32:52] [Async Chat Thread - #4/INFO]: <EvoKoifis> drake drake
+[04:32:54] [Async Chat Thread - #4/INFO]: <EvoKoifis> go awake
+[04:34:07] [Async Chat Thread - #6/INFO]: <EvoKoifis> ngu di chicken ph
+[04:41:52] [User Authenticator #4/INFO]: UUID of player Kuenain is ff33a88b-ac5b-41de-b571-43a9a5fc46dd
+[04:41:53] [Server thread/INFO]: Kuenain joined the game
+[04:41:53] [Server thread/INFO]: Kuenain[/[0:0:0:0:0:0:0:1%0]:46270] logged in with entity id 10226 at ([world]-34079.09167048214, 82.5625, 19949.295584856733)
+[04:42:00] [Async Chat Thread - #8/INFO]: <EvoKoifis> hi
+[04:43:37] [Async Chat Thread - #10/INFO]: <Kuenain> cai enchant sweeping edge co tac dung j
+[04:43:45] [Async Chat Thread - #11/INFO]: <EvoKoifis> tra google di
+[04:43:47] [Async Chat Thread - #11/INFO]: <EvoKoifis> quen roi
+[04:45:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2541ms or 50 ticks behind
+[04:45:31] [Server thread/INFO]: Kuenain lost connection: Disconnected
+[04:45:31] [Server thread/INFO]: Kuenain left the game
+[04:53:21] [Async Chat Thread - #12/INFO]: <PH1008> ay
+[04:53:27] [Async Chat Thread - #12/INFO]: <EvoKoifis> oat
+[04:53:34] [Async Chat Thread - #12/INFO]: <PH1008> g y
+[04:53:35] [Async Chat Thread - #12/INFO]: <PH1008> a
+[04:53:39] [Async Chat Thread - #12/INFO]: <EvoKoifis> gyatt?
+[04:53:50] [Async Chat Thread - #12/INFO]: <PH1008> g y
+[04:53:58] [Async Chat Thread - #12/INFO]: <PH1008> a
+[04:54:06] [Async Chat Thread - #12/INFO]: <EvoKoifis> wth anh nay
+[05:00:01] [User Authenticator #5/INFO]: UUID of player minhhhhhhhh is a9832b36-3a9f-4126-9624-5a52fa94738b
+[05:00:02] [Server thread/INFO]: minhhhhhhhh joined the game
+[05:00:02] [Server thread/INFO]: minhhhhhhhh[/[0:0:0:0:0:0:0:1%0]:57334] logged in with entity id 16183 at ([world]-3020.5577303650894, -26.0, -6145.300000011921)
+[05:00:39] [Async Chat Thread - #14/INFO]: <EvoKoifis> dukmig dau roi?
+[05:00:40] [Async Chat Thread - #14/INFO]: <EvoKoifis> chet a/
+[05:00:48] [Async Chat Thread - #15/INFO]: <EvoKoifis> khong luu spawn a?
+[05:01:21] [Async Chat Thread - #15/INFO]: <EvoKoifis> thoi gio di luoi
+[05:01:24] [Async Chat Thread - #15/INFO]: <EvoKoifis> voi risky
+[05:01:34] [Async Chat Thread - #15/INFO]: <EvoKoifis> ong xem nether cho minh chua
+[05:02:14] [Server thread/INFO]: EvoKoifis has made the advancement [Ice Bucket Challenge]
+[05:02:58] [User Authenticator #6/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[05:02:59] [Server thread/INFO]: TaFiz008 joined the game
+[05:02:59] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:48512] logged in with entity id 18360 at ([world]-30757.274509865325, 65.0, 28557.30000001192)
+[05:03:32] [Async Chat Thread - #16/INFO]: <EvoKoifis> khong
+[05:03:37] [Async Chat Thread - #16/INFO]: <EvoKoifis> ph neu chet thi chet luon di
+[05:04:31] [Async Chat Thread - #16/INFO]: <EvoKoifis> em co mending day tai
+[05:04:34] [Async Chat Thread - #16/INFO]: <EvoKoifis> 20 kc 1 quyen
+[05:04:40] [Async Chat Thread - #16/INFO]: <TaFiz008> lat do c
+[05:04:41] [Async Chat Thread - #16/INFO]: <TaFiz008> c
+[05:04:44] [Async Chat Thread - #16/INFO]: <TaFiz008> canh vjp
+[05:05:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3000ms or 60 ticks behind
+[05:05:49] [Async Chat Thread - #18/INFO]: <EvoKoifis> dukmig vao nether chua
+[05:06:02] [Async Chat Thread - #18/INFO]: <EvoKoifis> sao co tieng blaze nhi
+[05:09:23] [Async Chat Thread - #20/INFO]: <EvoKoifis> chet roi
+[05:09:28] [Async Chat Thread - #20/INFO]: <EvoKoifis> gio khong co pearl
+[05:09:37] [Async Chat Thread - #20/INFO]: <EvoKoifis> thi khong kieu
+[05:09:40] [Async Chat Thread - #20/INFO]: <EvoKoifis> dua dukmig
+[05:09:41] [Async Chat Thread - #20/INFO]: <EvoKoifis> ve nha
+[05:09:50] [Async Chat Thread - #20/INFO]: <EvoKoifis> sao co te tte
+[05:09:54] [Async Chat Thread - #20/INFO]: <EvoKoifis> o cherry grove
+[05:10:11] [Async Chat Thread - #20/INFO]: <EvoKoifis> dukmig di duong gio
+[05:10:40] [Async Chat Thread - #20/INFO]: <EvoKoifis> may anh nhin nhuc bao lau
+[05:10:48] [Async Chat Thread - #20/INFO]: <TaFiz008> lat do cong
+[05:10:49] [Async Chat Thread - #20/INFO]: <TaFiz008> a nham
+[05:10:51] [Async Chat Thread - #20/INFO]: <TaFiz008> canh vjp
+[05:12:01] [Async Chat Thread - #22/INFO]: <EvoKoifis> gio suot ngay phai
+[05:12:04] [Async Chat Thread - #22/INFO]: <EvoKoifis> theo che do
+[05:12:06] [Async Chat Thread - #22/INFO]: <EvoKoifis> rat buong
+[05:12:08] [Async Chat Thread - #22/INFO]: <EvoKoifis> buon*
+[05:13:16] [Async Chat Thread - #24/INFO]: <EvoKoifis> gio tim hieu suat
+[05:14:34] [Async Chat Thread - #26/INFO]: <EvoKoifis> ngu di
+[05:14:39] [Async Chat Thread - #26/INFO]: <TaFiz008> sleep go
+[05:14:51] [Server thread/INFO]: PH1008 lost connection: Timed out
+[05:14:51] [Server thread/INFO]: PH1008 left the game
+[05:15:02] [User Authenticator #7/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[05:15:02] [Async Chat Thread - #26/INFO]: <EvoKoifis> canh trong voice dukmig
+[05:15:03] [Server thread/INFO]: canhvjp joined the game
+[05:15:03] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:46318] logged in with entity id 27252 at ([world]-34028.30000001192, 64.0, 19931.347386043828)
+[05:15:04] [Async Chat Thread - #26/INFO]: <EvoKoifis> can than
+[05:15:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3048ms or 60 ticks behind
+[05:15:33] [Async Chat Thread - #26/INFO]: <TaFiz008> ╙
+[05:15:34] [Async Chat Thread - #26/INFO]: <TaFiz008> ╥
+[05:15:36] [Async Chat Thread - #26/INFO]: <TaFiz008> ╘
+[05:15:38] [Async Chat Thread - #26/INFO]: <TaFiz008> ╒
+[05:15:40] [Async Chat Thread - #26/INFO]: <TaFiz008> ╓
+[05:15:41] [Async Chat Thread - #26/INFO]: <TaFiz008> ╫
+[05:15:45] [Async Chat Thread - #26/INFO]: <TaFiz008> ⌐
+[05:15:47] [Async Chat Thread - #26/INFO]: <EvoKoifis> ngon ngu enchanting table
+[05:15:56] [Async Chat Thread - #26/INFO]: <TaFiz008> ½
+[05:16:16] [Async Chat Thread - #26/INFO]: <TaFiz008> ▒ 4529
+[05:16:18] [User Authenticator #8/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[05:16:18] [Server thread/INFO]: canhvjp lost connection: You logged in from another location
+[05:16:18] [Server thread/INFO]: canhvjp left the game
+[05:16:18] [Async Chat Thread - #26/INFO]: <TaFiz008> ▒
+[05:16:19] [Server thread/INFO]: canhvjp joined the game
+[05:16:19] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:54724] logged in with entity id 28778 at ([world]-34072.260768770415, 82.0, 19977.02020045059)
+[05:16:36] [Async Chat Thread - #26/INFO]: <TaFiz008> ¼ 4224
+[05:16:59] [Async Chat Thread - #27/INFO]: <TaFiz008> du ma
+[05:17:01] [Async Chat Thread - #27/INFO]: <TaFiz008> ngu dum cai
+[05:17:05] [Async Chat Thread - #27/INFO]: <TaFiz008> ╙
+[05:17:24] [Async Chat Thread - #27/INFO]: <TaFiz008> du ma
+[05:17:27] [Async Chat Thread - #27/INFO]: <TaFiz008> ngu dum tao
+[05:17:43] [Async Chat Thread - #27/INFO]: <EvoKoifis> duoi hang roi anh
+[05:17:45] [Async Chat Thread - #27/INFO]: <EvoKoifis> hihi
+[05:17:50] [Async Chat Thread - #27/INFO]: <TaFiz008> out ra dum t di
+[05:18:01] [Server thread/INFO]: Villager Villager['Villager'/18453, uuid='7ac4a54a-2309-402d-8017-73f10b68f114', l='ServerLevel[world]', x=-30728.39, y=64.19, z=28555.88, cpos=[-1921, 1784], tl=124771, v=true] died, message: 'Villager was slain by Zombie'
+[05:18:27] [User Authenticator #9/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[05:18:29] [Server thread/INFO]: PH1008 joined the game
+[05:18:29] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:36868] logged in with entity id 30517 at ([world]-5138.767594907126, -40.279892739243856, -9787.713389225575)
+[05:18:46] [User Authenticator #9/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[05:18:46] [Server thread/INFO]: PH1008 lost connection: You logged in from another location
+[05:18:47] [Server thread/INFO]: PH1008 left the game
+[05:18:48] [Server thread/INFO]: PH1008 joined the game
+[05:18:48] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:33906] logged in with entity id 31226 at ([world]-5138.767594907126, -40.7440521141993, -9787.713389225575)
+[05:19:46] [Server thread/WARN]: PH1008 was kicked for floating too long!
+[05:19:46] [Server thread/INFO]: PH1008 lost connection: Flying is not enabled on this server
+[05:19:46] [Server thread/INFO]: PH1008 left the game
+[05:19:56] [User Authenticator #10/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[05:19:58] [Server thread/INFO]: PH1008 joined the game
+[05:19:58] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:48076] logged in with entity id 32027 at ([world]-5157.297971961429, -45.830509765109646, -9775.578117145036)
+[05:20:12] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[05:20:12] [Server thread/INFO]: PH1008 left the game
+[05:20:13] [Async Chat Thread - #28/INFO]: <EvoKoifis> f3
+[05:20:15] [Async Chat Thread - #28/INFO]: <EvoKoifis> force dad
+[05:20:17] [Async Chat Thread - #29/INFO]: <TaFiz008> giuppppppp
+[05:20:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3039ms or 60 ticks behind
+[05:20:19] [Server thread/WARN]: minhhhhhhhh moved too quickly! 2.672107826856859,0.0,-12.077263968210389
+[05:20:22] [User Authenticator #10/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[05:20:23] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[05:20:23] [Server thread/INFO]: canhvjp left the game
+[05:20:23] [Server thread/WARN]: minhhhhhhhh moved too quickly! 11.785856200034345,0.0,-3.779323510140216
+[05:20:24] [Server thread/INFO]: canhvjp joined the game
+[05:20:24] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:37994] logged in with entity id 32602 at ([world_nether]-4271.375337431518, 14.0, 2461.950476230278)
+[05:20:29] [Async Chat Thread - #29/INFO]: <TaFiz008> ▌
+[05:20:46] [Async Chat Thread - #29/INFO]: <TaFiz008> ⌂
+[05:20:47] [Server thread/INFO]: minhhhhhhhh lost connection: Disconnected
+[05:20:47] [Server thread/INFO]: minhhhhhhhh left the game
+[05:20:50] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[05:20:50] [Server thread/INFO]: EvoKoifis left the game
+[05:20:58] [User Authenticator #10/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[05:20:59] [Server thread/INFO]: EvoKoifis joined the game
+[05:20:59] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:34770] logged in with entity id 33110 at ([world]-3043.157909244883, -22.0, -6064.701888309608)
+[05:21:02] [Async Chat Thread - #29/INFO]: <EvoKoifis> top 10 ton trong
+[05:22:12] [User Authenticator #11/INFO]: UUID of player minhhhhhhhh is a9832b36-3a9f-4126-9624-5a52fa94738b
+[05:22:12] [Server thread/INFO]: minhhhhhhhh joined the game
+[05:22:12] [Server thread/INFO]: minhhhhhhhh[/[0:0:0:0:0:0:0:1%0]:34522] logged in with entity id 34673 at ([world]759.982625348965, 71.0, 476.1954790552247)
+[05:23:05] [User Authenticator #11/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[05:23:06] [Async Chat Thread - #30/INFO]: <EvoKoifis> ngon
+[05:23:08] [Server thread/INFO]: PH1008 joined the game
+[05:23:08] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:56116] logged in with entity id 35761 at ([world]-5160.965586354173, -46.0, -9796.171740781112)
+[05:23:08] [Async Chat Thread - #30/INFO]: <EvoKoifis> dao hang duoc
+[05:23:10] [Async Chat Thread - #30/INFO]: <EvoKoifis> 39 kc
+[05:23:39] [Async Chat Thread - #30/INFO]: <EvoKoifis> dinh cong
+[05:23:44] [Async Chat Thread - #30/INFO]: <TaFiz008> dinh cong manh
+[05:25:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3721ms or 74 ticks behind
+[05:25:23] [Server thread/WARN]: EvoKoifis moved too quickly! -0.02048447188371938,18.455889075603125,0.0
+[05:25:23] [Server thread/WARN]: canhvjp moved too quickly! -10.153344941348223,0.0,-0.017928202736129606
+[05:25:23] [Server thread/WARN]: TaFiz008 moved too quickly! -6.86277562280884,-0.33319999363422426,9.413296692651784
+[05:25:26] [Server thread/WARN]: PH1008 moved too quickly! 1.7941760869643986,10.001335979112149,-0.0966323654010921
+[05:25:39] [Server thread/INFO]: PH1008 lost connection: Timed out
+[05:25:39] [Server thread/INFO]: PH1008 left the game
+[05:25:49] [User Authenticator #12/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[05:25:51] [Server thread/INFO]: PH1008 joined the game
+[05:25:51] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:45984] logged in with entity id 39204 at ([world]-5179.345399946785, -38.2468000194788, -9899.751989538112)
+[05:25:51] [Server thread/INFO]: canhvjp has made the advancement [Hidden in the Depths]
+[05:25:56] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[05:25:56] [Server thread/INFO]: PH1008 left the game
+[05:26:04] [User Authenticator #12/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[05:26:05] [Server thread/INFO]: PH1008 joined the game
+[05:26:05] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:36892] logged in with entity id 39704 at ([world]-5179.345399946785, -38.69429791646222, -9899.751989538112)
+[05:26:11] [Async Chat Thread - #32/INFO]: <EvoKoifis> cuc xi lau ong be lap
+[05:26:21] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[05:26:21] [Server thread/INFO]: PH1008 left the game
+[05:26:28] [User Authenticator #12/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[05:26:29] [Server thread/INFO]: PH1008 joined the game
+[05:26:29] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:35812] logged in with entity id 40793 at ([world]-5179.345399946785, -37.0, -9899.751989538112)
+[05:27:15] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[05:27:15] [Server thread/INFO]: PH1008 left the game
+[05:27:35] [Server thread/INFO]: minhhhhhhhh lost connection: Disconnected
+[05:27:35] [Server thread/INFO]: minhhhhhhhh left the game
+[05:27:38] [User Authenticator #13/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[05:27:39] [Server thread/INFO]: PH1008 joined the game
+[05:27:39] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:44884] logged in with entity id 42072 at ([world]-5179.345399946785, -37.0, -9899.751989538112)
+[05:28:15] [User Authenticator #13/INFO]: UUID of player minhhhhhhhh is a9832b36-3a9f-4126-9624-5a52fa94738b
+[05:28:16] [Server thread/INFO]: minhhhhhhhh joined the game
+[05:28:16] [Server thread/INFO]: minhhhhhhhh[/[0:0:0:0:0:0:0:1%0]:55288] logged in with entity id 42752 at ([world]256.317360138832, 65.0, 744.0094835417079)
+[05:30:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2815ms or 56 ticks behind
+[05:31:24] [Server thread/INFO]: PH1008 has completed the challenge [It Spreads]
+[05:31:34] [Async Chat Thread - #35/INFO]: <EvoKoifis> it spreads
+[05:31:44] [Async Chat Thread - #35/INFO]: <EvoKoifis> no lan ra
+[05:31:59] [Async Chat Thread - #35/INFO]: <PH1008> thang nao toi day giup t nhanh me len
+[05:32:05] [Async Chat Thread - #35/INFO]: <PH1008> xay cai mobspawner
+[05:33:11] [Async Chat Thread - #37/INFO]: <EvoKoifis> a u dukmig dukmig
+[05:33:20] [Async Chat Thread - #37/INFO]: <EvoKoifis> dukmig quay ve base
+[05:33:23] [Async Chat Thread - #37/INFO]: <EvoKoifis> ma co tao be
+[05:33:25] [Async Chat Thread - #37/INFO]: <EvoKoifis> thi lay nhe
+[05:33:27] [Async Chat Thread - #37/INFO]: <EvoKoifis> kelp
+[05:39:41] [Async Chat Thread - #39/INFO]: <PH1008> vcl co 2 mob spawner
+[05:39:44] [Async Chat Thread - #39/INFO]: <PH1008> ngon
+[05:40:44] [Server thread/INFO]: TaFiz008 has made the advancement [Country Lode, Take Me Home]
+[05:40:58] [Server thread/INFO]: EvoKoifis has made the advancement [A Terrible Fortress]
+[05:41:58] [Server thread/INFO]: EvoKoifis has made the advancement [Into Fire]
+[05:44:26] [User Authenticator #14/INFO]: UUID of player Kuenain is ff33a88b-ac5b-41de-b571-43a9a5fc46dd
+[05:44:27] [Server thread/INFO]: Kuenain joined the game
+[05:44:27] [Server thread/INFO]: Kuenain[/[0:0:0:0:0:0:0:1%0]:47062] logged in with entity id 59940 at ([world]-34076.1858898387, 82.0, 19950.19270817143)
+[05:45:26] [Async Chat Thread - #41/INFO]: <canhvjp> nilou oi
+[05:45:27] [Server thread/WARN]: minhhhhhhhh moved too quickly! -6.623624770336903,0.48963838479394184,-7.8249022690232835
+[05:45:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3466ms or 69 ticks behind
+[05:45:29] [Server thread/WARN]: minhhhhhhhh moved too quickly! -6.9766078983804505,0.25086736114158015,-7.552997862409995
+[05:45:35] [Async Chat Thread - #41/INFO]: <Kuenain> ?
+[05:45:38] [Async Chat Thread - #41/INFO]: <canhvjp> dai gia r
+[05:45:51] [Async Chat Thread - #41/INFO]: <EvoKoifis> old pee
+[05:46:23] [Async Chat Thread - #41/INFO]: <Kuenain> dai gia?
+[05:46:29] [Async Chat Thread - #41/INFO]: <canhvjp> u
+[05:46:39] [Async Chat Thread - #41/INFO]: <canhvjp> t dao dc 54 ancient debris
+[05:46:48] [Async Chat Thread - #41/INFO]: <Kuenain> oat
+[05:46:53] [Async Chat Thread - #42/INFO]: <canhvjp> 6 stack tnt
+[05:47:32] [Async Chat Thread - #42/INFO]: <Kuenain> the la dc 13 cai netherite ingot
+[05:48:03] [Async Chat Thread - #42/INFO]: <PH1008> canh cut
+[05:48:52] [Async Chat Thread - #42/INFO]: <Kuenain> giet zombie piglin co dc exp ko
+[05:48:59] [Async Chat Thread - #42/INFO]: <EvoKoifis> c
+[05:48:59] [Async Chat Thread - #42/INFO]: <EvoKoifis> co
+[05:49:00] [Async Chat Thread - #42/INFO]: <canhvjp> dc
+[05:49:10] [Async Chat Thread - #42/INFO]: <Kuenain> ok
+[05:49:50] [Async Chat Thread - #42/INFO]: <Kuenain> de di test may farm
+[05:49:52] [Server thread/INFO]: Kuenain lost connection: Disconnected
+[05:49:52] [Server thread/INFO]: Kuenain left the game
+[05:51:03] [Async Chat Thread - #43/INFO]: <EvoKoifis> a cai do
+[05:51:04] [Async Chat Thread - #43/INFO]: <EvoKoifis> toi ghi do
+[05:51:11] [Server thread/INFO]: minhhhhhhhh has completed the challenge [Subspace Bubble]
+[05:52:15] [Async Chat Thread - #45/INFO]: <EvoKoifis> itoi tiet kiem
+[05:52:19] [Async Chat Thread - #45/INFO]: <PH1008> o day
+[05:52:23] [Async Chat Thread - #45/INFO]: <PH1008> duoi ac city
+[05:52:24] [Server thread/INFO]: EvoKoifis has made the advancement [Total Beelocation]
+[05:52:25] [Async Chat Thread - #45/INFO]: <PH1008> hihi
+[05:52:50] [Async Chat Thread - #45/INFO]: <EvoKoifis> chan de mob khong vao
+[05:52:59] [Async Chat Thread - #45/INFO]: <PH1008> the thi tao cua di
+[05:53:33] [Async Chat Thread - #45/INFO]: <PH1008> duoi day an toan vai l
+[05:53:53] [Async Chat Thread - #45/INFO]: <EvoKoifis> a u dukmig co
+[05:53:55] [Async Chat Thread - #45/INFO]: <EvoKoifis> erm
+[05:53:58] [Async Chat Thread - #45/INFO]: <EvoKoifis> kelp khong?
+[05:54:54] [Server thread/INFO]: minhhhhhhhh has made the advancement [A Seedy Place]
+[05:54:58] [Async Chat Thread - #45/INFO]: <EvoKoifis> it cuu?
+[05:55:13] [Server thread/INFO]: minhhhhhhhh has made the advancement [The Parrots and the Bats]
+[05:55:23] [Async Chat Thread - #45/INFO]: <EvoKoifis> 999 doa hoa bo
+[05:55:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3484ms or 69 ticks behind
+[05:55:33] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[05:55:33] [Server thread/INFO]: canhvjp left the game
+[05:55:36] [User Authenticator #15/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[05:55:37] [Server thread/INFO]: canhvjp joined the game
+[05:55:37] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:37344] logged in with entity id 71188 at ([world]-34077.043642816556, 82.0, 19951.105539291908)
+[05:56:16] [Async Chat Thread - #46/INFO]: <EvoKoifis> gio dao da di
+[05:56:17] [Async Chat Thread - #46/INFO]: <EvoKoifis> farm
+[05:56:28] [Async Chat Thread - #46/INFO]: <PH1008> ra cho t
+[05:56:28] [Async Chat Thread - #46/INFO]: <EvoKoifis> xay cho doi hoa hong
+[05:56:35] [Async Chat Thread - #46/INFO]: <PH1008> m mang luon cai ban enchant
+[05:56:45] [Async Chat Thread - #46/INFO]: <PH1008> ach cho t
+[05:56:51] [Async Chat Thread - #46/INFO]: <PH1008> dm
+[05:56:54] [Async Chat Thread - #45/INFO]: <PH1008> at ncc
+[05:56:55] [Async Chat Thread - #45/INFO]: <PH1008> at
+[05:56:58] [Async Chat Thread - #45/INFO]: <PH1008> ch
+[05:57:00] [Async Chat Thread - #45/INFO]: <EvoKoifis> at chu
+[05:57:00] [Async Chat Thread - #45/INFO]: <PH1008> at
+[05:57:01] [Async Chat Thread - #45/INFO]: <PH1008> dcn
+[05:57:02] [Async Chat Thread - #45/INFO]: <EvoKoifis> at bich
+[05:57:12] [Async Chat Thread - #45/INFO]: <TaFiz008> ♣
+[05:57:15] [Async Chat Thread - #45/INFO]: <TaFiz008> 1♣
+[05:57:19] [Async Chat Thread - #45/INFO]: <TaFiz008> 1♠
+[05:57:20] [Async Chat Thread - #45/INFO]: <EvoKoifis> day at tep
+[05:57:21] [Async Chat Thread - #45/INFO]: <canhvjp> ☺
+[05:57:22] [Async Chat Thread - #45/INFO]: <EvoKoifis> a day
+[05:57:31] [Async Chat Thread - #45/INFO]: <canhvjp> ↓GAY
+[05:57:45] [Async Chat Thread - #45/INFO]: <TaFiz008> canhvjp
+[05:57:55] [Async Chat Thread - #45/INFO]: <canhvjp> m beo
+[05:58:01] [Async Chat Thread - #45/INFO]: <canhvjp> ko bat hard nua
+[05:58:04] [Async Chat Thread - #45/INFO]: <EvoKoifis> a co farm da do
+[05:58:15] [Server thread/INFO]: TaFiz008 lost connection: Timed out
+[05:58:15] [Server thread/INFO]: TaFiz008 left the game
+[05:58:16] [Async Chat Thread - #45/INFO]: <EvoKoifis> o sau nha co farm da
+[05:58:18] [User Authenticator #16/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[05:58:19] [Server thread/INFO]: TaFiz008 joined the game
+[05:58:19] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:54928] logged in with entity id 72560 at ([world]-30758.5, 70.0, 28560.5)
+[05:58:24] [Async Chat Thread - #45/INFO]: <EvoKoifis> toi vua dao tam 6 stack
+[05:58:28] [Async Chat Thread - #45/INFO]: <TaFiz008> 2♥
+[05:58:55] [Async Chat Thread - #45/INFO]: <EvoKoifis> dukmig de toi xay
+[05:59:01] [Async Chat Thread - #45/INFO]: <EvoKoifis> toi lam 999 cai roi
+[05:59:06] [Async Chat Thread - #45/INFO]: <EvoKoifis> dukmig
+[05:59:07] [Async Chat Thread - #45/INFO]: <EvoKoifis> dukmig
+[05:59:08] [Async Chat Thread - #45/INFO]: <TaFiz008> ½♥ rockpusher
+[05:59:09] [Async Chat Thread - #45/INFO]: <EvoKoifis> what
+[05:59:18] [Async Chat Thread - #45/INFO]: <PH1008> t clear gan het r
+[05:59:29] [Async Chat Thread - #46/INFO]: <PH1008> trong vong 100 block k con cai spawn warden nao dau
+[05:59:31] [Async Chat Thread - #46/INFO]: <PH1008> cu xuong di
+[05:59:39] [Async Chat Thread - #46/INFO]: <EvoKoifis> dukmig set spawn lai di
+[05:59:45] [Async Chat Thread - #46/INFO]: <EvoKoifis> dukmig
+[05:59:48] [Async Chat Thread - #45/INFO]: <EvoKoifis> bo to su
+[05:59:48] [Server thread/INFO]: Showing new title for 5 players
+[05:59:52] [Async Chat Thread - #45/INFO]: <TaFiz008> tat ca chu y
+[05:59:56] [Async Chat Thread - #45/INFO]: <TaFiz008> hard tap the trong 30s
+[06:00:09] [Async Chat Thread - #45/INFO]: <EvoKoifis> setspawn lai di dukmig
+[06:00:13] [Server thread/INFO]: The difficulty has been set to Hard
+[06:00:18] [Async Chat Thread - #45/INFO]: <canhvjp> hard r
+[06:01:01] [Server thread/INFO]: Villager Villager['Librarian'/18393, uuid='d5abf079-ab96-402b-88f1-52e925b6e1dc', l='ServerLevel[world]', x=-30757.65, y=62.56, z=28560.01, cpos=[-1923, 1785], tl=175961, v=true] died, message: 'Librarian was slain by Zombie'
+[06:01:05] [Server thread/INFO]: Villager Villager['Mason'/18375, uuid='605cb89c-d356-491d-af14-b0d806214752', l='ServerLevel[world]', x=-30759.64, y=62.56, z=28559.18, cpos=[-1923, 1784], tl=176119, v=true] died, message: 'Mason was slain by Zombie'
+[06:01:52] [Server thread/INFO]: canhvjp has completed the challenge [Cover Me in Debris]
+[06:03:43] [Async Chat Thread - #47/INFO]: <EvoKoifis> 20 emerald prot 3 nen lay khong?
+[06:05:39] [Server thread/INFO]: TaFiz008 has reached the goal [Zombie Doctor]
+[06:05:44] [Server thread/INFO]: Villager Villager['Mason'/76267, uuid='82cc1672-c1a9-4863-95b1-ae5172e87ffd', l='ServerLevel[world]', x=-30759.54, y=62.56, z=28559.76, cpos=[-1923, 1784], tl=90, v=true] died, message: 'Mason was slain by Zombie Villager'
+[06:06:20] [Async Chat Thread - #49/INFO]: <EvoKoifis> anh tai kho cuc vay
+[06:06:52] [Async Chat Thread - #49/INFO]: <EvoKoifis> de toi blind ra cho bien vay
+[06:07:06] [Async Chat Thread - #49/INFO]: <EvoKoifis> toi co chup lai ma
+[06:07:53] [Async Chat Thread - #49/INFO]: <EvoKoifis> hay gio toi ve spawn dukmig a
+[06:08:16] [Async Chat Thread - #49/INFO]: <EvoKoifis> toi ve spawn co bien
+[06:08:31] [Async Chat Thread - #49/INFO]: <EvoKoifis> khong
+[06:08:33] [Async Chat Thread - #49/INFO]: <EvoKoifis> ve spawn xong la
+[06:08:36] [Async Chat Thread - #50/INFO]: <EvoKoifis> toi chicken
+[06:08:38] [Async Chat Thread - #50/INFO]: <EvoKoifis> lay tao bien
+[06:08:53] [Async Chat Thread - #50/INFO]: <EvoKoifis> thoi toi di nhe
+[06:09:03] [Async Chat Thread - #50/INFO]: <EvoKoifis> cha can bien dau
+[06:09:06] [Async Chat Thread - #50/INFO]: <EvoKoifis> xay cao len la duoc
+[06:09:25] [Async Chat Thread - #50/INFO]: <EvoKoifis> u day
+[06:09:30] [Async Chat Thread - #50/INFO]: <EvoKoifis> xay cao len
+[06:09:38] [Async Chat Thread - #49/INFO]: <EvoKoifis> tam y=256
+[06:10:16] [Async Chat Thread - #49/INFO]: <EvoKoifis> the co can bubble elevator khong?
+[06:10:31] [Async Chat Thread - #49/INFO]: <EvoKoifis> the ve spawn vay
+[06:10:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3884ms or 77 ticks behind
+[06:10:37] [Server thread/WARN]: minhhhhhhhh moved too quickly! -11.306934719521905,-0.5475485219240284,3.018407885607303
+[06:12:14] [Async Chat Thread - #51/INFO]: <PH1008> vcl
+[06:12:56] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[06:12:56] [Server thread/INFO]: EvoKoifis left the game
+[06:13:02] [User Authenticator #17/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[06:13:04] [Server thread/INFO]: EvoKoifis joined the game
+[06:13:04] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:59584] logged in with entity id 81816 at ([world_nether]-372.30000001192093, 125.0, -795.3000000119209)
+[06:13:08] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[06:13:08] [Server thread/INFO]: EvoKoifis left the game
+[06:13:13] [User Authenticator #17/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[06:13:14] [Server thread/INFO]: EvoKoifis joined the game
+[06:13:14] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:44852] logged in with entity id 82033 at ([world_nether]-372.30000001192093, 125.0, -795.3000000119209)
+[06:13:21] [Server thread/INFO]: EvoKoifis suffocated in a wall
+[06:13:23] [Async Chat Thread - #51/INFO]: <EvoKoifis> wth
+[06:13:27] [Async Chat Thread - #53/INFO]: <EvoKoifis> sao lai len bedrock
+[06:13:29] [Async Chat Thread - #53/INFO]: <minhhhhhhhh> ui gioi oi
+[06:13:29] [Async Chat Thread - #53/INFO]: <EvoKoifis> khong duoc
+[06:13:34] [Async Chat Thread - #53/INFO]: <PH1008> che do ten hac
+[06:13:57] [Server thread/INFO]: Villager Villager['Fletcher'/77963, uuid='64f6195c-8157-4510-b17e-c4d1d2041f90', l='ServerLevel[world]', x=-34042.25, y=64.19, z=19935.01, cpos=[-2128, 1245], tl=154132, v=true] died, message: 'Fletcher was slain by Drowned'
+[06:14:02] [Server thread/INFO]: Villager Villager['Villager'/18412, uuid='29978f84-bbf6-4e16-859b-b97b90a3bb00', l='ServerLevel[world]', x=-30705.44, y=63.00, z=28594.60, cpos=[-1920, 1787], tl=191470, v=true] died, message: 'Villager was slain by Zombie'
+[06:16:28] [Server thread/INFO]: Villager Villager['Mason'/79971, uuid='a078b0d0-a517-4600-95b6-c58eb81128c5', l='ServerLevel[world]', x=-30759.17, y=62.56, z=28560.60, cpos=[-1923, 1785], tl=7048, v=true] died, message: 'Mason was slain by Zombie'
+[06:16:31] [Server thread/INFO]: Villager Villager['Librarian'/76740, uuid='af6d19a4-d66c-45fd-9818-ec8ea4ee7cba', l='ServerLevel[world]', x=-30759.64, y=62.00, z=28558.65, cpos=[-1923, 1784], tl=11816, v=true] died, message: 'Librarian was slain by Zombie Villager'
+[06:17:58] [Server thread/INFO]: Summoned new Zombie
+[06:18:12] [Server thread/INFO]: Villager Villager['Villager'/77967, uuid='022dd344-ef5c-42c8-86cd-86061ca355ee', l='ServerLevel[world]', x=-34042.27, y=64.19, z=19934.21, cpos=[-2128, 1245], tl=85867, v=true] died, message: 'Villager was slain by Zombie'
+[06:18:14] [Server thread/INFO]: Villager Villager['Librarian'/77974, uuid='3e0afc95-2b76-464e-a1a2-265cd24b858f', l='ServerLevel[world]', x=-34042.25, y=64.19, z=19935.01, cpos=[-2128, 1245], tl=92312, v=true] died, message: 'Librarian was slain by Zombie'
+[06:18:19] [Server thread/INFO]: Villager Villager['Villager'/77959, uuid='6871723a-7cbb-4b18-ab14-5069222465b9', l='ServerLevel[world]', x=-34042.66, y=64.13, z=19930.89, cpos=[-2128, 1245], tl=46582, v=true] died, message: 'Villager was slain by Zombie'
+[06:19:14] [Server thread/INFO]: Summoned new Zombie
+[06:20:21] [Server thread/INFO]: Summoned new Villager
+[06:20:22] [Server thread/INFO]: Summoned new Villager
+[06:20:24] [Server thread/INFO]: Summoned new Villager
+[06:20:25] [Server thread/INFO]: Summoned new Villager
+[06:20:25] [Server thread/INFO]: Summoned new Villager
+[06:21:54] [Async Chat Thread - #54/INFO]: <PH1008> van cho day
+[06:22:01] [Async Chat Thread - #54/INFO]: <EvoKoifis> xay tam 2 tang nhe
+[06:22:25] [Async Chat Thread - #54/INFO]: <EvoKoifis> u
+[06:22:39] [Async Chat Thread - #54/INFO]: <EvoKoifis> lay them block di dukmig
+[06:23:10] [Async Chat Thread - #54/INFO]: <EvoKoifis> ph ve nha di
+[06:23:19] [Async Chat Thread - #54/INFO]: <PH1008> t xay xong farm me r
+[06:23:25] [Async Chat Thread - #54/INFO]: <PH1008> farm ske
+[06:23:32] [Async Chat Thread - #54/INFO]: <PH1008> u
+[06:23:42] [Async Chat Thread - #54/INFO]: <PH1008> co 3 cai mob spawner gan day
+[06:23:45] [Async Chat Thread - #54/INFO]: <EvoKoifis> van cai do xa khung khiep
+[06:24:00] [Async Chat Thread - #54/INFO]: <EvoKoifis> cai day duong nether cung phai
+[06:24:03] [Async Chat Thread - #54/INFO]: <EvoKoifis> tam 600 blocks
+[06:24:31] [Async Chat Thread - #54/INFO]: <EvoKoifis> roi chicken roi
+[06:25:09] [Async Chat Thread - #54/INFO]: <EvoKoifis> a can ca trap door
+[06:25:37] [Async Chat Thread - #54/INFO]: <EvoKoifis> wth ai chat kieu nua voi the nay
+[06:25:40] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[06:25:40] [Server thread/INFO]: canhvjp left the game
+[06:25:42] [User Authenticator #18/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[06:25:43] [Server thread/INFO]: canhvjp joined the game
+[06:25:43] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:57864] logged in with entity id 89487 at ([world]-34040.718429055334, 64.0, 19938.009730873127)
+[06:26:32] [Async Chat Thread - #54/INFO]: <EvoKoifis> a vao nether no block
+[06:28:46] [Server thread/INFO]: Summoned new Zombie
+[06:29:32] [Async Chat Thread - #56/INFO]: <EvoKoifis> toi vua no them 7 stack gi do
+[06:29:45] [Server thread/INFO]: Villager Villager['Villager'/77976, uuid='1ea922a8-d934-4ffb-a0d0-67b9cea58ae5', l='ServerLevel[world]', x=-34031.71, y=64.00, z=19936.30, cpos=[-2127, 1246], tl=66569, v=true] died, message: 'Villager was slain by Zombie'
+[06:30:07] [Server thread/INFO]: Villager Villager['Villager'/77961, uuid='532f9a89-e8fd-43dc-8246-8310c6a95862', l='ServerLevel[world]', x=-34031.71, y=64.00, z=19937.70, cpos=[-2127, 1246], tl=67372, v=true] died, message: 'Villager was slain by Zombie Villager'
+[06:30:10] [Server thread/INFO]: Villager Villager['Librarian'/77966, uuid='657a565c-514a-41a1-adc0-96964210a2d5', l='ServerLevel[world]', x=-34031.33, y=64.19, z=19936.88, cpos=[-2127, 1246], tl=151517, v=true] died, message: 'Librarian was slain by Zombie Villager'
+[06:30:15] [Server thread/INFO]: Villager Villager['Librarian'/86643, uuid='14d726ba-bcf5-471f-a4be-1362423822e0', l='ServerLevel[world]', x=-34035.32, y=64.58, z=19931.52, cpos=[-2128, 1245], tl=11816, v=true] died, message: 'Librarian was slain by Zombie Villager'
+[06:30:17] [Server thread/INFO]: Villager Villager['Fletcher'/77964, uuid='360d86b2-8b87-4224-b0b4-d6c4d163169f', l='ServerLevel[world]', x=-34030.53, y=64.19, z=19936.84, cpos=[-2127, 1246], tl=68006, v=true] died, message: 'Fletcher was slain by Zombie Villager'
+[06:30:24] [Server thread/INFO]: Villager Villager['Villager'/86653, uuid='f95bc0e6-3568-47d3-9302-039285ecd425', l='ServerLevel[world]', x=-34031.71, y=64.00, z=19937.70, cpos=[-2127, 1246], tl=11978, v=true] died, message: 'Villager was slain by Zombie Villager'
+[06:30:24] [Server thread/INFO]: Villager Villager['Librarian'/77960, uuid='1721dd3a-2be6-41d9-963f-891a57ad322e', l='ServerLevel[world]', x=-34031.68, y=64.00, z=19932.74, cpos=[-2127, 1245], tl=136860, v=true] died, message: 'Librarian was slain by Zombie Villager'
+[06:30:26] [Server thread/INFO]: Villager Villager['Villager'/86617, uuid='27b4281a-5c05-4f3f-9dd8-ff0757d56314', l='ServerLevel[world]', x=-34031.71, y=64.00, z=19937.70, cpos=[-2127, 1246], tl=12106, v=true] died, message: 'Villager was slain by Zombie Villager'
+[06:30:31] [Async Chat Thread - #56/INFO]: <EvoKoifis> doi ti
+[06:30:31] [Server thread/INFO]: Villager Villager['Butcher'/77962, uuid='a7464bb2-d94d-4ab8-8d12-b2146ec00f3a', l='ServerLevel[world]', x=-34038.44, y=64.00, z=19932.34, cpos=[-2128, 1245], tl=211445, v=true] died, message: 'Butcher was slain by Zombie Villager'
+[06:30:32] [Server thread/INFO]: Villager Villager['Villager'/86634, uuid='9249a3b7-836f-4be8-98c9-9d6a993b35b4', l='ServerLevel[world]', x=-34032.80, y=64.00, z=19936.63, cpos=[-2128, 1246], tl=12188, v=true] died, message: 'Villager was slain by Zombie Villager'
+[06:30:34] [Server thread/INFO]: Villager Villager['Librarian'/77965, uuid='6202769c-9b64-4616-87c2-908b48b0fe62', l='ServerLevel[world]', x=-34039.38, y=64.00, z=19931.66, cpos=[-2128, 1245], tl=220979, v=true] died, message: 'Librarian was slain by Zombie Villager'
+[06:30:36] [Async Chat Thread - #56/INFO]: <EvoKoifis> de toi quay lai
+[06:30:44] [Server thread/INFO]: Villager Villager['Fletcher'/86646, uuid='b4394eb7-6149-4df0-9624-84aa90710cd3', l='ServerLevel[world]', x=-34033.08, y=64.00, z=19934.70, cpos=[-2128, 1245], tl=12395, v=true] died, message: 'Fletcher was slain by Zombie Villager'
+[06:31:07] [Async Chat Thread - #56/INFO]: <EvoKoifis> co khi khong can ladder dau dukmig
+[06:31:10] [Async Chat Thread - #56/INFO]: <EvoKoifis> xay cai cot nuoc
+[06:31:13] [Async Chat Thread - #56/INFO]: <EvoKoifis> roi tu boi len
+[06:31:16] [User Authenticator #19/INFO]: UUID of player Kuenain is ff33a88b-ac5b-41de-b571-43a9a5fc46dd
+[06:31:17] [Server thread/INFO]: Kuenain joined the game
+[06:31:17] [Server thread/INFO]: Kuenain[/[0:0:0:0:0:0:0:1%0]:45044] logged in with entity id 93233 at ([world]-34083.80165159484, 63.0, 19811.43769277812)
+[06:31:17] [Server thread/INFO]: Villager Villager['Librarian'/77977, uuid='6ba41aeb-7885-4724-a546-e06b3ee8d1e4', l='ServerLevel[world]', x=-34031.71, y=64.00, z=19937.70, cpos=[-2127, 1246], tl=47952, v=true] died, message: 'Librarian was slain by Zombie Villager'
+[06:31:24] [Async Chat Thread - #57/INFO]: <EvoKoifis> khong cho no mo ra
+[06:32:49] [Async Chat Thread - #58/INFO]: <EvoKoifis> dukmig phai dat slab xung quanh chu
+[06:33:03] [Async Chat Thread - #58/INFO]: <canhvjp> nilou
+[06:33:05] [Async Chat Thread - #58/INFO]: <canhvjp> t can tao
+[06:33:09] [Async Chat Thread - #59/INFO]: <canhvjp> nhieu tao vang
+[06:33:19] [Server thread/INFO]: Villager Villager['Farmer'/64214, uuid='c7f85e4c-db46-41a7-8d01-73f652ecfbe7', l='ServerLevel[world]', x=-3153.30, y=64.06, z=-6254.45, cpos=[-198, -391], tl=400465, v=true] died, message: 'Farmer was slain by Zombie'
+[06:33:23] [Async Chat Thread - #59/INFO]: <EvoKoifis> dukmig con go khong?
+[06:33:28] [Async Chat Thread - #58/INFO]: <EvoKoifis> cho toi
+[06:34:24] [Async Chat Thread - #58/INFO]: <EvoKoifis> u
+[06:34:47] [Async Chat Thread - #58/INFO]: <EvoKoifis> sao?
+[06:34:55] [Async Chat Thread - #58/INFO]: <EvoKoifis> khong can dat nuoc tang 12
+[06:34:56] [Async Chat Thread - #58/INFO]: <EvoKoifis> 2*
+[06:35:03] [Async Chat Thread - #58/INFO]: <PH1008> that
+[06:35:11] [Async Chat Thread - #58/INFO]: <PH1008> t gui cord vao discord r day
+[06:35:36] [Async Chat Thread - #58/INFO]: <EvoKoifis> dukmig co than khong
+[06:36:46] [Async Chat Thread - #60/INFO]: <EvoKoifis> cai day tang fov thoi
+[06:36:49] [Async Chat Thread - #61/INFO]: <EvoKoifis> chu khong nhanh hon
+[06:37:07] [Async Chat Thread - #61/INFO]: <EvoKoifis> tuong anh nay elite
+[06:37:12] [Async Chat Thread - #61/INFO]: <EvoKoifis> dat duoc cung duoc
+[06:37:15] [Async Chat Thread - #61/INFO]: <EvoKoifis> toi co roi
+[06:37:24] [Async Chat Thread - #61/INFO]: <EvoKoifis> toi dat not slab
+[06:37:54] [Async Chat Thread - #61/INFO]: <EvoKoifis> ti chet
+[06:38:14] [Async Chat Thread - #61/INFO]: <EvoKoifis> dukmig bao ai chicken
+[06:38:19] [Async Chat Thread - #60/INFO]: <EvoKoifis> toi con tnt do
+[06:39:18] [Async Chat Thread - #60/INFO]: <PH1008> t het ob roi
+[06:39:22] [Async Chat Thread - #60/INFO]: <EvoKoifis> dukmig chua dat trapdoor tang 2 a
+[06:39:22] [Async Chat Thread - #60/INFO]: <PH1008> bi ket o duoi
+[06:39:24] [Async Chat Thread - #60/INFO]: <PH1008> k len dc
+[06:39:31] [Async Chat Thread - #60/INFO]: <EvoKoifis> toi con
+[06:39:34] [Async Chat Thread - #60/INFO]: <EvoKoifis> kk
+[06:40:53] [Async Chat Thread - #62/INFO]: <EvoKoifis> a toi co emerald trong ruong
+[06:40:57] [Server thread/INFO]: Kuenain was blown up by Creeper
+[06:41:00] [Async Chat Thread - #63/INFO]: <minhhhhhhhh> ngu
+[06:41:03] [Async Chat Thread - #63/INFO]: <canhvjp> wtf
+[06:41:18] [Async Chat Thread - #63/INFO]: <Kuenain> cat het do o nha di reset hunger kk
+[06:42:55] [Async Chat Thread - #64/INFO]: <EvoKoifis> tat render distance xuon
+[06:43:00] [Async Chat Thread - #65/INFO]: <EvoKoifis> voi simulation
+[06:43:02] [Async Chat Thread - #65/INFO]: <EvoKoifis> distance
+[06:43:18] [Async Chat Thread - #65/INFO]: <canhvjp> co tao vang ko
+[06:43:21] [Async Chat Thread - #65/INFO]: <EvoKoifis> dat the cho an toan
+[06:43:21] [Async Chat Thread - #65/INFO]: <canhvjp> cure bon nay
+[06:43:25] [Async Chat Thread - #64/INFO]: <Kuenain> khong
+[06:43:34] [Async Chat Thread - #64/INFO]: <PH1008> ok meo beo trong luc do hay di den cho t
+[06:43:36] [Async Chat Thread - #64/INFO]: <Kuenain> ko thay tao
+[06:43:38] [Async Chat Thread - #64/INFO]: <PH1008> mang nhieu go vao nhe
+[06:43:41] [Async Chat Thread - #65/INFO]: <EvoKoifis> no
+[06:43:42] [Async Chat Thread - #65/INFO]: <canhvjp> tim lang
+[06:43:42] [Async Chat Thread - #65/INFO]: <EvoKoifis> kkk
+[06:43:45] [Async Chat Thread - #64/INFO]: <PH1008> dcm
+[06:43:48] [Async Chat Thread - #64/INFO]: <PH1008> cuu phatt
+[06:43:52] [Async Chat Thread - #64/INFO]: <PH1008> t deo con go hay gi ca
+[06:43:55] [Async Chat Thread - #64/INFO]: <EvoKoifis> dukmig ne ra pls
+[06:43:57] [Async Chat Thread - #64/INFO]: <PH1008> cup hong toi noi roi
+[06:43:59] [Async Chat Thread - #64/INFO]: <EvoKoifis> toi so bi danh
+[06:44:21] [Async Chat Thread - #64/INFO]: <PH1008> di dau
+[06:44:39] [Async Chat Thread - #64/INFO]: <Kuenain> e canh
+[06:44:43] [Async Chat Thread - #64/INFO]: <canhvjp> sao
+[06:44:50] [Async Chat Thread - #65/INFO]: <Kuenain> toa do base cu o dau
+[06:45:22] [Server thread/INFO]: EvoKoifis has made the advancement [Tactical Fishing]
+[06:45:26] [Server thread/INFO]: canhvjp issued server command: /w Kuenain -600 -1000
+[06:45:38] [Server thread/WARN]: TaFiz008 moved too quickly! 9.284637795062736,-0.756759288177264,4.186038413354254
+[06:46:34] [Async Chat Thread - #66/INFO]: <EvoKoifis> hinh nhu
+[06:46:37] [Async Chat Thread - #66/INFO]: <EvoKoifis> toan hang nuoc
+[06:46:55] [Async Chat Thread - #66/INFO]: <EvoKoifis> CO COPPER ROI
+[06:47:40] [Async Chat Thread - #66/INFO]: <EvoKoifis> auto clicker?
+[06:47:44] [Async Chat Thread - #66/INFO]: <PH1008> hay den cho t lam on huhuhihi
+[06:47:46] [Server thread/INFO]: minhhhhhhhh lost connection: Disconnected
+[06:47:46] [Server thread/INFO]: minhhhhhhhh left the game
+[06:48:12] [Async Chat Thread - #66/INFO]: <canhvjp> cao tao ko
+[06:50:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2591ms or 51 ticks behind
+[06:50:39] [Server thread/WARN]: Oak Boat (vehicle of TaFiz008) moved too quickly! -3.95696857449002,-4.973799150320701E-14,19.998813871159655
+[06:50:39] [Server thread/WARN]: Oak Boat (vehicle of TaFiz008) moved too quickly! -4.038855149050505,-4.973799150320701E-14,20.390335236901592
+[06:50:39] [Server thread/WARN]: Oak Boat (vehicle of TaFiz008) moved too quickly! -4.120758714576368,-4.973799150320701E-14,20.78185374854729
+[06:51:38] [Server thread/INFO]: EvoKoifis fell off a ladder
+[06:51:45] [Async Chat Thread - #68/INFO]: <PH1008> ocb
+[06:51:46] [Async Chat Thread - #68/INFO]: <EvoKoifis> oopsie
+[06:55:03] [Async Chat Thread - #70/INFO]: <Kuenain> e cah
+[06:55:06] [Async Chat Thread - #70/INFO]: <Kuenain> canh
+[06:55:06] [Async Chat Thread - #70/INFO]: <canhvjp> sao
+[06:55:09] [Async Chat Thread - #70/INFO]: <Kuenain> co tao vang r
+[06:55:13] [Async Chat Thread - #70/INFO]: <canhvjp> bao nhieu
+[06:55:16] [Async Chat Thread - #71/INFO]: <Kuenain> 2 qua
+[06:55:18] [Async Chat Thread - #71/INFO]: <canhvjp> vl
+[06:55:23] [Server thread/INFO]: PH1008 issued server command: /tell TaFiz008 j the a tai
+[06:55:23] [Async Chat Thread - #70/INFO]: <canhvjp> lay tao thuong
+[06:55:29] [Async Chat Thread - #70/INFO]: <Kuenain> dap 10 cai cay ra 2 qua tao
+[06:55:30] [Async Chat Thread - #70/INFO]: <canhvjp> ma thoi t co r'w
+[06:56:25] [Paper Common Worker #0/ERROR]: Failed to fetch mob spawner entity at (-30719, -16, 33641)
+[06:58:54] [Async Chat Thread - #72/INFO]: <EvoKoifis> tai oi sam set
+[06:59:10] [Async Chat Thread - #72/INFO]: <TaFiz008> co j hot
+[06:59:17] [Async Chat Thread - #72/INFO]: <EvoKoifis> tuong anh co trident
+[06:59:30] [Async Chat Thread - #72/INFO]: <TaFiz008> ko co chanelling
+[06:59:35] [Async Chat Thread - #72/INFO]: <EvoKoifis> gus
+[06:59:58] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[06:59:58] [Server thread/INFO]: EvoKoifis left the game
+[07:00:58] [Server thread/INFO]: PH1008 has made the advancement [Best Friends Forever]
+[07:01:07] [Async Chat Thread - #74/INFO]: <canhvjp> tat hard nhe
+[07:01:11] [Async Chat Thread - #74/INFO]: <PH1008> ok
+[07:01:18] [Server thread/INFO]: The difficulty has been set to Easy
+[07:01:35] [Async Chat Thread - #74/INFO]: <canhvjp> e
+[07:01:43] [Async Chat Thread - #74/INFO]: <canhvjp> t co netherit de trong ruong
+[07:01:47] [Server thread/INFO]: canhvjp has reached the goal [Zombie Doctor]
+[07:02:19] [Server thread/WARN]: Horse (vehicle of PH1008) moved wrongly! 0.3527618419921055
+[07:02:19] [Server thread/WARN]: Horse (vehicle of PH1008) moved wrongly! 0.8507056209879561
+[07:02:19] [Server thread/WARN]: Horse (vehicle of PH1008) moved wrongly! 0.6136609336444963
+[07:02:19] [Server thread/WARN]: Horse (vehicle of PH1008) moved wrongly! 1.0897397520502636
+[07:12:27] [Server thread/WARN]: Horse (vehicle of PH1008) moved wrongly! 0.27382055256475724
+[07:12:27] [Server thread/WARN]: Horse (vehicle of PH1008) moved wrongly! 0.6941570234148458
+[07:13:28] [Server thread/WARN]: Horse (vehicle of PH1008) moved wrongly! 0.3942297342624381
+[07:14:25] [Server thread/INFO]: PH1008 has made the advancement [Ice Bucket Challenge]
+[07:24:13] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[07:24:13] [Server thread/INFO]: canhvjp left the game
+[07:24:16] [User Authenticator #20/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[07:24:17] [Server thread/INFO]: canhvjp joined the game
+[07:24:17] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:53918] logged in with entity id 147858 at ([world]-34026.30000001192, 64.0, 19937.106974986164)
+[07:25:41] [Server thread/WARN]: PH1008 moved too quickly! 3.342188737361539,1.0445092147803763,11.439058384547934
+[07:26:40] [User Authenticator #21/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[07:26:41] [Server thread/INFO]: EvoKoifis joined the game
+[07:26:41] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:44510] logged in with entity id 150737 at ([world]-3141.20405610406, 66.0, -6220.100443982617)
+[07:26:48] [Async Chat Thread - #77/INFO]: <Kuenain> e canh
+[07:26:51] [Async Chat Thread - #77/INFO]: <canhvjp> sao
+[07:26:52] [Server thread/WARN]: EvoKoifis moved too quickly! 1.7726019200385963,-4.166109260938214,-10.577557342960972
+[07:26:52] [Async Chat Thread - #77/INFO]: <Kuenain> co slime ko
+[07:26:56] [Async Chat Thread - #77/INFO]: <canhvjp> ko
+[07:27:03] [Async Chat Thread - #77/INFO]: <Kuenain> dang can de lam may tra tan
+[07:27:37] [Async Chat Thread - #77/INFO]: <EvoKoifis> cot dien
+[07:28:00] [Async Chat Thread - #77/INFO]: <EvoKoifis> khong
+[07:28:08] [Async Chat Thread - #77/INFO]: <EvoKoifis> dang farm
+[07:28:22] [Async Chat Thread - #77/INFO]: <EvoKoifis> dang o may farm
+[07:28:37] [Async Chat Thread - #77/INFO]: <EvoKoifis> ok chicken
+[07:29:19] [Async Chat Thread - #78/INFO]: <EvoKoifis> em dang o may farm
+[07:29:20] [Async Chat Thread - #78/INFO]: <EvoKoifis> kk
+[07:30:22] [Async Chat Thread - #79/INFO]: <EvoKoifis> tang dam
+[07:30:27] [Async Chat Thread - #79/INFO]: <EvoKoifis> cho mob bien
+[07:30:38] [Async Chat Thread - #79/INFO]: <EvoKoifis> di len may famr di
+[07:30:41] [Async Chat Thread - #79/INFO]: <EvoKoifis> farm*
+[07:30:41] [Server thread/WARN]: PH1008 moved too quickly! 0.1952700196866317,16.489706033324538,-0.013858572993740381
+[07:31:00] [Async Chat Thread - #79/INFO]: <EvoKoifis> binh thuong
+[07:31:15] [Server thread/INFO]: TaFiz008 has made the advancement [Light as a Rabbit]
+[07:32:26] [Server thread/INFO]: PH1008 has made the advancement [Enchanter]
+[07:33:38] [Async Chat Thread - #81/INFO]: <EvoKoifis> u
+[07:36:22] [Async Chat Thread - #83/INFO]: <EvoKoifis> khong
+[07:36:40] [Server thread/INFO]: Kuenain lost connection: Disconnected
+[07:36:40] [Server thread/INFO]: Kuenain left the game
+[07:37:32] [User Authenticator #22/INFO]: UUID of player Kuenain is ff33a88b-ac5b-41de-b571-43a9a5fc46dd
+[07:37:33] [Server thread/INFO]: Kuenain joined the game
+[07:37:33] [Server thread/INFO]: Kuenain[/[0:0:0:0:0:0:0:1%0]:33250] logged in with entity id 165533 at ([world]-34086.980572406515, 82.0, 19954.077397920322)
+[07:39:24] [Server thread/WARN]: Oak Boat (vehicle of TaFiz008) moved wrongly! 0.2927784490893828
+[07:39:24] [Server thread/WARN]: Oak Boat (vehicle of TaFiz008) moved wrongly! 0.3116594266757602
+[07:39:52] [Async Chat Thread - #86/INFO]: <EvoKoifis> luck of the sea
+[07:39:57] [Async Chat Thread - #86/INFO]: <EvoKoifis> luck of the sea
+[07:40:00] [Async Chat Thread - #86/INFO]: <EvoKoifis> where are you now
+[07:40:18] [Server thread/INFO]: Kuenain lost connection: Disconnected
+[07:40:18] [Server thread/INFO]: Kuenain left the game
+[07:40:41] [Server thread/WARN]: TaFiz008 moved too quickly! -5.652688094349287,-0.5061351021062208,9.276953905951814
+[07:42:48] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[07:42:48] [Server thread/INFO]: EvoKoifis left the game
+[07:43:00] [User Authenticator #23/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[07:43:01] [Server thread/INFO]: EvoKoifis joined the game
+[07:43:01] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:37578] logged in with entity id 171995 at ([world]-3153.328103582254, 63.255219601762775, -6265.300000011921)
+[07:45:42] [Server thread/WARN]: TaFiz008 moved too quickly! -10.77604744862765,-0.7554907375359079,2.12274344360776
+[07:46:32] [Server thread/INFO]: canhvjp has completed the challenge [Serious Dedication]
+[07:46:38] [Async Chat Thread - #89/INFO]: <EvoKoifis> anh nay
+[07:46:48] [Async Chat Thread - #89/INFO]: <EvoKoifis> rat thich
+[07:46:52] [Async Chat Thread - #89/INFO]: <EvoKoifis> flex fo lung
+[07:47:27] [Server thread/INFO]: PH1008 has made the advancement [Hidden in the Depths]
+[07:49:24] [Async Chat Thread - #91/INFO]: <EvoKoifis> thang tuyen lun
+[07:49:29] [Async Chat Thread - #91/INFO]: <EvoKoifis> tuyet*
+[07:50:58] [Server thread/INFO]: PH1008 has made the advancement [Hot Stuff]
+[07:51:08] [Async Chat Thread - #93/INFO]: <EvoKoifis> thuc ra thi
+[07:51:15] [Async Chat Thread - #93/INFO]: <EvoKoifis> ph giap gi cung cha anh huong
+[07:51:20] [Async Chat Thread - #93/INFO]: <EvoKoifis> vi ph ga lam
+[07:51:58] [Async Chat Thread - #93/INFO]: <EvoKoifis> anh nay
+[07:52:02] [Async Chat Thread - #93/INFO]: <EvoKoifis> ai day cach chicken
+[07:52:09] [Async Chat Thread - #93/INFO]: <EvoKoifis> ma co the
+[07:52:12] [Async Chat Thread - #93/INFO]: <EvoKoifis> lien hoan chicken
+[07:52:33] [Async Chat Thread - #93/INFO]: <EvoKoifis> hieu ngay trinh do
+[07:53:27] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[07:53:27] [Server thread/INFO]: canhvjp left the game
+[07:54:10] [User Authenticator #24/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[07:54:11] [Server thread/INFO]: canhvjp joined the game
+[07:54:11] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:41002] logged in with entity id 184069 at ([world]-33950.70131136666, 62.42342363228911, 19858.46730715949)
+[07:54:28] [Server thread/INFO]: Villager Villager['Farmer'/172094, uuid='1f63fb94-3477-4f29-9bf0-2eb0dc5ae80c', l='ServerLevel[world]', x=-3155.70, y=63.94, z=-6297.70, cpos=[-198, -394], tl=465748, v=true] died, message: 'Farmer was slain by Zombie'
+[07:55:04] [Async Chat Thread - #95/INFO]: <EvoKoifis> cho fortune 3 vao
+[07:55:10] [Async Chat Thread - #95/INFO]: <EvoKoifis> lam lam
+[07:55:15] [Async Chat Thread - #95/INFO]: <EvoKoifis> stack of flint
+[07:55:41] [Server thread/WARN]: canhvjp moved too quickly! -10.687992008497531,1.7448635851281225,1.6567301772411156
+[07:55:41] [Server thread/WARN]: TaFiz008 moved too quickly! -8.371186071318334,0.0,9.719594115692416
+[07:58:11] [Server thread/INFO]: Villager Villager['Nitwit'/172093, uuid='e49a490e-6176-4f6d-aaa9-5d034caef1cc', l='ServerLevel[world]', x=-3165.45, y=64.00, z=-6290.16, cpos=[-198, -394], tl=471571, v=true] died, message: 'Nitwit was slain by Zombie'
+[08:05:41] [Server thread/WARN]: TaFiz008 moved too quickly! -4.998312596386313,-0.3767356137817046,8.787335157436246
+[08:09:33] [User Authenticator #25/INFO]: UUID of player 100ksup is d602ce8a-bdd0-4560-a6e4-8fa4afee8a17
+[08:09:35] [Server thread/INFO]: 100ksup joined the game
+[08:09:35] [Server thread/INFO]: 100ksup[/[0:0:0:0:0:0:0:1%0]:40500] logged in with entity id 200395 at ([world]293.5, 29.0, -16.5)
+[08:09:40] [Async Chat Thread - #97/INFO]: <EvoKoifis> 100ksup
+[08:09:42] [Async Chat Thread - #97/INFO]: <EvoKoifis> chicken
+[08:09:54] [Async Chat Thread - #97/INFO]: <100ksup> wtf spawn duoi hang
+[08:10:00] [Async Chat Thread - #97/INFO]: <EvoKoifis> tot
+[08:10:07] [Server thread/INFO]: 100ksup fell from a high place
+[08:10:14] [Async Chat Thread - #97/INFO]: <EvoKoifis> chua gi da chet
+[08:10:19] [Async Chat Thread - #97/INFO]: <EvoKoifis> thieu ban linh qua anh oi
+[08:10:29] [Async Chat Thread - #97/INFO]: <100ksup> muot phet nhi
+[08:10:46] [Server thread/INFO]: 100ksup has made the advancement [Stone Age]
+[08:10:52] [Server thread/INFO]: 100ksup has made the advancement [Getting an Upgrade]
+[08:12:56] [Async Chat Thread - #99/INFO]: <100ksup> speedrun duoc ko ae
+[08:13:01] [Async Chat Thread - #99/INFO]: <canhvjp> dc nha
+[08:13:09] [Async Chat Thread - #100/INFO]: <canhvjp> bon t cx speedrun ma
+[08:13:13] [Async Chat Thread - #100/INFO]: <EvoKoifis> nhung khuyet tat ket thuc roi
+[08:13:15] [Async Chat Thread - #100/INFO]: <canhvjp> xong dc may ngay r
+[08:13:27] [Async Chat Thread - #100/INFO]: <100ksup> the danh rong chua
+[08:13:32] [Async Chat Thread - #100/INFO]: <EvoKoifis> chua
+[08:13:33] [Async Chat Thread - #100/INFO]: <canhvjp> chua'
+[08:13:35] [Async Chat Thread - #100/INFO]: <EvoKoifis> the moi bao
+[08:13:36] [Async Chat Thread - #100/INFO]: <canhvjp> ko mo the end
+[08:13:37] [Async Chat Thread - #100/INFO]: <TaFiz008> gio kien di cay crystal hoi sinh rong di
+[08:13:39] [Async Chat Thread - #100/INFO]: <EvoKoifis> khuyet tat ket thuc
+[08:13:59] [Paper Common Worker #0/ERROR]: Failed to fetch mob spawner entity at (-80427, -46, 80711)
+[08:15:00] [Server thread/WARN]: Birch Boat (vehicle of 100ksup) moved wrongly! 0.49522741949138244
+[08:15:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2759ms or 55 ticks behind
+[08:15:42] [Server thread/WARN]: Birch Boat (vehicle of 100ksup) moved too quickly! 4.7606049447424255,0.0,-19.834394651909065
+[08:15:42] [Server thread/WARN]: Birch Boat (vehicle of 100ksup) moved too quickly! 4.854575831865219,0.0,-20.223198616733953
+[08:15:42] [Server thread/WARN]: Birch Boat (vehicle of 100ksup) moved too quickly! 4.948548586681056,0.0,-20.612002240890092
+[08:15:42] [Server thread/WARN]: Birch Boat (vehicle of 100ksup) moved too quickly! 5.042523022420582,0.0,-21.000805558444313
+[08:15:42] [Server thread/WARN]: Birch Boat (vehicle of 100ksup) moved too quickly! 5.136498970991397,0.0,-21.389608600056818
+[08:15:42] [Server thread/WARN]: Birch Boat (vehicle of 100ksup) moved too quickly! 5.230476281110327,0.0,-21.77841139332179
+[08:15:42] [Server thread/WARN]: Birch Boat (vehicle of 100ksup) moved too quickly! 5.324454816622534,0.0,-22.167213963074005
+[08:18:55] [Async Chat Thread - #101/INFO]: <PH1008> ra nhieu k
+[08:19:28] [Async Chat Thread - #101/INFO]: <PH1008> 5
+[08:19:39] [Server thread/INFO]: 100ksup has made the advancement [Sweet Dreams]
+[08:20:14] [Async Chat Thread - #102/INFO]: <100ksup> toi qua ae
+[08:20:24] [Async Chat Thread - #102/INFO]: <TaFiz008> cai pack fullbright
+[08:20:37] [Async Chat Thread - #102/INFO]: <canhvjp> hack qua ae oi
+[08:20:44] [Async Chat Thread - #102/INFO]: <100ksup> real
+[08:20:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3098ms or 61 ticks behind
+[08:20:54] [Async Chat Thread - #102/INFO]: <TaFiz008> nam ngoai smp m hack chu ai
+[08:20:57] [Async Chat Thread - #102/INFO]: <TaFiz008> bay bay cac kieu
+[08:21:04] [Async Chat Thread - #102/INFO]: <TaFiz008> bay gio to ve thanh cao
+[08:23:22] [Server thread/INFO]: 100ksup has made the advancement [Acquire Hardware]
+[08:23:43] [Server thread/INFO]: 100ksup has made the advancement [Isn't It Iron Pick]
+[08:25:39] [Async Chat Thread - #103/INFO]: <EvoKoifis> cac anh biet hay vay
+[08:25:47] [Server thread/WARN]: EvoKoifis moved too quickly! -2.6458200793204014,0.3612031463477834,-9.9863087040776
+[08:26:20] [Async Chat Thread - #103/INFO]: <PH1008> raid thi chuyen khos
+[08:27:09] [Server thread/INFO]: 100ksup has made the advancement [Hot Stuff]
+[08:27:15] [Async Chat Thread - #104/INFO]: <TaFiz008> nhanh qua anh oi
+[08:27:23] [Async Chat Thread - #104/INFO]: <TaFiz008> dung speedrun
+[08:27:28] [Async Chat Thread - #104/INFO]: <TaFiz008> coi chung moi nguoi thoat game
+[08:27:35] [Async Chat Thread - #104/INFO]: <100ksup> ok anh oi
+[08:27:39] [Async Chat Thread - #104/INFO]: <EvoKoifis> ti nua kien cung chet
+[08:27:40] [Async Chat Thread - #104/INFO]: <EvoKoifis> kk
+[08:27:48] [Async Chat Thread - #104/INFO]: <100ksup> m dam khinh thuong t
+[08:27:50] [Async Chat Thread - #104/INFO]: <100ksup> kk
+[08:28:06] [Async Chat Thread - #104/INFO]: <EvoKoifis> khinh thuong gi
+[08:28:08] [Async Chat Thread - #104/INFO]: <EvoKoifis> day la factos
+[08:28:37] [Server thread/INFO]: 100ksup has made the advancement [We Need to Go Deeper]
+[08:28:57] [Async Chat Thread - #104/INFO]: <TaFiz008> kien dang o ring 1 a
+[08:29:04] [Async Chat Thread - #104/INFO]: <100ksup> u sao
+[08:29:09] [Server thread/INFO]: canhvjp has made the advancement [Spooky Scary Skeleton]
+[08:29:09] [Async Chat Thread - #104/INFO]: <TaFiz008> the thi ve ow di
+[08:29:14] [Async Chat Thread - #104/INFO]: <TaFiz008> ring 1 no loot sach r
+[08:29:18] [Async Chat Thread - #104/INFO]: <TaFiz008> ko den luot m dau
+[08:29:21] [Async Chat Thread - #104/INFO]: <EvoKoifis> ma shrddr choi co 1 ngay
+[08:29:23] [Async Chat Thread - #104/INFO]: <EvoKoifis> gio cha choi nua
+[08:29:36] [Async Chat Thread - #103/INFO]: <100ksup> the co ai lay trung rong chua
+[08:29:37] [Async Chat Thread - #103/INFO]: <EvoKoifis> khong phai em ph oi
+[08:29:40] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[08:29:40] [Server thread/INFO]: canhvjp left the game
+[08:29:42] [Async Chat Thread - #103/INFO]: <EvoKoifis> DA GIET RONG DAU
+[08:29:43] [User Authenticator #26/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[08:29:44] [Server thread/INFO]: canhvjp joined the game
+[08:29:44] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:32800] logged in with entity id 232820 at ([world_nether]-4241.955657987726, 57.0, 2395.4633166262815)
+[08:29:48] [Async Chat Thread - #103/INFO]: <100ksup> ok ok
+[08:29:53] [Async Chat Thread - #103/INFO]: <EvoKoifis> anh nay chicken a
+[08:29:56] [Async Chat Thread - #103/INFO]: <EvoKoifis> nay bao chua danh rong
+[08:30:20] [Async Chat Thread - #103/INFO]: <EvoKoifis> anh nay cu doi giet rong
+[08:30:25] [Async Chat Thread - #103/INFO]: <EvoKoifis> co khi chua den bastion
+[08:30:27] [Async Chat Thread - #104/INFO]: <EvoKoifis> da chet
+[08:30:32] [Async Chat Thread - #104/INFO]: <100ksup> nhin thay 1 tieng nua
+[08:30:37] [Async Chat Thread - #103/INFO]: <100ksup> the next generation
+[08:30:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3134ms or 62 ticks behind
+[08:30:48] [Server thread/WARN]: TaFiz008 moved too quickly! -2.489521258219611,1.0,9.886279028272838
+[08:30:48] [Server thread/WARN]: canhvjp moved too quickly! 10.048342355004024,-1.6620745819514156,1.5958885723066487
+[08:30:50] [Async Chat Thread - #103/INFO]: <EvoKoifis> ket thuc khuyet tat roi anh
+[08:31:02] [Async Chat Thread - #103/INFO]: <EvoKoifis> em xin loi
+[08:31:04] [Async Chat Thread - #103/INFO]: <100ksup> ket thuc khuyet tat la clg
+[08:31:12] [Async Chat Thread - #103/INFO]: <EvoKoifis> disable end
+[08:31:15] [Async Chat Thread - #103/INFO]: <PH1008> density la cai d j
+[08:31:23] [Async Chat Thread - #103/INFO]: <PH1008> enchant moi a
+[08:31:27] [Async Chat Thread - #103/INFO]: <100ksup> the choi cdg
+[08:31:43] [Async Chat Thread - #103/INFO]: <100ksup> ae o dau t den phat
+[08:31:46] [Async Chat Thread - #103/INFO]: <PH1008> dcm
+[08:31:55] [Server thread/INFO]: TaFiz008 issued server command: /msg 100ksup /execute in minecraft:overworld run tp @s -83219.09 62.11 82719.80 40.39 37.25
+[08:32:06] [Async Chat Thread - #103/INFO]: <100ksup> wtf
+[08:32:06] [Async Chat Thread - #103/INFO]: <PH1008> ggggggggggggggggg
+[08:32:12] [Async Chat Thread - #103/INFO]: <100ksup> 100k block a
+[08:32:12] [Async Chat Thread - #103/INFO]: <EvoKoifis> cjv
+[08:32:19] [Async Chat Thread - #103/INFO]: <canhvjp> moi co 40k
+[08:32:20] [Server thread/INFO]: TaFiz008 issued server command: /msg 100ksup dung leak coord t ☻
+[08:32:41] [Async Chat Thread - #104/INFO]: <PH1008> gia tronh la cai deo gi
+[08:32:46] [Async Chat Thread - #104/INFO]: <PH1008> gia trongj
+[08:32:50] [Async Chat Thread - #104/INFO]: <100ksup> cho the mace
+[08:32:52] [Async Chat Thread - #104/INFO]: <PH1008> gia trongj 4
+[08:32:54] [Async Chat Thread - #104/INFO]: <PH1008> vai l
+[08:32:55] [Async Chat Thread - #104/INFO]: <100ksup> m ko xem anh dacvucat roi
+[08:33:25] [Async Chat Thread - #104/INFO]: <EvoKoifis> lang 3 tan
+[08:33:42] [Paper Common Worker #0/ERROR]: Failed to fetch mob spawner entity at (-83063, -48, 83182)
+[08:35:37] [Async Chat Thread - #105/INFO]: <EvoKoifis> anh ronaldo nam nay hoi den
+[08:35:47] [Async Chat Thread - #105/INFO]: <EvoKoifis> anh ronaldo penalty truot
+[08:35:48] [Async Chat Thread - #105/INFO]: <100ksup> m hoi chim be
+[08:35:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2815ms or 56 ticks behind
+[08:36:01] [Async Chat Thread - #105/INFO]: <EvoKoifis> to hon anh la tot ro
+[08:36:30] [Server thread/WARN]: canhvjp was kicked for floating too long!
+[08:36:30] [Server thread/INFO]: canhvjp lost connection: Flying is not enabled on this server
+[08:36:30] [Server thread/INFO]: canhvjp left the game
+[08:36:34] [User Authenticator #27/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[08:36:35] [Server thread/INFO]: canhvjp joined the game
+[08:36:35] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:48852] logged in with entity id 242343 at ([world_nether]-4263.779905673926, 53.81290757981593, 2442.61128350352)
+[08:37:14] [Async Chat Thread - #105/INFO]: <EvoKoifis> ti thanh
+[08:37:17] [Async Chat Thread - #105/INFO]: <EvoKoifis> du mick 2.0
+[08:37:27] [Server thread/INFO]: 100ksup has made the advancement [Monster Hunter]
+[08:37:50] [Async Chat Thread - #105/INFO]: <EvoKoifis> tuong la slow falling?
+[08:38:14] [Async Chat Thread - #105/INFO]: <EvoKoifis> cong long ga
+[08:38:18] [Async Chat Thread - #105/INFO]: <EvoKoifis> hay la cong long gi
+[08:39:38] [Async Chat Thread - #108/INFO]: <100ksup> deo biet lam clg luon
+[08:39:42] [Async Chat Thread - #108/INFO]: <EvoKoifis> poor kid
+[08:40:21] [Async Chat Thread - #108/INFO]: <EvoKoifis> cai thang iago aspas nay cam mom vao
+[08:40:24] [Async Chat Thread - #108/INFO]: <EvoKoifis> gay khung khiep
+[08:40:38] [Async Chat Thread - #108/INFO]: <EvoKoifis> khoan thuc ra minh cung gay
+[08:40:38] [Async Chat Thread - #108/INFO]: <EvoKoifis> sob
+[08:40:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2972ms or 59 ticks behind
+[08:40:54] [Server thread/WARN]: 100ksup moved too quickly! -2.702419297556446,-6.998664020887851,-14.449919543430951
+[08:41:04] [Async Chat Thread - #109/INFO]: <EvoKoifis> no doi roi
+[08:41:04] [Async Chat Thread - #109/INFO]: <EvoKoifis> khoc
+[08:41:51] [Async Chat Thread - #109/INFO]: <EvoKoifis> xuong den thuc ra co khi huu dung hon ca xuong trang
+[08:41:58] [Async Chat Thread - #109/INFO]: <EvoKoifis> minecraft ended racism
+[08:42:21] [Server thread/INFO]: canhvjp has made the advancement [Withering Heights]
+[08:42:29] [Async Chat Thread - #108/INFO]: <100ksup> vai lon danh wither
+[08:42:38] [Async Chat Thread - #108/INFO]: <EvoKoifis> lag server
+[08:42:42] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21-57-0e02aa5 (MC: 1.21) ---
+[08:42:42] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[08:42:42] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:42:42] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:42:42] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:wither, entity class: net.minecraft.world.entity.boss.wither.WitherBoss
+[08:42:42] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
+[08:42:42] [Paper Watchdog Thread/ERROR]: Entity UUID: c0f8f031-554c-4cef-af44-51f23a13802f
+[08:42:42] [Paper Watchdog Thread/ERROR]: Position: world: 'world_nether' at location (-4251.5, 128.0, 2475.5)
+[08:42:42] [Paper Watchdog Thread/ERROR]: Velocity: (0.0, -0.04704000091552734, 0.0) (in blocks per tick)
+[08:42:42] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[-4251.949999988079, 128.0, 2475.050000011921] -> [-4251.050000011921, 131.5, 2475.949999988079]
+[08:42:42] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:42:42] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:42:42] [Paper Watchdog Thread/ERROR]: 	PID: 38 | Suspended: false | Native: false | State: RUNNABLE
+[08:42:42] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Explosion.explode(Explosion.java:508)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1466)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.explode(ServerLevel.java:1753)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1420)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.customServerAiStep(WitherBoss.java:278)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.serverAiStep(Mob.java:948)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3470)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.aiStep(Mob.java:680)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.aiStep(WitherBoss.java:203)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3173)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:447)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1252)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x0000732549316000.accept(Unknown Source)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:1376)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$6(ServerLevel.java:770)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x000073254921c918.accept(Unknown Source)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:750)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1798)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1602)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1309)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000732548bfb1c0.run(Unknown Source)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:42:42] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:42:42] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:42:42] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:42:42] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:42:42] [User Authenticator #28/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[08:42:45] [Async Chat Thread - #108/INFO]: <EvoKoifis> lag
+[08:42:47] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21-57-0e02aa5 (MC: 1.21) ---
+[08:42:47] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
+[08:42:47] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:42:47] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:42:47] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:wither, entity class: net.minecraft.world.entity.boss.wither.WitherBoss
+[08:42:47] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
+[08:42:47] [Paper Watchdog Thread/ERROR]: Entity UUID: c0f8f031-554c-4cef-af44-51f23a13802f
+[08:42:47] [Paper Watchdog Thread/ERROR]: Position: world: 'world_nether' at location (-4251.5, 128.0, 2475.5)
+[08:42:47] [Paper Watchdog Thread/ERROR]: Velocity: (0.0, -0.04704000091552734, 0.0) (in blocks per tick)
+[08:42:47] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[-4251.949999988079, 128.0, 2475.050000011921] -> [-4251.050000011921, 131.5, 2475.949999988079]
+[08:42:47] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:42:47] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:42:47] [Paper Watchdog Thread/ERROR]: 	PID: 38 | Suspended: false | Native: false | State: RUNNABLE
+[08:42:47] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Explosion.explode(Explosion.java:508)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1466)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.explode(ServerLevel.java:1753)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1420)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.customServerAiStep(WitherBoss.java:278)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.serverAiStep(Mob.java:948)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3470)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.aiStep(Mob.java:680)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.aiStep(WitherBoss.java:203)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3173)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:447)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1252)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x0000732549316000.accept(Unknown Source)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:1376)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$6(ServerLevel.java:770)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x000073254921c918.accept(Unknown Source)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:750)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1798)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1602)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1309)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000732548bfb1c0.run(Unknown Source)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:42:47] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:42:47] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:42:47] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:42:47] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:42:49] [Async Chat Thread - #108/INFO]: <PH1008> lag
+[08:42:51] [Async Chat Thread - #108/INFO]: <100ksup> thoi chac lay xay lavacast
+[08:42:52] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21-57-0e02aa5 (MC: 1.21) ---
+[08:42:52] [Paper Watchdog Thread/ERROR]: The server has not responded for 20 seconds! Creating thread dump
+[08:42:52] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:42:52] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:42:52] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:wither, entity class: net.minecraft.world.entity.boss.wither.WitherBoss
+[08:42:52] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
+[08:42:52] [Paper Watchdog Thread/ERROR]: Entity UUID: c0f8f031-554c-4cef-af44-51f23a13802f
+[08:42:52] [Paper Watchdog Thread/ERROR]: Position: world: 'world_nether' at location (-4251.5, 128.0, 2475.5)
+[08:42:52] [Paper Watchdog Thread/ERROR]: Velocity: (0.0, -0.04704000091552734, 0.0) (in blocks per tick)
+[08:42:52] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[-4251.949999988079, 128.0, 2475.050000011921] -> [-4251.050000011921, 131.5, 2475.949999988079]
+[08:42:52] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:42:52] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:42:52] [Paper Watchdog Thread/ERROR]: 	PID: 38 | Suspended: false | Native: false | State: RUNNABLE
+[08:42:52] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Explosion.explode(Explosion.java:508)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1466)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.explode(ServerLevel.java:1753)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1420)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.customServerAiStep(WitherBoss.java:278)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.serverAiStep(Mob.java:948)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3470)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.aiStep(Mob.java:680)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.aiStep(WitherBoss.java:203)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3173)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:447)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1252)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x0000732549316000.accept(Unknown Source)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:1376)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$6(ServerLevel.java:770)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x000073254921c918.accept(Unknown Source)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:750)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1798)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1602)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1309)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000732548bfb1c0.run(Unknown Source)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:42:52] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:42:52] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:42:52] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:42:52] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:42:53] [User Authenticator #28/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[08:42:54] [Async Chat Thread - #108/INFO]: <EvoKoifis> khong pick up duoc
+[08:42:57] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21-57-0e02aa5 (MC: 1.21) ---
+[08:42:57] [Paper Watchdog Thread/ERROR]: The server has not responded for 25 seconds! Creating thread dump
+[08:42:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:42:57] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:42:57] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:wither, entity class: net.minecraft.world.entity.boss.wither.WitherBoss
+[08:42:57] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
+[08:42:57] [Paper Watchdog Thread/ERROR]: Entity UUID: c0f8f031-554c-4cef-af44-51f23a13802f
+[08:42:57] [Paper Watchdog Thread/ERROR]: Position: world: 'world_nether' at location (-4251.5, 128.0, 2475.5)
+[08:42:57] [Paper Watchdog Thread/ERROR]: Velocity: (0.0, -0.04704000091552734, 0.0) (in blocks per tick)
+[08:42:57] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[-4251.949999988079, 128.0, 2475.050000011921] -> [-4251.050000011921, 131.5, 2475.949999988079]
+[08:42:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:42:57] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:42:57] [Paper Watchdog Thread/ERROR]: 	PID: 38 | Suspended: false | Native: false | State: RUNNABLE
+[08:42:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Explosion.explode(Explosion.java:508)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1466)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.explode(ServerLevel.java:1753)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1420)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.customServerAiStep(WitherBoss.java:278)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.serverAiStep(Mob.java:948)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3470)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.aiStep(Mob.java:680)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.aiStep(WitherBoss.java:203)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3173)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:447)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1252)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x0000732549316000.accept(Unknown Source)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:1376)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$6(ServerLevel.java:770)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x000073254921c918.accept(Unknown Source)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:750)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1798)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1602)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1309)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000732548bfb1c0.run(Unknown Source)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:42:57] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:42:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:42:57] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:42:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:02] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21-57-0e02aa5 (MC: 1.21) ---
+[08:43:02] [Paper Watchdog Thread/ERROR]: The server has not responded for 30 seconds! Creating thread dump
+[08:43:02] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:02] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:43:02] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:wither, entity class: net.minecraft.world.entity.boss.wither.WitherBoss
+[08:43:02] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
+[08:43:02] [Paper Watchdog Thread/ERROR]: Entity UUID: c0f8f031-554c-4cef-af44-51f23a13802f
+[08:43:02] [Paper Watchdog Thread/ERROR]: Position: world: 'world_nether' at location (-4251.5, 128.0, 2475.5)
+[08:43:02] [Paper Watchdog Thread/ERROR]: Velocity: (0.0, -0.04704000091552734, 0.0) (in blocks per tick)
+[08:43:02] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[-4251.949999988079, 128.0, 2475.050000011921] -> [-4251.050000011921, 131.5, 2475.949999988079]
+[08:43:02] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:02] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:43:02] [Paper Watchdog Thread/ERROR]: 	PID: 38 | Suspended: false | Native: false | State: RUNNABLE
+[08:43:02] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Explosion.explode(Explosion.java:508)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1466)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.explode(ServerLevel.java:1753)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1420)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.customServerAiStep(WitherBoss.java:278)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.serverAiStep(Mob.java:948)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3470)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.aiStep(Mob.java:680)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.aiStep(WitherBoss.java:203)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3173)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:447)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1252)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x0000732549316000.accept(Unknown Source)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:1376)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$6(ServerLevel.java:770)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x000073254921c918.accept(Unknown Source)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:750)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1798)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1602)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1309)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000732548bfb1c0.run(Unknown Source)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:02] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:02] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:02] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:43:02] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:06] [Async Chat Thread - #108/INFO]: <100ksup> real
+[08:43:07] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21-57-0e02aa5 (MC: 1.21) ---
+[08:43:07] [Paper Watchdog Thread/ERROR]: The server has not responded for 35 seconds! Creating thread dump
+[08:43:07] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:07] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:43:07] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:wither, entity class: net.minecraft.world.entity.boss.wither.WitherBoss
+[08:43:07] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
+[08:43:07] [Paper Watchdog Thread/ERROR]: Entity UUID: c0f8f031-554c-4cef-af44-51f23a13802f
+[08:43:07] [Paper Watchdog Thread/ERROR]: Position: world: 'world_nether' at location (-4251.5, 128.0, 2475.5)
+[08:43:07] [Paper Watchdog Thread/ERROR]: Velocity: (0.0, -0.04704000091552734, 0.0) (in blocks per tick)
+[08:43:07] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[-4251.949999988079, 128.0, 2475.050000011921] -> [-4251.050000011921, 131.5, 2475.949999988079]
+[08:43:07] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:07] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:43:07] [Paper Watchdog Thread/ERROR]: 	PID: 38 | Suspended: false | Native: false | State: RUNNABLE
+[08:43:07] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Explosion.explode(Explosion.java:508)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1466)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.explode(ServerLevel.java:1753)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1420)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.customServerAiStep(WitherBoss.java:278)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.serverAiStep(Mob.java:948)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3470)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.aiStep(Mob.java:680)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.aiStep(WitherBoss.java:203)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3173)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:447)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1252)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x0000732549316000.accept(Unknown Source)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:1376)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$6(ServerLevel.java:770)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x000073254921c918.accept(Unknown Source)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:750)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1798)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1602)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1309)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000732548bfb1c0.run(Unknown Source)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:07] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:07] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:07] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:43:07] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:10] [Async Chat Thread - #108/INFO]: <100ksup> deo an duoc
+[08:43:10] [User Authenticator #28/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[08:43:12] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21-57-0e02aa5 (MC: 1.21) ---
+[08:43:12] [Paper Watchdog Thread/ERROR]: The server has not responded for 40 seconds! Creating thread dump
+[08:43:12] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:12] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:43:12] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:wither, entity class: net.minecraft.world.entity.boss.wither.WitherBoss
+[08:43:12] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
+[08:43:12] [Paper Watchdog Thread/ERROR]: Entity UUID: c0f8f031-554c-4cef-af44-51f23a13802f
+[08:43:12] [Paper Watchdog Thread/ERROR]: Position: world: 'world_nether' at location (-4251.5, 128.0, 2475.5)
+[08:43:12] [Paper Watchdog Thread/ERROR]: Velocity: (0.0, -0.04704000091552734, 0.0) (in blocks per tick)
+[08:43:12] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[-4251.949999988079, 128.0, 2475.050000011921] -> [-4251.050000011921, 131.5, 2475.949999988079]
+[08:43:12] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:12] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:43:12] [Paper Watchdog Thread/ERROR]: 	PID: 38 | Suspended: false | Native: false | State: RUNNABLE
+[08:43:12] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Explosion.explode(Explosion.java:508)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1466)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.explode(ServerLevel.java:1753)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1420)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.customServerAiStep(WitherBoss.java:278)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.serverAiStep(Mob.java:948)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3470)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.aiStep(Mob.java:680)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.aiStep(WitherBoss.java:203)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3173)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:447)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1252)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x0000732549316000.accept(Unknown Source)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:1376)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$6(ServerLevel.java:770)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x000073254921c918.accept(Unknown Source)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:750)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1798)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1602)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1309)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000732548bfb1c0.run(Unknown Source)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:12] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:12] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:12] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:43:12] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:17] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21-57-0e02aa5 (MC: 1.21) ---
+[08:43:17] [Paper Watchdog Thread/ERROR]: The server has not responded for 45 seconds! Creating thread dump
+[08:43:17] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:17] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:43:17] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:wither, entity class: net.minecraft.world.entity.boss.wither.WitherBoss
+[08:43:17] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
+[08:43:17] [Paper Watchdog Thread/ERROR]: Entity UUID: c0f8f031-554c-4cef-af44-51f23a13802f
+[08:43:17] [Paper Watchdog Thread/ERROR]: Position: world: 'world_nether' at location (-4251.5, 128.0, 2475.5)
+[08:43:17] [Paper Watchdog Thread/ERROR]: Velocity: (0.0, -0.04704000091552734, 0.0) (in blocks per tick)
+[08:43:17] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[-4251.949999988079, 128.0, 2475.050000011921] -> [-4251.050000011921, 131.5, 2475.949999988079]
+[08:43:17] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:17] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:43:17] [Paper Watchdog Thread/ERROR]: 	PID: 38 | Suspended: false | Native: false | State: RUNNABLE
+[08:43:17] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Explosion.explode(Explosion.java:508)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1466)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.explode(ServerLevel.java:1753)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1420)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.customServerAiStep(WitherBoss.java:278)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.serverAiStep(Mob.java:948)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3470)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.aiStep(Mob.java:680)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.aiStep(WitherBoss.java:203)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3173)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:447)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1252)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x0000732549316000.accept(Unknown Source)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:1376)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$6(ServerLevel.java:770)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x000073254921c918.accept(Unknown Source)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:750)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1798)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1602)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1309)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000732548bfb1c0.run(Unknown Source)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:17] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:17] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:17] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:43:17] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:22] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21-57-0e02aa5 (MC: 1.21) ---
+[08:43:22] [Paper Watchdog Thread/ERROR]: The server has not responded for 50 seconds! Creating thread dump
+[08:43:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:22] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:43:22] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:wither, entity class: net.minecraft.world.entity.boss.wither.WitherBoss
+[08:43:22] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
+[08:43:22] [Paper Watchdog Thread/ERROR]: Entity UUID: c0f8f031-554c-4cef-af44-51f23a13802f
+[08:43:22] [Paper Watchdog Thread/ERROR]: Position: world: 'world_nether' at location (-4251.5, 128.0, 2475.5)
+[08:43:22] [Paper Watchdog Thread/ERROR]: Velocity: (0.0, -0.04704000091552734, 0.0) (in blocks per tick)
+[08:43:22] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[-4251.949999988079, 128.0, 2475.050000011921] -> [-4251.050000011921, 131.5, 2475.949999988079]
+[08:43:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:22] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:43:22] [Paper Watchdog Thread/ERROR]: 	PID: 38 | Suspended: false | Native: false | State: RUNNABLE
+[08:43:22] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Explosion.explode(Explosion.java:508)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1466)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.explode(ServerLevel.java:1753)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1420)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.customServerAiStep(WitherBoss.java:278)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.serverAiStep(Mob.java:948)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3470)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.aiStep(Mob.java:680)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.aiStep(WitherBoss.java:203)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3173)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:447)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1252)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x0000732549316000.accept(Unknown Source)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:1376)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$6(ServerLevel.java:770)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x000073254921c918.accept(Unknown Source)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:750)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1798)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1602)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1309)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000732548bfb1c0.run(Unknown Source)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:22] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:22] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:43:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:27] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21-57-0e02aa5 (MC: 1.21) ---
+[08:43:27] [Paper Watchdog Thread/ERROR]: The server has not responded for 55 seconds! Creating thread dump
+[08:43:27] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:27] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:43:27] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:wither, entity class: net.minecraft.world.entity.boss.wither.WitherBoss
+[08:43:27] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
+[08:43:27] [Paper Watchdog Thread/ERROR]: Entity UUID: c0f8f031-554c-4cef-af44-51f23a13802f
+[08:43:27] [Paper Watchdog Thread/ERROR]: Position: world: 'world_nether' at location (-4251.5, 128.0, 2475.5)
+[08:43:27] [Paper Watchdog Thread/ERROR]: Velocity: (0.0, -0.04704000091552734, 0.0) (in blocks per tick)
+[08:43:27] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[-4251.949999988079, 128.0, 2475.050000011921] -> [-4251.050000011921, 131.5, 2475.949999988079]
+[08:43:27] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:27] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:43:27] [Paper Watchdog Thread/ERROR]: 	PID: 38 | Suspended: false | Native: false | State: RUNNABLE
+[08:43:27] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Explosion.explode(Explosion.java:508)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1466)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.explode(ServerLevel.java:1753)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1420)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.customServerAiStep(WitherBoss.java:278)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.serverAiStep(Mob.java:948)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3470)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.aiStep(Mob.java:680)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.aiStep(WitherBoss.java:203)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3173)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:447)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1252)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x0000732549316000.accept(Unknown Source)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:1376)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$6(ServerLevel.java:770)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x000073254921c918.accept(Unknown Source)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:750)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1798)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1602)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1309)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000732548bfb1c0.run(Unknown Source)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:27] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:27] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:27] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:43:27] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:29] [User Authenticator #28/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[08:43:32] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21-57-0e02aa5 (MC: 1.21) ---
+[08:43:32] [Paper Watchdog Thread/ERROR]: The server has not responded for 60 seconds! Creating thread dump
+[08:43:32] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:32] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:43:32] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:wither, entity class: net.minecraft.world.entity.boss.wither.WitherBoss
+[08:43:32] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
+[08:43:32] [Paper Watchdog Thread/ERROR]: Entity UUID: c0f8f031-554c-4cef-af44-51f23a13802f
+[08:43:32] [Paper Watchdog Thread/ERROR]: Position: world: 'world_nether' at location (-4251.5, 128.0, 2475.5)
+[08:43:32] [Paper Watchdog Thread/ERROR]: Velocity: (0.0, -0.04704000091552734, 0.0) (in blocks per tick)
+[08:43:32] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[-4251.949999988079, 128.0, 2475.050000011921] -> [-4251.050000011921, 131.5, 2475.949999988079]
+[08:43:32] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:32] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:43:32] [Paper Watchdog Thread/ERROR]: 	PID: 38 | Suspended: false | Native: false | State: RUNNABLE
+[08:43:32] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Explosion.explode(Explosion.java:508)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1466)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.explode(ServerLevel.java:1753)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1420)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.customServerAiStep(WitherBoss.java:278)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.serverAiStep(Mob.java:948)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3470)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.aiStep(Mob.java:680)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.aiStep(WitherBoss.java:203)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3173)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:447)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1252)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x0000732549316000.accept(Unknown Source)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:1376)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$6(ServerLevel.java:770)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x000073254921c918.accept(Unknown Source)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:750)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1798)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1602)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1309)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000732548bfb1c0.run(Unknown Source)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:32] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:32] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:32] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:43:32] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:33] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:33] [Paper Watchdog Thread/ERROR]: The server has stopped responding! This is (probably) not a Paper bug.
+[08:43:33] [Paper Watchdog Thread/ERROR]: If you see a plugin in the Server thread dump below, then please report it to that author
+[08:43:33] [Paper Watchdog Thread/ERROR]: 	 *Especially* if it looks like HTTP or MySQL operations are occurring
+[08:43:33] [Paper Watchdog Thread/ERROR]: If you see a world save or edit, then it means you did far more than your server can handle at once
+[08:43:33] [Paper Watchdog Thread/ERROR]: 	 If this is the case, consider increasing timeout-time in spigot.yml but note that this will replace the crash with LARGE lag spikes
+[08:43:33] [Paper Watchdog Thread/ERROR]: If you are unsure or still think this is a Paper bug, please report this to https://github.com/PaperMC/Paper/issues
+[08:43:33] [Paper Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
+[08:43:33] [Paper Watchdog Thread/ERROR]: Paper version: 1.21-57-0e02aa5 (MC: 1.21)
+[08:43:33] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:33] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:43:33] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:wither, entity class: net.minecraft.world.entity.boss.wither.WitherBoss
+[08:43:33] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
+[08:43:33] [Paper Watchdog Thread/ERROR]: Entity UUID: c0f8f031-554c-4cef-af44-51f23a13802f
+[08:43:33] [Paper Watchdog Thread/ERROR]: Position: world: 'world_nether' at location (-4251.5, 128.0, 2475.5)
+[08:43:33] [Paper Watchdog Thread/ERROR]: Velocity: (0.0, -0.04704000091552734, 0.0) (in blocks per tick)
+[08:43:33] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[-4251.949999988079, 128.0, 2475.050000011921] -> [-4251.050000011921, 131.5, 2475.949999988079]
+[08:43:33] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:33] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:43:33] [Paper Watchdog Thread/ERROR]: 	PID: 38 | Suspended: false | Native: false | State: RUNNABLE
+[08:43:33] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Explosion.explode(Explosion.java:508)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1466)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.explode(ServerLevel.java:1753)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1420)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.customServerAiStep(WitherBoss.java:278)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.serverAiStep(Mob.java:948)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3470)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.aiStep(Mob.java:680)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.aiStep(WitherBoss.java:203)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3173)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:447)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1252)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x0000732549316000.accept(Unknown Source)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:1376)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$6(ServerLevel.java:770)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x000073254921c918.accept(Unknown Source)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:750)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1798)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1602)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1309)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000732548bfb1c0.run(Unknown Source)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:33] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:33] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:33] [Paper Watchdog Thread/ERROR]: Entire Thread Dump:
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Reference Handler
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 9 | Suspended: false | Native: false | State: RUNNABLE
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.ref.Reference.processPendingReferences(Reference.java:246)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:208)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Finalizer
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 10 | Suspended: false | Native: false | State: WAITING
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Object.wait0(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Object.wait(Object.java:366)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Object.wait(Object.java:339)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.ref.NativeReferenceQueue.await(NativeReferenceQueue.java:48)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:158)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.ref.NativeReferenceQueue.remove(NativeReferenceQueue.java:89)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:173)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Signal Dispatcher
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 11 | Suspended: false | Native: false | State: RUNNABLE
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Notification Thread
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 17 | Suspended: false | Native: false | State: RUNNABLE
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Common-Cleaner
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 18 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/jdk.internal.misc.Unsafe.park(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1847)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:186)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: DestroyJavaVM
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 23 | Suspended: false | Native: false | State: RUNNABLE
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Log4j2-AsyncAppenderEventDispatcher-1-Async
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 28 | Suspended: false | Native: false | State: RUNNABLE
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		Locked on:java.base@21.0.3/java.io.PrintWriter.flush(PrintWriter.java:418)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		Locked on:net.minecrell.terminalconsole.TerminalConsoleAppender.print(TerminalConsoleAppender.java:263)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.io.FileOutputStream.writeBytes(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.io.FileOutputStream.write(FileOutputStream.java:367)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/sun.nio.cs.StreamEncoder.writeBytes(StreamEncoder.java:309)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/sun.nio.cs.StreamEncoder.implFlushBuffer(StreamEncoder.java:405)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/sun.nio.cs.StreamEncoder.implFlush(StreamEncoder.java:410)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/sun.nio.cs.StreamEncoder.lockedFlush(StreamEncoder.java:214)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/sun.nio.cs.StreamEncoder.flush(StreamEncoder.java:201)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.io.OutputStreamWriter.flush(OutputStreamWriter.java:262)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.io.PrintWriter.implFlush(PrintWriter.java:426)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.io.PrintWriter.flush(PrintWriter.java:418)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.jline.terminal.impl.AbstractTerminal.flush(AbstractTerminal.java:177)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.jline.utils.Display.update(Display.java:332)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.jline.utils.Display.update(Display.java:103)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.jline.reader.impl.LineReaderImpl.printAbove(LineReaderImpl.java:770)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecrell.terminalconsole.TerminalConsoleAppender.print(TerminalConsoleAppender.java:263)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecrell.terminalconsole.TerminalConsoleAppender.append(TerminalConsoleAppender.java:256)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:160)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:133)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:124)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:88)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.rewrite.RewriteAppender.append(RewriteAppender.java:89)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:160)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:133)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:124)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:88)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.rewrite.RewriteAppender.append(RewriteAppender.java:89)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:160)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:133)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:124)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:88)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.AsyncAppenderEventDispatcher.dispatch(AsyncAppenderEventDispatcher.java:127)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.AsyncAppenderEventDispatcher.dispatchAll(AsyncAppenderEventDispatcher.java:91)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.AsyncAppenderEventDispatcher.run(AsyncAppenderEventDispatcher.java:73)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: JNA Cleaner
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 30 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/jdk.internal.misc.Unsafe.park(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1847)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		com.sun.jna.internal.Cleaner$CleanerThread.run(Cleaner.java:154)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Timer hack thread
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 33 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.sleep0(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.sleep(Thread.java:509)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.Util$7.run(Util.java:785)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Yggdrasil Key Fetcher
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 34 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/jdk.internal.misc.Unsafe.park(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1758)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Worker-Main-1
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 37 | Suspended: false | Native: false | State: WAITING
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/jdk.internal.misc.Unsafe.park(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3780)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3725)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1707)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 38 | Suspended: false | Native: false | State: RUNNABLE
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Explosion.explode(Explosion.java:508)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1466)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.explode(ServerLevel.java:1753)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.explode(Level.java:1420)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.customServerAiStep(WitherBoss.java:278)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.serverAiStep(Mob.java:948)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3470)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.aiStep(Mob.java:680)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:45)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.boss.wither.WitherBoss.aiStep(WitherBoss.java:203)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3173)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:447)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1252)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x0000732549316000.accept(Unknown Source)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:1376)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$6(ServerLevel.java:770)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel$$Lambda/0x000073254921c918.accept(Unknown Source)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:39)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:750)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1798)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1602)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1309)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000732548bfb1c0.run(Unknown Source)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Paper Common Worker #0
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 45 | Suspended: false | Native: false | State: WAITING
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/jdk.internal.misc.Unsafe.park(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.LockSupport.park(LockSupport.java:221)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.concurrentutil.executor.standard.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:97)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: RegionFile I/O Thread #0
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 46 | Suspended: false | Native: false | State: WAITING
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/jdk.internal.misc.Unsafe.park(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.LockSupport.park(LockSupport.java:221)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.concurrentutil.executor.standard.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:97)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Paper Watchdog Thread
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 47 | Suspended: false | Native: false | State: RUNNABLE
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.management@21.0.3/sun.management.ThreadImpl.dumpThreads0(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.management@21.0.3/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:518)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.management@21.0.3/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:506)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.spigotmc.WatchdogThread.run(WatchdogThread.java:202)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Server console handler
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 40 | Suspended: false | Native: false | State: RUNNABLE
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.io.FileInputStream.read0(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.io.FileInputStream.read(FileInputStream.java:231)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.jline.keymap.BindingReader.readBinding(BindingReader.java:61)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:117)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: pool-8-thread-1
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 48 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/jdk.internal.misc.Unsafe.park(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1758)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #0
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 52 | Suspended: false | Native: false | State: RUNNABLE
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait0(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:182)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:312)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:376)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Craft Async Scheduler Management Thread
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 53 | Suspended: false | Native: false | State: WAITING
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/jdk.internal.misc.Unsafe.park(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3780)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3725)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1707)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #1
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 54 | Suspended: false | Native: true | State: RUNNABLE
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:209)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:202)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:316)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:373)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #2
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 55 | Suspended: false | Native: true | State: RUNNABLE
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait0(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:182)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:312)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:376)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #3
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 64 | Suspended: false | Native: false | State: RUNNABLE
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait0(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:182)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:312)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:376)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Async Tab Complete Thread - #0
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 111 | Suspended: false | Native: false | State: WAITING
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/jdk.internal.misc.Unsafe.park(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3780)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3725)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1707)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Async Tab Complete Thread - #1
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 262 | Suspended: false | Native: false | State: WAITING
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/jdk.internal.misc.Unsafe.park(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3780)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3725)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1707)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Async Tab Complete Thread - #2
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 263 | Suspended: false | Native: false | State: WAITING
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/jdk.internal.misc.Unsafe.park(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3780)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3725)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1707)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Async Tab Complete Thread - #3
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 274 | Suspended: false | Native: false | State: WAITING
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/jdk.internal.misc.Unsafe.park(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3780)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3725)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1707)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Async Chat Thread - #108
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 361 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/jdk.internal.misc.Unsafe.park(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:410)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.LinkedTransferQueue$DualNode.await(LinkedTransferQueue.java:452)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.SynchronousQueue$Transferer.xferLifo(SynchronousQueue.java:194)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.SynchronousQueue.xfer(SynchronousQueue.java:233)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:336)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1069)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Async Chat Thread - #109
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 362 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/jdk.internal.misc.Unsafe.park(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:410)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.LinkedTransferQueue$DualNode.await(LinkedTransferQueue.java:452)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.SynchronousQueue$Transferer.xferLifo(SynchronousQueue.java:194)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.SynchronousQueue.xfer(SynchronousQueue.java:233)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:336)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1069)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: User Authenticator #28
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 364 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/jdk.internal.misc.Unsafe.park(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:410)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.LinkedTransferQueue$DualNode.await(LinkedTransferQueue.java:452)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.SynchronousQueue$Transferer.xferLifo(SynchronousQueue.java:194)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.SynchronousQueue.xfer(SynchronousQueue.java:233)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:336)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1069)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:34] [Paper Watchdog Thread/ERROR]: Current Thread: Keep-Alive-Timer
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	PID: 371 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:43:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.sleep0(Native Method)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.sleep(Thread.java:509)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/sun.net.www.http.KeepAliveCache.run(KeepAliveCache.java:238)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[08:43:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.3/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:186)
+[08:43:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:43:35] [Paper Watchdog Thread/INFO]: Stopping main thread (Ignore any thread death message you see! - DO NOT REPORT THREAD DEATH TO PAPER)
+[08:43:35] [Paper Watchdog Thread/WARN]: Exception in thread "Paper Watchdog Thread" java.lang.UnsupportedOperationException
+[08:43:35] [Paper Watchdog Thread/WARN]: 	at java.base/java.lang.Thread.stop(Thread.java:1667)
+[08:43:35] [Paper Watchdog Thread/WARN]: 	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:1034)
+[08:43:35] [Paper Watchdog Thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:845)
+[08:43:35] [Paper Watchdog Thread/WARN]: 	at net.minecraft.server.MinecraftServer.close(MinecraftServer.java:1006)
+[08:43:35] [Paper Watchdog Thread/WARN]: 	at org.spigotmc.WatchdogThread.run(WatchdogThread.java:231)
+[08:43:43] [User Authenticator #28/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[08:43:59] [User Authenticator #28/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[08:44:06] [User Authenticator #28/INFO]: UUID of player 100ksup is d602ce8a-bdd0-4560-a6e4-8fa4afee8a17

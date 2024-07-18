@@ -1,0 +1,159 @@
+[11:53:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:54:00] [ServerMain/INFO]: Loaded 1290 recipes
+[11:54:00] [ServerMain/INFO]: Loaded 1399 advancements
+[11:54:01] [Server thread/INFO]: Starting minecraft server version 1.21
+[11:54:01] [Server thread/INFO]: Loading properties
+[11:54:01] [Server thread/INFO]: This server is running Paper version 1.21-57-master@0e02aa5 (2024-07-11T19:34:02Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[11:54:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:54:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:54:02] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[11:54:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[11:54:03] [Server thread/INFO]: Default game type: SURVIVAL
+[11:54:03] [Server thread/INFO]: Generating keypair
+[11:54:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:54:03] [Server thread/INFO]: Using epoll channel type
+[11:54:03] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[11:54:03] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[11:54:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:54:03] [Server thread/INFO]: Preparing level "world"
+[11:54:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:54:06] [Server thread/INFO]: Time elapsed: 2055 ms
+[11:54:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:54:06] [Server thread/INFO]: Time elapsed: 444 ms
+[11:54:06] [Server thread/INFO]: Running delayed init tasks
+[11:54:06] [Server thread/INFO]: Done (5.893s)! For help, type "help"
+[11:54:06] [Server thread/INFO]: Timings Reset
+[11:54:19] [User Authenticator #0/INFO]: UUID of player TANTHINH008 is cec3f0bf-97f0-424f-a8af-55c9c4702bc4
+[11:54:19] [Server thread/INFO]: Disconnecting TANTHINH008 (/[0:0:0:0:0:0:0:1%0]:46714): You are not whitelisted on this server!
+[11:54:19] [Server thread/INFO]: Disconnecting TANTHINH008 (/[0:0:0:0:0:0:0:1%0]:46714): You are not whitelisted on this server!
+[11:54:19] [Server thread/INFO]: TANTHINH008 (/[0:0:0:0:0:0:0:1%0]:46714) lost connection: You are not whitelisted on this server!
+[11:54:28] [User Authenticator #0/INFO]: UUID of player TANTHINH008 is cec3f0bf-97f0-424f-a8af-55c9c4702bc4
+[11:54:28] [Server thread/INFO]: Disconnecting TANTHINH008 (/[0:0:0:0:0:0:0:1%0]:33860): You are not whitelisted on this server!
+[11:54:28] [Server thread/INFO]: TANTHINH008 (/[0:0:0:0:0:0:0:1%0]:33860) lost connection: You are not whitelisted on this server!
+[11:54:31] [Server thread/INFO]: Added TANTHINH008 to the whitelist
+[11:54:36] [User Authenticator #0/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[11:54:37] [Server thread/INFO]: canhvjp joined the game
+[11:54:38] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:50580] logged in with entity id 13 at ([world]-34048.37891260693, 65.0, 19936.940843490902)
+[11:54:56] [User Authenticator #0/INFO]: UUID of player TANTHINH008 is cec3f0bf-97f0-424f-a8af-55c9c4702bc4
+[11:54:57] [Server thread/INFO]: TANTHINH008 joined the game
+[11:54:57] [Server thread/INFO]: TANTHINH008[/[0:0:0:0:0:0:0:1%0]:47340] logged in with entity id 351 at ([world]681.5401559094792, 65.0, 139.3457911509177)
+[11:55:35] [Server thread/INFO]: Added HmzyyX to the whitelist
+[11:55:41] [User Authenticator #0/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[11:55:42] [Server thread/INFO]: PH1008 joined the game
+[11:55:42] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:36188] logged in with entity id 926 at ([world]-5193.483314536375, -52.0, -9857.783893974603)
+[11:56:37] [Async Chat Thread - #1/INFO]: <TANTHINH008> speedruner choi smp
+[11:56:52] [Async Chat Thread - #1/INFO]: <PH1008> tat the end roi speedrun cai j nua
+[11:57:45] [Async Chat Thread - #1/INFO]: <TANTHINH008> v sao lay cnh
+[11:57:47] [Async Chat Thread - #1/INFO]: <TANTHINH008> canh
+[11:57:49] [Server thread/INFO]: PH1008 has made the advancement [Crafting a New Look]
+[11:58:03] [Async Chat Thread - #1/INFO]: <canhvjp> ?
+[11:58:10] [Async Chat Thread - #1/INFO]: <PH1008> lay canh lam gi
+[11:58:17] [Async Chat Thread - #1/INFO]: <TANTHINH008> bay
+[11:58:21] [Async Chat Thread - #1/INFO]: <PH1008> tu di bo di
+[11:58:23] [Async Chat Thread - #1/INFO]: <canhvjp> tu bo
+[11:58:28] [Async Chat Thread - #1/INFO]: <canhvjp> smp di bo chan ai
+[11:58:29] [Async Chat Thread - #1/INFO]: <canhvjp> ko bay
+[11:59:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3777ms or 75 ticks behind
+[11:59:10] [Server thread/WARN]: TANTHINH008 moved too quickly! -5.281276690483992,1.5061351021062137,-15.668274155798883
+[11:59:37] [User Authenticator #1/INFO]: UUID of player HmzyyX is d0135778-6e50-40e9-93a9-328349820168
+[11:59:39] [Server thread/INFO]: HmzyyX joined the game
+[11:59:39] [Server thread/INFO]: HmzyyX[/[0:0:0:0:0:0:0:1%0]:49048] logged in with entity id 3537 at ([world]283.5, 68.0, -24.5)
+[11:59:46] [Async Chat Thread - #2/INFO]: <HmzyyX> hi may anh
+[11:59:49] [Async Chat Thread - #3/INFO]: <TANTHINH008> ai vay
+[11:59:51] [Async Chat Thread - #3/INFO]: <PH1008> hi con me m
+[12:01:49] [Server thread/INFO]: HmzyyX has made the advancement [Stone Age]
+[12:02:18] [Server thread/INFO]: HmzyyX has made the advancement [Getting an Upgrade]
+[12:02:37] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[12:02:37] [Server thread/INFO]: PH1008 left the game
+[12:03:43] [User Authenticator #2/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[12:03:45] [Server thread/INFO]: PH1008 joined the game
+[12:03:45] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:44734] logged in with entity id 6816 at ([world]-5196.0388770479985, -44.0, -9926.441669118592)
+[12:04:03] [Server thread/INFO]: HmzyyX has made the advancement [Monster Hunter]
+[12:04:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3564ms or 71 ticks behind
+[12:04:56] [Server thread/INFO]: HmzyyX lost connection: Disconnected
+[12:04:56] [Server thread/INFO]: HmzyyX left the game
+[12:05:07] [Server thread/INFO]: HmzyyX (/[0:0:0:0:0:0:0:1%0]:46034) lost connection: Disconnected
+[12:05:12] [Server thread/INFO]: HmzyyX (/[0:0:0:0:0:0:0:1%0]:46040) lost connection: Disconnected
+[12:05:17] [Server thread/INFO]: HmzyyX (/[0:0:0:0:0:0:0:1%0]:56032) lost connection: Disconnected
+[12:05:22] [Server thread/INFO]: HmzyyX (/[0:0:0:0:0:0:0:1%0]:56076) lost connection: Disconnected
+[12:05:30] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[12:05:30] [Server thread/INFO]: canhvjp left the game
+[12:05:32] [User Authenticator #3/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[12:05:33] [Server thread/INFO]: canhvjp joined the game
+[12:05:33] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:50006] logged in with entity id 8684 at ([world]-34026.48796650244, 64.0, 19932.854909801583)
+[12:05:46] [User Authenticator #3/INFO]: UUID of player HmzyyX is d0135778-6e50-40e9-93a9-328349820168
+[12:05:47] [Server thread/INFO]: HmzyyX joined the game
+[12:05:47] [Server thread/INFO]: HmzyyX[/[0:0:0:0:0:0:0:1%0]:41484] logged in with entity id 8919 at ([world]309.6430636795267, 10.422424331384192, -23.600927109306305)
+[12:06:36] [User Authenticator #3/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[12:06:37] [Server thread/INFO]: EvoKoifis joined the game
+[12:06:37] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:33682] logged in with entity id 10020 at ([world_nether]-376.4320974687572, 60.92159999847412, -675.8601893442268)
+[12:08:25] [Server thread/INFO]: TANTHINH008 has made the advancement [Acquire Hardware]
+[12:09:10] [Server thread/INFO]: HmzyyX issued server command: /w EvoKoifis anh la fatcat ak ?
+[12:09:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4371ms or 87 ticks behind
+[12:09:24] [Server thread/INFO]: EvoKoifis issued server command: /msg HmzyyX who are you chicken
+[12:09:28] [Server thread/INFO]: TANTHINH008 has made the advancement [Isn't It Iron Pick]
+[12:09:33] [Server thread/INFO]: HmzyyX issued server command: /w EvoKoifis haiminh256
+[12:09:35] [Async Chat Thread - #7/INFO]: <EvoKoifis> tanthinh dung giet rong nhe
+[12:09:37] [Async Chat Thread - #6/INFO]: <EvoKoifis> pls
+[12:09:44] [Async Chat Thread - #6/INFO]: <canhvjp> co vao dc the end dau kkk
+[12:09:46] [Server thread/INFO]: EvoKoifis issued server command: /msg HmzyyX ok iago aspas
+[12:09:50] [Async Chat Thread - #7/INFO]: <EvoKoifis> gus
+[12:10:05] [Server thread/INFO]: TANTHINH008 has made the advancement [Hot Stuff]
+[12:10:12] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[12:10:12] [Server thread/INFO]: canhvjp left the game
+[12:10:56] [Async Chat Thread - #8/INFO]: <EvoKoifis> drake drake go awake
+[12:12:09] [Server thread/INFO]: TANTHINH008 has made the advancement [Suit Up]
+[12:12:17] [Async Chat Thread - #10/INFO]: <EvoKoifis> sao bao toi sut uo
+[12:12:19] [Async Chat Thread - #10/INFO]: <EvoKoifis> up*
+[12:12:21] [Async Chat Thread - #10/INFO]: <EvoKoifis> qua buon
+[12:12:34] [Async Chat Thread - #10/INFO]: <TANTHINH008> kk
+[12:13:04] [Server thread/INFO]: HmzyyX lost connection: Disconnected
+[12:13:04] [Server thread/INFO]: HmzyyX left the game
+[12:13:10] [Server thread/INFO]: HmzyyX (/[0:0:0:0:0:0:0:1%0]:50900) lost connection: Disconnected
+[12:13:22] [Server thread/INFO]: HmzyyX (/[0:0:0:0:0:0:0:1%0]:52992) lost connection: Disconnected
+[12:13:42] [User Authenticator #4/INFO]: UUID of player HmzyyX is d0135778-6e50-40e9-93a9-328349820168
+[12:13:43] [Server thread/INFO]: HmzyyX joined the game
+[12:13:43] [Server thread/INFO]: HmzyyX[/[0:0:0:0:0:0:0:1%0]:59156] logged in with entity id 16407 at ([world]-375.75538100555576, 62.110764312744145, 404.5690412181573)
+[12:15:34] [Async Chat Thread - #13/INFO]: <TANTHINH008> dukmig dau r
+[12:15:43] [Async Chat Thread - #13/INFO]: <EvoKoifis> toi rat tiec
+[12:15:49] [Async Chat Thread - #13/INFO]: <TANTHINH008> what'
+[12:15:56] [Async Chat Thread - #13/INFO]: <EvoKoifis> dukmig dang off
+[12:15:58] [Async Chat Thread - #13/INFO]: <EvoKoifis> ai o si ma
+[12:16:16] [Async Chat Thread - #13/INFO]: <TANTHINH008> sut up
+[12:16:38] [Async Chat Thread - #13/INFO]: <EvoKoifis> ok co ve
+[12:16:40] [Async Chat Thread - #13/INFO]: <EvoKoifis> mob farm vao toi
+[12:16:44] [Async Chat Thread - #13/INFO]: <EvoKoifis> rat cham chap
+[12:17:05] [Async Chat Thread - #13/INFO]: <TANTHINH008> farm o dau
+[12:17:13] [Async Chat Thread - #13/INFO]: <EvoKoifis> farm o chicken
+[12:17:38] [Async Chat Thread - #13/INFO]: <EvoKoifis> xay dung de che
+[12:17:41] [Async Chat Thread - #13/INFO]: <EvoKoifis> sibidi
+[12:18:00] [Server thread/INFO]: HmzyyX has made the advancement [Acquire Hardware]
+[12:18:45] [Server thread/INFO]: HmzyyX issued server command: /w EvoKoifis cko em xin toa do di qua cho cua anh dc ko
+[12:18:46] [Server thread/WARN]: Oak Boat (vehicle of HmzyyX) moved wrongly! 0.3942198064215745
+[12:18:46] [Server thread/WARN]: Oak Boat (vehicle of HmzyyX) moved wrongly! 0.4924642471791003
+[12:19:08] [Server thread/INFO]: EvoKoifis issued server command: /msg HmzyyX khong chicken iago aspas mat thang nay nhu 3 tuoi kkk hiihhi
+[12:19:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2916ms or 58 ticks behind
+[12:20:34] [Async Chat Thread - #17/INFO]: <EvoKoifis> gio toi co gan
+[12:20:37] [Server thread/INFO]: HmzyyX lost connection: Disconnected
+[12:20:37] [Server thread/INFO]: HmzyyX left the game
+[12:20:37] [Async Chat Thread - #17/INFO]: <EvoKoifis> 10 stack gunpowder
+[12:20:41] [Async Chat Thread - #17/INFO]: <EvoKoifis> the la qua du
+[12:20:45] [Async Chat Thread - #17/INFO]: <EvoKoifis> cho dukmig
+[12:23:46] [Async Chat Thread - #19/INFO]: <EvoKoifis> rooney ngay nao mat hut
+[12:23:47] [Async Chat Thread - #19/INFO]: <EvoKoifis> o dau o dau
+[12:24:01] [Server thread/INFO]: TANTHINH008 has made the advancement [Diamonds!]
+[12:26:00] [Async Chat Thread - #21/INFO]: <EvoKoifis> a tan thinh
+[12:26:02] [Async Chat Thread - #21/INFO]: <EvoKoifis> toi bao
+[12:26:06] [Async Chat Thread - #21/INFO]: <EvoKoifis> dung co trieu hoi wither
+[12:26:06] [Async Chat Thread - #21/INFO]: <TANTHINH008> ha
+[12:26:09] [Async Chat Thread - #21/INFO]: <PH1008> m tinh bao gi voi no
+[12:26:10] [Async Chat Thread - #21/INFO]: <PH1008> a u
+[12:26:13] [Async Chat Thread - #21/INFO]: <EvoKoifis> bang bat cu hinh thuc nao
+[12:26:14] [Async Chat Thread - #21/INFO]: <PH1008> tan thinh no vua vao
+[12:26:17] [Async Chat Thread - #21/INFO]: <PH1008> da lam dc cj dau
+[12:26:25] [Async Chat Thread - #21/INFO]: <EvoKoifis> thi bao gio stacked
+[12:26:28] [Async Chat Thread - #21/INFO]: <EvoKoifis> nho danh wither
+[12:26:36] [Async Chat Thread - #21/INFO]: <EvoKoifis> trieu hoi wither crash server do
+[12:26:37] [Async Chat Thread - #21/INFO]: <EvoKoifis> kkk

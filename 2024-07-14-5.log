@@ -1,0 +1,187 @@
+[09:17:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[09:17:46] [ServerMain/INFO]: Loaded 1290 recipes
+[09:17:47] [ServerMain/INFO]: Loaded 1399 advancements
+[09:17:47] [Server thread/INFO]: Starting minecraft server version 1.21
+[09:17:47] [Server thread/INFO]: Loading properties
+[09:17:47] [Server thread/INFO]: This server is running Paper version 1.21-57-master@0e02aa5 (2024-07-11T19:34:02Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[09:17:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:17:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:17:49] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[09:17:49] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[09:17:50] [Server thread/INFO]: Default game type: SURVIVAL
+[09:17:50] [Server thread/INFO]: Generating keypair
+[09:17:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:17:50] [Server thread/INFO]: Using epoll channel type
+[09:17:50] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[09:17:50] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[09:17:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:17:50] [Server thread/INFO]: Preparing level "world"
+[09:17:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:17:53] [Server thread/INFO]: Time elapsed: 2307 ms
+[09:17:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[09:17:53] [Server thread/INFO]: Time elapsed: 381 ms
+[09:17:53] [Server thread/INFO]: Running delayed init tasks
+[09:17:53] [Server thread/INFO]: Done (6.265s)! For help, type "help"
+[09:17:53] [Server thread/INFO]: Timings Reset
+[09:18:07] [User Authenticator #0/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[09:18:08] [Server thread/INFO]: canhvjp joined the game
+[09:18:09] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:41416] logged in with entity id 15 at ([world]-34042.9294903307, 64.0, 19935.16020843226)
+[09:18:18] [User Authenticator #0/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[09:18:19] [Server thread/INFO]: EvoKoifis joined the game
+[09:18:19] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:58696] logged in with entity id 276 at ([world]-3131.033024765801, 71.0, -6333.584681217158)
+[09:18:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2536ms or 50 ticks behind
+[09:18:36] [Async Chat Thread - #1/INFO]: <EvoKoifis> lai phai chat lai
+[09:18:38] [Async Chat Thread - #1/INFO]: <EvoKoifis> cai cay
+[09:18:41] [Async Chat Thread - #1/INFO]: <EvoKoifis> lan 3
+[09:19:08] [Async Chat Thread - #0/INFO]: <EvoKoifis> to ha anh
+[09:20:20] [Async Chat Thread - #2/INFO]: <EvoKoifis> o referree008 khong vao nua a
+[09:22:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3157ms or 63 ticks behind
+[09:28:53] [Server thread/INFO]: canhvjp issued server command: /shop
+[09:29:21] [Async Chat Thread - #4/INFO]: <EvoKoifis> ngu di canh
+[09:31:19] [User Authenticator #1/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[09:31:20] [Server thread/INFO]: TaFiz008 joined the game
+[09:31:20] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:33008] logged in with entity id 5840 at ([world]-84056.16663503074, 71.0, 83692.37737023756)
+[09:32:26] [Server thread/INFO]: canhvjp has made the advancement [A Throwaway Joke]
+[09:32:48] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[09:32:48] [Server thread/INFO]: canhvjp left the game
+[09:33:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3306ms or 66 ticks behind
+[09:33:02] [Server thread/WARN]: TaFiz008 moved too quickly! -4.45940576364228,2.504799122994072,8.71991537552094
+[09:43:32] [Server thread/INFO]: EvoKoifis has made the advancement [Cover Me with Diamonds]
+[09:46:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2560ms or 51 ticks behind
+[09:48:25] [Server thread/WARN]: TaFiz008 moved wrongly!
+[09:53:03] [Server thread/INFO]: EvoKoifis fell from a high place
+[09:53:08] [Async Chat Thread - #7/INFO]: <TaFiz008> ☻
+[09:53:15] [Async Chat Thread - #7/INFO]: <EvoKoifis> bi lagback a
+[09:53:19] [Async Chat Thread - #8/INFO]: <EvoKoifis> hypixel qua
+[09:57:46] [Server thread/INFO]: Villager Villager['Nitwit'/303, uuid='af518282-f3e6-4dc3-8439-62ad0dc9ff6d', l='ServerLevel[world]', x=-3154.30, y=70.00, z=-6325.58, cpos=[-198, -396], tl=564483, v=true] died, message: 'Nitwit was slain by Zombie'
+[10:03:07] [Server thread/WARN]: TaFiz008 moved too quickly! 0.8823221327620558,0.0,12.397250972600887
+[10:03:07] [Server thread/INFO]: [Not Secure] [Server] hesay hello
+[10:03:39] [Server thread/INFO]: [Not Secure] [Server] ae biet j ko
+[10:03:50] [Async Chat Thread - #9/INFO]: <EvoKoifis> j
+[10:03:51] [Async Chat Thread - #10/INFO]: <TaFiz008> j
+[10:03:55] [Server thread/INFO]: [Not Secure] [Server] t nghi den viec add plugin
+[10:03:59] [Async Chat Thread - #10/INFO]: <TaFiz008> bien
+[10:04:01] [Async Chat Thread - #10/INFO]: <TaFiz008> !!!!!!!!
+[10:04:04] [Async Chat Thread - #10/INFO]: <EvoKoifis> ocean
+[10:04:04] [Server thread/INFO]: [Not Secure] [Server] mo /shop
+[10:04:05] [User Authenticator #2/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[10:04:05] [Async Chat Thread - #10/INFO]: <EvoKoifis> !!!!
+[10:04:07] [Server thread/INFO]: PH1008 joined the game
+[10:04:07] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:33398] logged in with entity id 30523 at ([world]-5194.391408207528, -44.0, -9926.384303527624)
+[10:04:09] [Async Chat Thread - #10/INFO]: <EvoKoifis> shop thi thoi
+[10:04:10] [Async Chat Thread - #10/INFO]: <TaFiz008> cut ngay
+[10:04:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2580ms or 51 ticks behind
+[10:04:16] [Async Chat Thread - #10/INFO]: <EvoKoifis> cut ngay troussier
+[10:04:20] [Server thread/INFO]: [Not Secure] [Server] cho ban item cac kieu
+[10:04:21] [Async Chat Thread - #10/INFO]: <TaFiz008> plugin cut cut trau de
+[10:04:40] [Server thread/INFO]: [Not Secure] [Server] m k cho t noi het a
+[10:04:44] [Server thread/INFO]: [Not Secure] [Server] oi oi oi
+[10:04:46] [Async Chat Thread - #10/INFO]: <TaFiz008> as vanilla as possible
+[10:04:49] [Async Chat Thread - #10/INFO]: <TaFiz008> !!!!
+[10:05:00] [Server thread/INFO]: [Not Secure] [Server] i ti la
+[10:05:05] [Async Chat Thread - #9/INFO]: <EvoKoifis> i love vanilla ice cream
+[10:05:29] [Async Chat Thread - #9/INFO]: <PH1008> co j moi
+[10:05:29] [Server thread/INFO]: [Not Secure] [Server] t muon co dia nhac cu custom
+[10:05:43] [Server thread/INFO]: [Not Secure] [Server] buc tranh custom
+[10:05:44] [Async Chat Thread - #9/INFO]: <TaFiz008> ok cai do dc
+[10:05:48] [Async Chat Thread - #9/INFO]: <TaFiz008> ok cai do dc
+[10:05:56] [Async Chat Thread - #9/INFO]: <PH1008> tranh custom dc day
+[10:05:57] [Async Chat Thread - #10/INFO]: <TaFiz008> cape custom
+[10:06:03] [Server thread/INFO]: [Not Secure] [Server] voi shop de mua bundle
+[10:06:09] [Async Chat Thread - #10/INFO]: <PH1008> ncc shop thi cut
+[10:06:09] [Async Chat Thread - #9/INFO]: <TaFiz008> ko mua ban
+[10:06:13] [Async Chat Thread - #9/INFO]: <TaFiz008> mat tinh chat
+[10:06:15] [Server thread/INFO]: [Not Secure] [Server] shulker
+[10:06:17] [Async Chat Thread - #9/INFO]: <TaFiz008> custom cac kieu dc r
+[10:06:26] [Async Chat Thread - #9/INFO]: <PH1008> custom chim
+[10:06:38] [Async Chat Thread - #9/INFO]: <TaFiz008> con may cai bundle shulker bay gio chua cho players dc
+[10:06:51] [Server thread/INFO]: [Not Secure] [Server] dc r
+[10:07:08] [Server thread/INFO]: [Not Secure] [Server] custom art
+[10:07:18] [Server thread/INFO]: [Not Secure] [Server] custom dia nhac
+[10:07:18] [Async Chat Thread - #9/INFO]: <TaFiz008> custom cape art disk
+[10:07:21] [Async Chat Thread - #9/INFO]: <TaFiz008> ☻
+[10:07:38] [Server thread/INFO]: [Not Secure] [Server] fix wither
+[10:07:43] [Async Chat Thread - #10/INFO]: <TaFiz008> ☻☻☻
+[10:07:43] [Async Chat Thread - #10/INFO]: <EvoKoifis> go go go
+[10:08:01] [Server thread/INFO]: [Not Secure] [Server] them chuc nang breeding cho player
+[10:08:07] [Async Chat Thread - #10/INFO]: <TaFiz008> ☺
+[10:08:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3480ms or 69 ticks behind
+[10:08:11] [Server thread/WARN]: PH1008 moved too quickly! -11.89679577838524,0.6232643862182812,6.951335053798175
+[10:08:11] [Server thread/WARN]: TaFiz008 moved too quickly! -11.907312582596205,2.3331999936342243,12.03449706203537
+[10:08:25] [Server thread/INFO]: [Not Secure] [Server] ph cut ngay
+[10:08:31] [Server thread/INFO]: [Not Secure] [Server] m co biet
+[10:08:35] [Server thread/INFO]: [Not Secure] [Server] mmb ko
+[10:08:35] [Async Chat Thread - #9/INFO]: <EvoKoifis> do you know?
+[10:08:46] [Async Chat Thread - #9/INFO]: <TaFiz008> middle mouse button
+[10:08:46] [Async Chat Thread - #9/INFO]: <EvoKoifis> anh nay can cau noi
+[10:08:49] [Async Chat Thread - #9/INFO]: <EvoKoifis> lay me nhau ra
+[10:08:52] [Async Chat Thread - #9/INFO]: <EvoKoifis> qua buon
+[10:09:06] [Server thread/WARN]: TaFiz008 moved wrongly!
+[10:09:22] [Server thread/INFO]: [Not Secure] [Server] t dinh add sex
+[10:09:25] [Async Chat Thread - #9/INFO]: <TaFiz008> cut ngay
+[10:09:33] [Server thread/INFO]: [Not Secure] [Server] moi nguoi se co gioi tinh
+[10:09:43] [Async Chat Thread - #9/INFO]: <TaFiz008> nhung ma chi co 2 gioi tinh
+[10:09:48] [Async Chat Thread - #9/INFO]: <TaFiz008> hoi kho cho ph
+[10:09:51] [Async Chat Thread - #9/INFO]: <TaFiz008> lua chon
+[10:10:00] [Server thread/INFO]: [Not Secure] [Server] chan nhi
+[10:10:05] [Async Chat Thread - #10/INFO]: <EvoKoifis> so bored
+[10:10:10] [Async Chat Thread - #10/INFO]: <PH1008> dcm
+[10:12:49] [Server thread/INFO]: [Not Secure] [Server] chuan bi ban ngau nhien 5 nguoi khoi server
+[10:13:06] [Async Chat Thread - #11/INFO]: <EvoKoifis> ti nua lai
+[10:13:08] [Async Chat Thread - #11/INFO]: <EvoKoifis> m bi chon
+[10:13:10] [Async Chat Thread - #11/INFO]: <EvoKoifis> biet thua
+[10:13:37] [Async Chat Thread - #11/INFO]: <TaFiz008> i am specific
+[10:13:39] [Async Chat Thread - #11/INFO]: <TaFiz008> not random
+[10:13:41] [Async Chat Thread - #12/INFO]: <TaFiz008> ☻
+[10:13:44] [Server thread/INFO]: [Not Secure] [Server] m khong bi chon
+[10:13:51] [Server thread/INFO]: [Not Secure] [Server] m bi lua
+[10:13:56] [Server thread/INFO]: [Not Secure] [Server] fire
+[10:14:02] [Server thread/INFO]: [Not Secure] [Server] free fire
+[10:14:51] [Server thread/INFO]: [Not Secure] [Server] e tafix
+[10:14:54] [Async Chat Thread - #12/INFO]: <TaFiz008> jjjj
+[10:15:11] [Server thread/INFO]: [Not Secure] [Server] tang tafix 100 kim cuong
+[10:15:14] [Async Chat Thread - #13/INFO]: <TaFiz008> cut
+[10:15:17] [Async Chat Thread - #13/INFO]: <TaFiz008> !!!!
+[10:15:29] [Server thread/INFO]: [Not Secure] [Server] tadam chi can donate t
+[10:15:34] [Server thread/INFO]: [Not Secure] [Server] 100k
+[10:19:58] [Server thread/INFO]: TaFiz008 lost connection: Disconnected
+[10:19:58] [Server thread/INFO]: TaFiz008 left the game
+[10:20:01] [User Authenticator #3/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[10:20:02] [Server thread/INFO]: TaFiz008 joined the game
+[10:20:02] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:54918] logged in with entity id 45371 at ([world_nether]-11859.605720325146, 44.0, 11693.330917200568)
+[10:33:46] [Server thread/INFO]: [Not Secure] [Server] e
+[10:33:49] [Async Chat Thread - #15/INFO]: <EvoKoifis> f
+[10:33:50] [Async Chat Thread - #15/INFO]: <EvoKoifis> g
+[10:33:51] [Async Chat Thread - #15/INFO]: <EvoKoifis> h
+[10:34:14] [Server thread/INFO]: [Not Secure] [Server] /kick
+[10:34:33] [Server thread/INFO]: [Not Secure] [Server] m co biet lenh /kick EvoKoifis, PH1008, TaFiz008 ko
+[10:34:40] [Async Chat Thread - #15/INFO]: <EvoKoifis> co a
+[10:34:55] [Server thread/INFO]: TaFiz008 issued server command: /cut
+[10:35:01] [Server thread/INFO]: [Not Secure] [Server] dm t viet la @ a
+[10:35:09] [Async Chat Thread - #16/INFO]: <EvoKoifis> khong?
+[10:35:10] [Server thread/INFO]: TaFiz008 issued server command: /cutngay EvoKoifis
+[10:35:14] [Async Chat Thread - #15/INFO]: <TaFiz008> ./cutngay EvoKoifis
+[10:35:18] [Async Chat Thread - #15/INFO]: <TaFiz008> lenh cut ngay
+[10:35:26] [Server thread/INFO]: [Not Secure] [Server] /cutngay
+[10:35:36] [Server thread/INFO]: [Not Secure] [Server] them lenh nhe
+[10:35:36] [Async Chat Thread - #15/INFO]: <EvoKoifis> ./cutgay troussier
+[10:35:48] [Async Chat Thread - #15/INFO]: <EvoKoifis> chet lo viet cut gay
+[10:35:52] [Async Chat Thread - #15/INFO]: <EvoKoifis> so ph ton thuong
+[10:52:58] [Server thread/INFO]: PH1008 issued server command: /cutngay tafiz008
+[10:56:19] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[10:56:19] [Server thread/INFO]: EvoKoifis left the game
+[11:00:02] [User Authenticator #4/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[11:00:03] [Server thread/INFO]: EvoKoifis joined the game
+[11:00:03] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:43496] logged in with entity id 71975 at ([world]-3153.48261847573, 57.25, -6270.887499988079)
+[11:02:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2558ms or 51 ticks behind
+[11:02:29] [Server thread/WARN]: EvoKoifis moved too quickly! -2.77368607624976,-0.24813599859093927,9.699204800675034
+[11:03:15] [Server thread/WARN]: EvoKoifis moved too quickly! -4.603798272455606E-4,0.0,11.505417481782615
+[11:04:41] [Async Chat Thread - #18/INFO]: <PH1008> co j moi k
+[11:04:47] [Async Chat Thread - #18/INFO]: <PH1008> tu nay mn dang lam gi the
+[11:04:53] [Async Chat Thread - #18/INFO]: <EvoKoifis> dang chicken
+[11:05:49] [Server thread/INFO]: Villager Villager['Villager'/76435, uuid='c5de0f32-fc90-48a5-af3f-72ace9420694', l='ServerLevel[world]', x=-103103.37, y=63.56, z=104073.28, cpos=[-6444, 6504], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[11:05:56] [Server thread/INFO]: Villager Villager['Villager'/76437, uuid='31b926d6-171f-4401-9c19-d1082dceb883', l='ServerLevel[world]', x=-103089.72, y=76.00, z=104111.37, cpos=[-6444, 6506], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[11:08:30] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[11:08:30] [Server thread/INFO]: EvoKoifis left the game

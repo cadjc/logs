@@ -1,0 +1,865 @@
+[13:49:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:49:22] [ServerMain/INFO]: Loaded 1290 recipes
+[13:49:22] [ServerMain/INFO]: Loaded 1399 advancements
+[13:49:22] [Server thread/INFO]: Starting minecraft server version 1.21
+[13:49:22] [Server thread/INFO]: Loading properties
+[13:49:22] [Server thread/INFO]: This server is running Paper version 1.21-57-master@0e02aa5 (2024-07-11T19:34:02Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[13:49:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:49:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:49:24] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[13:49:24] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[13:49:24] [Server thread/INFO]: Default game type: SURVIVAL
+[13:49:24] [Server thread/INFO]: Generating keypair
+[13:49:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:49:25] [Server thread/INFO]: Using epoll channel type
+[13:49:25] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[13:49:25] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[13:49:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:49:25] [Server thread/INFO]: Preparing level "world"
+[13:49:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:49:28] [Server thread/INFO]: Time elapsed: 2121 ms
+[13:49:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:49:28] [Server thread/INFO]: Time elapsed: 271 ms
+[13:49:28] [Server thread/INFO]: Running delayed init tasks
+[13:49:28] [Server thread/INFO]: Done (5.517s)! For help, type "help"
+[13:49:28] [Server thread/INFO]: Timings Reset
+[13:49:33] [User Authenticator #0/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[13:49:34] [Server thread/INFO]: canhvjp joined the game
+[13:49:34] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:41100] logged in with entity id 15 at ([world]-34037.36883518479, 64.0, 19930.69999998808)
+[13:50:01] [Server thread/INFO]: HmzyyX (/[0:0:0:0:0:0:0:1%0]:43366) lost connection: Disconnected
+[13:51:00] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[13:51:00] [Server thread/INFO]: canhvjp left the game
+[13:51:27] [User Authenticator #1/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[13:51:28] [Server thread/INFO]: canhvjp joined the game
+[13:51:28] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:41388] logged in with entity id 490 at ([world]-34034.30000001192, 64.0, 19930.782311190495)
+[13:51:43] [User Authenticator #1/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[13:51:46] [Server thread/INFO]: PH1008 joined the game
+[13:51:46] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:60552] logged in with entity id 827 at ([world]-5179.5957485991985, -49.388864010559075, -9895.255023191643)
+[13:51:47] [User Authenticator #1/INFO]: UUID of player Logs369 is d7d0c0f5-d2bd-47d2-9bf3-05ceedd7ba85
+[13:51:49] [Server thread/INFO]: Logs369 joined the game
+[13:51:49] [Server thread/INFO]: Logs369[/[0:0:0:0:0:0:0:1%0]:37188] logged in with entity id 951 at ([world]-34040.72056381542, 65.0, 19935.403491659294)
+[13:51:53] [User Authenticator #1/INFO]: UUID of player HmzyyX is d0135778-6e50-40e9-93a9-328349820168
+[13:51:57] [Server thread/INFO]: HmzyyX joined the game
+[13:51:57] [Server thread/INFO]: HmzyyX[/[0:0:0:0:0:0:0:1%0]:37208] logged in with entity id 1025 at ([world]-1002.331391657729, 64.0, 879.6772299469937)
+[13:51:58] [Async Chat Thread - #1/INFO]: <Logs369> hello canh
+[13:52:05] [Async Chat Thread - #1/INFO]: <Logs369> de t farm do cai da
+[13:52:12] [Async Chat Thread - #1/INFO]: <PH1008> mang em hay la sao ma lag vai cut
+[13:52:13] [User Authenticator #1/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[13:52:14] [Server thread/INFO]: TaFiz008 joined the game
+[13:52:14] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:56992] logged in with entity id 1546 at ([world]-103390.88333115286, 77.0, 104579.79528424593)
+[13:52:18] [Async Chat Thread - #1/INFO]: <Logs369> tf proc 4 dat vc
+[13:52:29] [Async Chat Thread - #1/INFO]: <canhvjp> emerald day
+[13:52:34] [Async Chat Thread - #1/INFO]: <PH1008> co farm thi dung ban enchant di
+[13:52:34] [Async Chat Thread - #1/INFO]: <Logs369> ngon
+[13:52:36] [User Authenticator #1/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[13:52:37] [Server thread/INFO]: EvoKoifis joined the game
+[13:52:37] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:51538] logged in with entity id 2004 at ([world]-3146.4580213543745, 72.12431310204825, -6336.218779766727)
+[13:52:38] [Async Chat Thread - #1/INFO]: <Logs369> anh yeu
+[13:52:39] [Server thread/WARN]: PH1008 moved too quickly! -5.99569523752325,4.419999986886978,-6.811305064595217
+[13:52:40] [Server thread/INFO]: HmzyyX lost connection: Disconnected
+[13:52:40] [Server thread/INFO]: HmzyyX left the game
+[13:52:48] [Async Chat Thread - #1/INFO]: <Logs369> ong cay 5 tieng a
+[13:52:48] [Async Chat Thread - #1/INFO]: <EvoKoifis> ph gay
+[13:52:53] [Server thread/INFO]: HmzyyX (/[0:0:0:0:0:0:0:1%0]:56498) lost connection: Disconnected
+[13:52:58] [Server thread/INFO]: HmzyyX (/[0:0:0:0:0:0:0:1%0]:40200) lost connection: Disconnected
+[13:53:03] [Async Chat Thread - #1/INFO]: <Logs369> ghi nho cong on
+[13:53:05] [Async Chat Thread - #1/INFO]: <canhvjp> co sach
+[13:53:06] [Server thread/INFO]: TaFiz008 lost connection: Disconnected
+[13:53:06] [Server thread/INFO]: TaFiz008 left the game
+[13:53:09] [User Authenticator #1/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[13:53:10] [Async Chat Thread - #1/INFO]: <Logs369> t se farm 8175189751275 netherites
+[13:53:11] [Server thread/INFO]: TaFiz008 joined the game
+[13:53:11] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:50058] logged in with entity id 3144 at ([world]-103433.30000001192, 73.0, 104660.30549624824)
+[13:53:12] [Async Chat Thread - #1/INFO]: <canhvjp> sach trong ruong
+[13:53:19] [Async Chat Thread - #1/INFO]: <canhvjp> t co netherit r
+[13:53:21] [User Authenticator #1/INFO]: UUID of player HmzyyX is d0135778-6e50-40e9-93a9-328349820168
+[13:53:23] [Server thread/INFO]: HmzyyX joined the game
+[13:53:23] [Server thread/INFO]: HmzyyX[/[0:0:0:0:0:0:0:1%0]:48870] logged in with entity id 3360 at ([world]-1002.331391657729, 64.0, 879.6772299469937)
+[13:53:23] [Async Chat Thread - #1/INFO]: <Logs369> full roi a
+[13:53:25] [Async Chat Thread - #1/INFO]: <canhvjp> ben tren
+[13:53:45] [Async Chat Thread - #1/INFO]: <canhvjp> di len
+[13:53:59] [Async Chat Thread - #1/INFO]: <EvoKoifis> loi di rieng
+[13:53:59] [Async Chat Thread - #1/INFO]: <Logs369> a ok
+[13:54:05] [Server thread/INFO]: HmzyyX has made the advancement [Isn't It Iron Pick]
+[13:54:10] [Async Chat Thread - #1/INFO]: <canhvjp> water
+[13:54:13] [Async Chat Thread - #1/INFO]: <EvoKoifis> mang PH ban linh that
+[13:54:16] [Async Chat Thread - #1/INFO]: <canhvjp> len
+[13:54:17] [Async Chat Thread - #1/INFO]: <EvoKoifis> ban linh khuyet tat
+[13:54:17] [Server thread/INFO]: HmzyyX has made the advancement [Hot Stuff]
+[13:54:21] [Server thread/INFO]: PH1008 issued server command: /tell EvoKoifis m dang lam gi the
+[13:54:30] [Async Chat Thread - #2/INFO]: <Logs369> ok ong
+[13:54:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5121ms or 102 ticks behind
+[13:54:33] [Server thread/INFO]: EvoKoifis issued server command: /msg PH1008 o base?
+[13:54:37] [Async Chat Thread - #2/INFO]: <EvoKoifis> vua hoi lag
+[13:54:38] [Async Chat Thread - #2/INFO]: <canhvjp> dau do trong nay
+[13:54:39] [Async Chat Thread - #2/INFO]: <EvoKoifis> 1 chut
+[13:54:42] [Server thread/INFO]: PH1008 issued server command: /tell EvoKoifis co ai o cung k?
+[13:54:42] [Async Chat Thread - #1/INFO]: <EvoKoifis> nhung het roi
+[13:54:44] [Async Chat Thread - #1/INFO]: <canhvjp> ok
+[13:54:47] [Async Chat Thread - #1/INFO]: <Logs369> dung ai dung cai trang bi nang cap de t dupe len da
+[13:54:48] [Async Chat Thread - #1/INFO]: <canhvjp> trong ender chest
+[13:54:49] [Server thread/INFO]: EvoKoifis issued server command: /msg PH1008 khong?
+[13:55:00] [Async Chat Thread - #2/INFO]: <Logs369> o het kc roi a
+[13:55:00] [Async Chat Thread - #2/INFO]: <canhvjp> nay
+[13:55:05] [Server thread/INFO]: PH1008 issued server command: /tell EvoKoifis ok t tuong m ga ai ve base
+[13:55:06] [Async Chat Thread - #1/INFO]: <Logs369> yooooo
+[13:55:06] [Async Chat Thread - #1/INFO]: <canhvjp> u t dung het r
+[13:55:16] [Async Chat Thread - #1/INFO]: <Logs369> ok vay ong dung dung cai trang bi nang cap nhe
+[13:55:20] [Server thread/INFO]: TaFiz008 lost connection: Disconnected
+[13:55:20] [Server thread/INFO]: TaFiz008 left the game
+[13:55:20] [Async Chat Thread - #1/INFO]: <Logs369> nho chua lai 1 cai
+[13:55:24] [User Authenticator #2/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[13:55:25] [Async Chat Thread - #1/INFO]: <EvoKoifis> ph 1 vach luon ma
+[13:55:26] [Server thread/INFO]: TaFiz008 joined the game
+[13:55:26] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:39464] logged in with entity id 5248 at ([world]-103433.30000001192, 73.0, 104660.30549624824)
+[13:55:28] [Async Chat Thread - #1/INFO]: <EvoKoifis> ban linh
+[13:55:45] [Async Chat Thread - #1/INFO]: <Logs369> o khong co de a
+[13:55:49] [Async Chat Thread - #1/INFO]: <canhvjp> o kia
+[13:56:29] [Async Chat Thread - #1/INFO]: <canhvjp> t muon xay may farm
+[13:56:33] [Async Chat Thread - #1/INFO]: <canhvjp> zombie
+[13:56:36] [Async Chat Thread - #1/INFO]: <canhvjp> pigman
+[13:56:41] [Async Chat Thread - #1/INFO]: <canhvjp> moi nguoi co lag ko
+[13:56:41] [Async Chat Thread - #1/INFO]: <Logs369> vay thi
+[13:56:41] [Async Chat Thread - #1/INFO]: <EvoKoifis> 3 ty magma
+[13:56:51] [Async Chat Thread - #1/INFO]: <PH1008> k lag lam
+[13:56:51] [Async Chat Thread - #1/INFO]: <Logs369> cung duoc
+[13:56:54] [Async Chat Thread - #1/INFO]: <Logs369> 3 nguoi lan
+[13:56:54] [Server thread/INFO]: TaFiz008 lost connection: Disconnected
+[13:56:54] [Server thread/INFO]: TaFiz008 left the game
+[13:56:54] [Async Chat Thread - #1/INFO]: <PH1008> ok lag r
+[13:57:02] [Async Chat Thread - #1/INFO]: <EvoKoifis> thay bth
+[13:57:05] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[13:57:05] [Server thread/INFO]: PH1008 left the game
+[13:57:07] [Async Chat Thread - #1/INFO]: <EvoKoifis> ph khong noi
+[13:57:10] [Async Chat Thread - #1/INFO]: <EvoKoifis> thang 1 vach
+[13:57:31] [User Authenticator #3/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[13:57:32] [Server thread/INFO]: PH1008 joined the game
+[13:57:32] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:46266] logged in with entity id 7649 at ([world]-5194.862793999704, -44.0, -9927.364586435764)
+[13:57:50] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[13:57:50] [Server thread/INFO]: PH1008 left the game
+[13:57:52] [User Authenticator #3/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[13:57:53] [Server thread/INFO]: PH1008 joined the game
+[13:57:53] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:36592] logged in with entity id 8163 at ([world]-5195.113035909144, -44.0, -9926.604837166888)
+[13:57:56] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[13:57:56] [Server thread/INFO]: PH1008 left the game
+[13:57:58] [User Authenticator #3/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[13:58:00] [Server thread/INFO]: PH1008 joined the game
+[13:58:00] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:34656] logged in with entity id 8295 at ([world]-5195.563959646863, -44.0, -9927.11115422535)
+[13:58:06] [User Authenticator #3/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[13:58:06] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[13:58:06] [Server thread/INFO]: PH1008 left the game
+[13:58:15] [Server thread/INFO]: TaFiz008 joined the game
+[13:58:15] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:46568] logged in with entity id 8401 at ([world]-103433.30000001192, 73.0, 104660.30549624824)
+[13:58:18] [User Authenticator #3/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[13:58:19] [Server thread/INFO]: PH1008 joined the game
+[13:58:19] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:57624] logged in with entity id 8597 at ([world]-5195.563959646863, -44.0, -9927.11115422535)
+[13:58:21] [Async Chat Thread - #1/INFO]: <canhvjp> di dao kimcuong ko e
+[13:58:26] [Async Chat Thread - #1/INFO]: <Logs369> ok
+[13:58:29] [Async Chat Thread - #1/INFO]: <Logs369> t ra bien
+[13:58:36] [Async Chat Thread - #1/INFO]: <Logs369> cho nhanh voi hieu qua
+[13:58:39] [Async Chat Thread - #1/INFO]: <canhvjp> t dao 1 minh v
+[13:58:46] [Async Chat Thread - #1/INFO]: <Logs369> t dao cung cho
+[13:58:46] [Async Chat Thread - #1/INFO]: <canhvjp> xay raid farm o bien
+[13:58:49] [Async Chat Thread - #1/INFO]: <Logs369> anh em chia huong
+[13:58:50] [Server thread/INFO]: PH1008 lost connection: Timed out
+[13:58:50] [Server thread/INFO]: PH1008 left the game
+[13:58:50] [Async Chat Thread - #1/INFO]: <canhvjp> lay totem
+[13:58:53] [User Authenticator #3/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[13:58:54] [Server thread/INFO]: PH1008 joined the game
+[13:58:54] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:57242] logged in with entity id 9461 at ([world]-5196.715345617032, -44.0, -9926.95953600745)
+[13:58:57] [Async Chat Thread - #1/INFO]: <canhvjp> nma chua co hard
+[13:59:00] [Async Chat Thread - #1/INFO]: <Logs369> hay la ong xay farm t farm kc
+[13:59:02] [Async Chat Thread - #1/INFO]: <PH1008> ang
+[13:59:07] [Async Chat Thread - #1/INFO]: <canhvjp> t ko biet xay
+[13:59:10] [Async Chat Thread - #1/INFO]: <Logs369> 20m sau 100000 kim cuong
+[13:59:10] [Server thread/INFO]: TaFiz008 lost connection: Disconnected
+[13:59:10] [Server thread/INFO]: TaFiz008 left the game
+[13:59:13] [Async Chat Thread - #1/INFO]: <PH1008> ang
+[13:59:19] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[13:59:19] [Server thread/INFO]: PH1008 left the game
+[13:59:22] [User Authenticator #3/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[13:59:24] [Server thread/INFO]: PH1008 joined the game
+[13:59:24] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:57496] logged in with entity id 9801 at ([world]-5195.36966799312, -44.0, -9926.34955744847)
+[13:59:29] [Async Chat Thread - #1/INFO]: <PH1008> mang lag nhu dai cho
+[13:59:31] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[13:59:31] [Server thread/INFO]: PH1008 left the game
+[13:59:34] [User Authenticator #3/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[13:59:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2648ms or 52 ticks behind
+[13:59:36] [Server thread/WARN]: EvoKoifis moved too quickly! -0.0740853247529003,-0.41290928041701136,10.398142205104136
+[13:59:38] [Server thread/INFO]: PH1008 joined the game
+[13:59:38] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:51964] logged in with entity id 9959 at ([world]-5195.36966799312, -44.0, -9926.34955744847)
+[14:00:19] [Server thread/INFO]: PH1008 lost connection: Timed out
+[14:00:19] [Server thread/INFO]: PH1008 left the game
+[14:00:22] [User Authenticator #3/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[14:00:23] [Async Chat Thread - #1/INFO]: <Logs369> bye ae t farm kc
+[14:00:36] [Server thread/INFO]: TaFiz008 joined the game
+[14:00:36] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:59998] logged in with entity id 10443 at ([world]-103433.30000001192, 73.0, 104660.30549624824)
+[14:00:40] [User Authenticator #3/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[14:00:41] [Server thread/INFO]: PH1008 joined the game
+[14:00:41] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:49356] logged in with entity id 10782 at ([world]-5197.427940327412, -44.0, -9925.739536156414)
+[14:00:46] [Server thread/INFO]: TaFiz008 lost connection: Disconnected
+[14:00:46] [Server thread/INFO]: TaFiz008 left the game
+[14:01:08] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[14:01:08] [Server thread/INFO]: PH1008 left the game
+[14:01:08] [User Authenticator #3/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[14:01:09] [Server thread/INFO]: TaFiz008 joined the game
+[14:01:09] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:45078] logged in with entity id 11602 at ([world]-103433.30000001192, 73.0, 104660.30549624824)
+[14:01:27] [User Authenticator #3/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[14:01:29] [Server thread/INFO]: PH1008 joined the game
+[14:01:29] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:51092] logged in with entity id 12374 at ([world]-5196.20289606518, -44.0, -9925.966736129381)
+[14:01:31] [Async Chat Thread - #1/INFO]: <Logs369> cai bundle che tao kieu gi
+[14:01:39] [Async Chat Thread - #1/INFO]: <EvoKoifis> uncraftable
+[14:01:47] [Async Chat Thread - #1/INFO]: <Logs369> sao nilou co
+[14:01:57] [Server thread/INFO]: TaFiz008 lost connection: Disconnected
+[14:01:57] [Server thread/INFO]: TaFiz008 left the game
+[14:02:04] [Async Chat Thread - #1/INFO]: <EvoKoifis> quen day la "paper" server
+[14:02:05] [User Authenticator #3/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[14:02:05] [Server thread/INFO]: TaFiz008 joined the game
+[14:02:05] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:46148] logged in with entity id 13548 at ([world]-103443.1184621895, 63.0, 104691.25525484084)
+[14:02:06] [Server thread/INFO]: PH1008 lost connection: Timed out
+[14:02:06] [Server thread/INFO]: PH1008 left the game
+[14:02:09] [User Authenticator #3/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[14:02:11] [Server thread/INFO]: PH1008 joined the game
+[14:02:11] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:46160] logged in with entity id 13744 at ([world]-5196.20289606518, -44.0, -9925.966736129381)
+[14:02:21] [Async Chat Thread - #4/INFO]: <PH1008> game l game lag
+[14:02:25] [Async Chat Thread - #4/INFO]: <Logs369> kk
+[14:02:41] [Server thread/INFO]: TaFiz008 lost connection: Disconnected
+[14:02:41] [Server thread/INFO]: TaFiz008 left the game
+[14:02:44] [User Authenticator #3/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[14:02:44] [Server thread/INFO]: TaFiz008 joined the game
+[14:02:44] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:33408] logged in with entity id 14618 at ([world]-103443.39229158607, 63.0, 104692.84960883418)
+[14:03:06] [Async Chat Thread - #4/INFO]: <Logs369> e canh ong farm kc a
+[14:03:07] [Server thread/INFO]: TaFiz008 lost connection: Disconnected
+[14:03:07] [Server thread/INFO]: TaFiz008 left the game
+[14:03:09] [User Authenticator #3/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[14:03:11] [Server thread/INFO]: TaFiz008 joined the game
+[14:03:11] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:47208] logged in with entity id 15261 at ([world]-103447.65835809993, 62.0, 104693.29978848775)
+[14:03:12] [Async Chat Thread - #4/INFO]: <canhvjp> ko
+[14:03:14] [Async Chat Thread - #4/INFO]: <canhvjp> t di dao
+[14:03:17] [Async Chat Thread - #4/INFO]: <canhvjp> duoi hang
+[14:03:21] [Async Chat Thread - #1/INFO]: <canhvjp> t ko biet farm
+[14:03:28] [Async Chat Thread - #1/INFO]: <Logs369> y toi la ong di dao duoi hang tim kc a
+[14:03:32] [Server thread/INFO]: TaFiz008 lost connection: Disconnected
+[14:03:32] [Server thread/INFO]: TaFiz008 left the game
+[14:03:33] [Async Chat Thread - #1/INFO]: <canhvjp> u
+[14:03:37] [Async Chat Thread - #4/INFO]: <canhvjp> bay h toi dinh di
+[14:03:38] [Server thread/WARN]: PH1008 moved too quickly! 0.602443871775904,-2.024424088213685,9.79460104159989
+[14:03:42] [Async Chat Thread - #4/INFO]: <Logs369> T di cho
+[14:03:48] [Async Chat Thread - #4/INFO]: <canhvjp> ok
+[14:03:50] [Async Chat Thread - #4/INFO]: <canhvjp> nma
+[14:03:52] [Async Chat Thread - #4/INFO]: <Logs369> kiem them sat nua
+[14:03:55] [Async Chat Thread - #4/INFO]: <Logs369> minh dang thieu sat
+[14:03:55] [Async Chat Thread - #4/INFO]: <canhvjp> t ko biet xay may farm
+[14:03:56] [User Authenticator #3/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[14:03:57] [Server thread/INFO]: TaFiz008 joined the game
+[14:03:57] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:49718] logged in with entity id 16200 at ([world]-103447.65835809993, 62.0, 104693.29978848775)
+[14:03:57] [Server thread/WARN]: PH1008 moved too quickly! -1.3947084446763256,0.12129684053919476,10.133937968103055
+[14:04:03] [Async Chat Thread - #4/INFO]: <Logs369> farm gi
+[14:04:08] [Async Chat Thread - #4/INFO]: <canhvjp> zombie lon
+[14:04:25] [Async Chat Thread - #4/INFO]: <Logs369> cai day xay mat thoi gian lam
+[14:04:33] [Async Chat Thread - #1/INFO]: <Logs369> neu ong muon xay thi ok
+[14:04:36] [Async Chat Thread - #1/INFO]: <Logs369> 3 nguoi chac du
+[14:04:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4899ms or 97 ticks behind
+[14:04:41] [Server thread/WARN]: PH1008 moved too quickly! -6.408380082135409,-4.252203340253729,12.078337349341382
+[14:04:41] [Server thread/WARN]: EvoKoifis moved too quickly! 19.60342677869903,0.5698121338414168,-5.117299393711505
+[14:04:42] [Async Chat Thread - #1/INFO]: <EvoKoifis> no khong lien quan
+[14:04:44] [Async Chat Thread - #1/INFO]: <EvoKoifis> what
+[14:04:46] [Async Chat Thread - #1/INFO]: <EvoKoifis> lam nhu kieu
+[14:04:46] [Async Chat Thread - #4/INFO]: <HmzyyX> cai smithing templete coast nay ai lay ko ?
+[14:04:46] [Async Chat Thread - #1/INFO]: <TaFiz008> a
+[14:04:47] [Async Chat Thread - #1/INFO]: <TaFiz008> b
+[14:04:48] [Async Chat Thread - #1/INFO]: <TaFiz008> b
+[14:04:49] [Async Chat Thread - #1/INFO]: <EvoKoifis> no toan redstone
+[14:04:49] [Async Chat Thread - #1/INFO]: <TaFiz008> c
+[14:04:50] [Async Chat Thread - #1/INFO]: <TaFiz008> c
+[14:04:51] [Async Chat Thread - #1/INFO]: <TaFiz008> c
+[14:04:59] [Async Chat Thread - #4/INFO]: <Logs369> no ton thoi gian
+[14:05:15] [Async Chat Thread - #4/INFO]: <canhvjp> lam cx dc
+[14:05:18] [Async Chat Thread - #4/INFO]: <canhvjp> vo hang vang
+[14:05:21] [Async Chat Thread - #4/INFO]: <canhvjp> han
+[14:05:23] [Async Chat Thread - #4/INFO]: <canhvjp> ta
+[14:05:26] [Async Chat Thread - #4/INFO]: <canhvjp> se giau nhat sivi
+[14:05:49] [Async Chat Thread - #4/INFO]: <Logs369> anh em minh can tim trial chamber nua
+[14:05:50] [Server thread/INFO]: TaFiz008 lost connection: Disconnected
+[14:05:50] [Server thread/INFO]: TaFiz008 left the game
+[14:05:59] [Async Chat Thread - #4/INFO]: <Logs369> e canh ong cho mot con dan lang hoc nghe ban do di
+[14:06:02] [Async Chat Thread - #4/INFO]: <EvoKoifis> chan con tho la jump boost
+[14:06:07] [Async Chat Thread - #4/INFO]: <EvoKoifis> u
+[14:06:10] [Async Chat Thread - #4/INFO]: <EvoKoifis> tai lua dao
+[14:06:35] [Async Chat Thread - #1/INFO]: <EvoKoifis> tuong tai elite
+[14:06:36] [Async Chat Thread - #1/INFO]: <Logs369> mua anh em
+[14:07:14] [Server thread/INFO]: PH1008 lost connection: Timed out
+[14:07:14] [Server thread/INFO]: PH1008 left the game
+[14:07:21] [User Authenticator #4/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[14:07:25] [Server thread/INFO]: PH1008 joined the game
+[14:07:25] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:34436] logged in with entity id 21771 at ([world]-5260.699999988079, -48.58000001311302, -9859.699999988079)
+[14:07:33] [Async Chat Thread - #1/INFO]: <PH1008> cai dit me mang lag nhu dai cho
+[14:07:59] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[14:07:59] [Server thread/INFO]: PH1008 left the game
+[14:08:01] [Async Chat Thread - #1/INFO]: <HmzyyX> ai lay smithing templete ko
+[14:08:05] [Server thread/INFO]: PH1008 (/[0:0:0:0:0:0:0:1%0]:45838) lost connection: Disconnected
+[14:08:11] [Async Chat Thread - #1/INFO]: <EvoKoifis> thang nay hoi lam vay
+[14:08:12] [Async Chat Thread - #1/INFO]: <EvoKoifis> sut up
+[14:08:22] [Async Chat Thread - #1/INFO]: <Logs369> dung doa tre con
+[14:08:31] [Async Chat Thread - #1/INFO]: <HmzyyX> ai can em cko free
+[14:08:36] [Async Chat Thread - #4/INFO]: <EvoKoifis> no
+[14:08:38] [Async Chat Thread - #4/INFO]: <EvoKoifis> shut up
+[14:08:58] [Async Chat Thread - #4/INFO]: <Logs369> Thang meo beo khong than thien gi ca
+[14:09:10] [User Authenticator #5/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[14:09:11] [Server thread/INFO]: PH1008 joined the game
+[14:09:11] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:52970] logged in with entity id 23670 at ([world]-5260.699999988079, -48.88431684057056, -9859.699999988079)
+[14:09:19] [Async Chat Thread - #4/INFO]: <EvoKoifis> xin loi
+[14:09:22] [Async Chat Thread - #4/INFO]: <EvoKoifis> dang ra nen ton trong
+[14:09:25] [User Authenticator #5/INFO]: UUID of player 100ksup is d602ce8a-bdd0-4560-a6e4-8fa4afee8a17
+[14:09:29] [Server thread/INFO]: 100ksup joined the game
+[14:09:29] [Server thread/INFO]: 100ksup[/[0:0:0:0:0:0:0:1%0]:52852] logged in with entity id 24125 at ([world]369.9216046699014, 62.0, -2203.3181077476484)
+[14:09:33] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 77930f04-d09c-46b5-8cc1-706a1a16fe48, mapped to Bat['Bat'/24469, uuid='77930f04-d09c-46b5-8cc1-706a1a16fe48', l='ServerLevel[world]', x=278.19, y=17.95, z=-2316.36, cpos=[17, -145], tl=585, v=true], can't add Bat['Bat'/24496, uuid='77930f04-d09c-46b5-8cc1-706a1a16fe48', l='ServerLevel[world]', x=278.54, y=18.27, z=-2320.47, cpos=[17, -146], tl=601, v=false]
+[14:09:33] [Async Chat Thread - #1/INFO]: <EvoKoifis> 100k sup
+[14:09:35] [Async Chat Thread - #1/INFO]: <Logs369> tran trung kien
+[14:09:40] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 3b1ebf6e-59fa-47a5-9bc5-eb8441f4f8cd, mapped to Cow['Cow'/24745, uuid='3b1ebf6e-59fa-47a5-9bc5-eb8441f4f8cd', l='ServerLevel[world]', x=230.22, y=68.00, z=-2462.51, cpos=[14, -154], tl=7744, v=true], can't add Cow['Cow'/24783, uuid='3b1ebf6e-59fa-47a5-9bc5-eb8441f4f8cd', l='ServerLevel[world]', x=220.23, y=68.00, z=-2468.82, cpos=[13, -155], tl=6273, v=false]
+[14:09:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5850ms or 117 ticks behind
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 18.382151189704018,0.0,-8.438355095546285
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 18.770760244828125,0.0,-8.527976839588518
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 19.15984378876601,0.0,-8.615897671224957
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 19.54936408073263,0.0,-8.702234878081072
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 19.93928503060306,0.0,-8.787105324798176
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 20.3295741088441,0.0,-8.870614181636483
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 20.720201316158636,0.0,-8.95285986809904
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 21.111138263659086,0.0,-9.033938504981052
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 21.50235937526304,0.0,-9.113936596804706
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 21.893840943324903,0.0,-9.192935769497126
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 22.285561612327,0.0,-9.271009483592934
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 22.6775008100376,0.0,-9.34823140241133
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 23.069640013985918,0.0,-9.42466782246629
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 23.4619625464984,0.0,-9.500378408294637
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 23.854452723397117,0.0,-9.57542063402434
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 24.247096425198833,0.0,-9.649846225904184
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 24.639880277536577,0.0,-9.723705513606546
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 25.03279223975551,0.0,-9.797043793831108
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 25.425821475269913,0.0,-9.86990183313901
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 25.81895757177699,0.0,-9.94232009888583
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 26.21219181012566,0.0,-10.014331233309349
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 26.60551568371011,0.0,-10.085968392333598
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 26.99892088465276,0.0,-10.15726519466989
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 27.39240058779251,0.0,-10.22824811877581
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 27.785947994838352,0.0,-10.298944773174298
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 28.179557642964937,0.0,-10.36937622716141
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 28.57322395999654,0.0,-10.439565221011435
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 28.966941930964822,0.0,-10.509532221902191
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 29.3607070424041,0.0,-10.579295649826236
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 29.75451523218362,0.0,-10.648872083245806
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 30.14836219247809,0.0,-10.718280221615714
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 30.54224469442852,0.0,-10.787533114671533
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 30.936159835800936,0.0,-10.856642507642391
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 31.330104352644412,0.0,-10.925622750539333
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 31.724075955615263,0.0,-10.994482979065651
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 32.11807193610002,0.0,-11.063235194662411
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 32.512090508273104,0.0,-11.131886419316288
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 32.90612941296422,0.0,-11.200446752125572
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 33.300186616921565,0.0,-11.26892528227836
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 33.694260938420484,0.0,-11.33732640980088
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 34.08835066570464,0.0,-11.405657874958706
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 34.482454258191865,0.0,-11.473926643990126
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 34.876570329368406,0.0,-11.542138986511418
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 35.27069827955711,0.0,-11.610296765866224
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 35.66483692086331,0.0,-11.678405438371556
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 36.05898518417234,0.0,-11.746469914713089
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 36.453142107282474,0.0,-11.814494614511204
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 36.8473068242165,0.0,-11.882483515419153
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 37.24147855559568,0.0,-11.950440197328135
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 37.63565659996675,0.0,-12.018367882137682
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 38.029840974231774,0.0,-12.08626568978434
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 38.42403104540426,0.0,-12.154136607987311
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 38.81822624379129,0.0,-12.221983325689507
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 39.21242605667794,0.0,-12.289808262943552
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 39.60663002260844,0.0,-12.357613597796444
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 40.000837726278405,0.0,-12.425401290485752
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 40.39504879391461,0.0,-12.49317310522747
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 40.78926288912044,0.0,-12.560930629821087
+[14:09:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! 23.189421234317706,0.0,-4.281773188246007
+[14:10:15] [Async Chat Thread - #1/INFO]: <PH1008> mang nhu dai cho
+[14:10:28] [Server thread/WARN]: PH1008 moved too quickly! 3.209310123290379,2.0554624345250474,-10.9077030169301
+[14:10:29] [Async Chat Thread - #1/INFO]: <PH1008> vcl delay 5s
+[14:11:04] [Async Chat Thread - #1/INFO]: <100ksup> wtg
+[14:11:09] [Async Chat Thread - #1/INFO]: <100ksup> trung binh
+[14:11:15] [Server thread/INFO]: 100ksup lost connection: Disconnected
+[14:11:15] [Server thread/INFO]: 100ksup left the game
+[14:11:18] [User Authenticator #6/INFO]: UUID of player 100ksup is d602ce8a-bdd0-4560-a6e4-8fa4afee8a17
+[14:11:19] [Server thread/INFO]: 100ksup joined the game
+[14:11:19] [Server thread/INFO]: 100ksup[/[0:0:0:0:0:0:0:1%0]:33182] logged in with entity id 26423 at ([world]369.9216046699014, 61.769472631087034, -2203.3181077476484)
+[14:11:22] [Server thread/INFO]: EvoKoifis has made the advancement [Local Brewery]
+[14:11:24] [Async Chat Thread - #1/INFO]: <Logs369> di xa spawn ra
+[14:11:28] [Async Chat Thread - #1/INFO]: <Logs369> moi dap block duoc
+[14:11:33] [Async Chat Thread - #1/INFO]: <100ksup> tai sao
+[14:11:49] [Async Chat Thread - #1/INFO]: <Logs369> Spawn protection
+[14:12:00] [Async Chat Thread - #1/INFO]: <100ksup> xa tam bao nhieu
+[14:12:04] [Async Chat Thread - #1/INFO]: <Logs369> 100
+[14:12:26] [Server thread/INFO]: 100ksup fell from a high place
+[14:12:28] [Async Chat Thread - #4/INFO]: <EvoKoifis> thang nay noi lan 69 roi
+[14:12:29] [Async Chat Thread - #4/INFO]: <EvoKoifis> cay
+[14:12:29] [Async Chat Thread - #4/INFO]: <PH1008> deo
+[14:12:30] [Async Chat Thread - #4/INFO]: <PH1008> deo va deo
+[14:12:34] [Async Chat Thread - #4/INFO]: <PH1008> da bao la deo roio thi dung hoi
+[14:12:35] [Async Chat Thread - #1/INFO]: <PH1008> deo
+[14:12:38] [Async Chat Thread - #1/INFO]: <PH1008> dcm mang nhu dai t
+[14:12:43] [Server thread/INFO]: canhvjp issued server command: /w Logs369
+[14:12:48] [Server thread/INFO]: canhvjp issued server command: /w Logs369 e
+[14:12:53] [Server thread/INFO]: HmzyyX lost connection: Disconnected
+[14:12:53] [Server thread/INFO]: HmzyyX left the game
+[14:12:57] [Server thread/INFO]: canhvjp issued server command: /w Logs369 o base t xay cai pearl hang
+[14:13:10] [Async Chat Thread - #1/INFO]: <Logs369> ok
+[14:13:16] [Server thread/INFO]: canhvjp issued server command: /w Logs369 t chat a len chat thi m ve base va bam cai cua sap
+[14:13:17] [Server thread/INFO]: Logs369 issued server command: /msg canhvjp ong muon nho t canh a
+[14:13:22] [Server thread/WARN]: PH1008 moved too quickly! -0.7850154909829143,-2.1661092609382138,-16.731919686608308
+[14:13:28] [Async Chat Thread - #1/INFO]: <PH1008> mang nhi aciadiwaid 0awdi aiw dawid aijpwdaokwd lapwd laqwdl awdl awl
+[14:13:31] [Async Chat Thread - #1/INFO]: <PH1008> dit me mang
+[14:13:32] [Server thread/INFO]: canhvjp issued server command: /w Logs369 ko, t ve spawn, t khong muon di bo ve
+[14:13:33] [Async Chat Thread - #4/INFO]: <PH1008> dit me game
+[14:13:41] [Server thread/INFO]: Logs369 issued server command: /msg canhvjp nhung ma se mat mot khoang thoi gian
+[14:13:46] [Async Chat Thread - #1/INFO]: <canhvjp> ko sao
+[14:13:53] [Server thread/INFO]: canhvjp issued server command: /w Logs369 m gan base
+[14:14:49] [Server thread/INFO]: Logs369 issued server command: /msg canhvjp uh vay trong luc t ve base thi ong cu kham pha xung quanh di
+[14:14:55] [Async Chat Thread - #4/INFO]: <PH1008> mang nhu vai leo hmfgl dlfe elfelpn
+[14:15:06] [Async Chat Thread - #4/INFO]: <EvoKoifis> anh nay cu than phien ve mang
+[14:15:10] [Async Chat Thread - #4/INFO]: <EvoKoifis> + may tu linh tinh
+[14:15:45] [Server thread/WARN]: PH1008 moved too quickly! -1.9261986199198873,2.0,-9.66813068387819
+[14:15:50] [Server thread/INFO]: canhvjp issued server command: /w Logs369 nho nha, t chat chu A len chat t bat ho t
+[14:16:05] [Server thread/INFO]: Logs369 issued server command: /msg canhvjp nhung ma trong luc ong cho toi thi co sao khong
+[14:16:24] [Async Chat Thread - #4/INFO]: <canhvjp> ko sao
+[14:16:27] [Async Chat Thread - #4/INFO]: <canhvjp> t khong combat
+[14:16:41] [Async Chat Thread - #5/INFO]: <100ksup> co danh wither nua ko anh
+[14:16:44] [Async Chat Thread - #5/INFO]: <canhvjp> ko
+[14:17:05] [Server thread/WARN]: PH1008 was kicked for floating too long!
+[14:17:05] [Server thread/INFO]: PH1008 lost connection: Flying is not enabled on this server
+[14:17:05] [Server thread/INFO]: PH1008 left the game
+[14:17:11] [User Authenticator #7/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[14:17:12] [Server thread/INFO]: PH1008 joined the game
+[14:17:12] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:32800] logged in with entity id 33677 at ([world]-5192.552371235838, -41.84257456665835, -9919.226435733353)
+[14:17:17] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[14:17:17] [Server thread/INFO]: PH1008 left the game
+[14:17:28] [User Authenticator #7/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[14:17:29] [Server thread/INFO]: PH1008 joined the game
+[14:17:29] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:33610] logged in with entity id 34230 at ([world]-5192.552371235838, -41.99780657117495, -9919.226435733353)
+[14:18:15] [Server thread/INFO]: EvoKoifis has made the advancement [Hidden in the Depths]
+[14:18:25] [Server thread/INFO]: PH1008 lost connection: Timed out
+[14:18:25] [Server thread/INFO]: PH1008 left the game
+[14:18:31] [Async Chat Thread - #6/INFO]: <EvoKoifis> em chua co template
+[14:18:41] [Async Chat Thread - #7/INFO]: <Logs369> khangmc kia
+[14:18:47] [Async Chat Thread - #7/INFO]: <EvoKoifis> dau?
+[14:18:56] [Async Chat Thread - #7/INFO]: <Logs369> no vua bao cho ai xong may chui no
+[14:19:09] [Async Chat Thread - #7/INFO]: <EvoKoifis> chui gi?
+[14:19:21] [User Authenticator #8/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[14:19:24] [Server thread/INFO]: PH1008 joined the game
+[14:19:24] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:45922] logged in with entity id 36547 at ([world]-5195.199433256804, -44.0, -9926.906750404396)
+[14:19:26] [Async Chat Thread - #7/INFO]: <Logs369> thang nay bi mat tri nho tam thoi a
+[14:19:32] [Async Chat Thread - #7/INFO]: <Logs369> scroll len di
+[14:19:41] [Async Chat Thread - #7/INFO]: <EvoKoifis> a do thang haiminh
+[14:19:42] [Async Chat Thread - #7/INFO]: <EvoKoifis> 256
+[14:19:42] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[14:19:42] [Server thread/INFO]: PH1008 left the game
+[14:19:45] [User Authenticator #8/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[14:19:46] [Server thread/INFO]: PH1008 joined the game
+[14:19:46] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:36726] logged in with entity id 37308 at ([world]-5195.199433256804, -44.0, -9926.906750404396)
+[14:19:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3014ms or 60 ticks behind
+[14:19:49] [Server thread/WARN]: canhvjp moved too quickly! 11.00380409205718,0.0,-8.884997765727348
+[14:19:49] [Server thread/WARN]: Logs369 moved too quickly! -9.343884190180688,-3.3137757694825325,-1.9319542777375318
+[14:20:43] [Async Chat Thread - #7/INFO]: <EvoKoifis> 40 tnt 2 debris
+[14:20:46] [Async Chat Thread - #7/INFO]: <EvoKoifis> cam on basalt
+[14:20:49] [Server thread/WARN]: PH1008 was kicked for floating too long!
+[14:20:49] [Server thread/INFO]: PH1008 lost connection: Flying is not enabled on this server
+[14:20:49] [Server thread/INFO]: PH1008 left the game
+[14:20:50] [Async Chat Thread - #7/INFO]: <Logs369> t 1 stack 1
+[14:20:52] [Async Chat Thread - #7/INFO]: <100ksup> the thoi
+[14:20:58] [User Authenticator #9/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[14:21:00] [Server thread/INFO]: PH1008 joined the game
+[14:21:00] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:41730] logged in with entity id 38973 at ([world]-5202.447621902214, -45.78036597423398, -9904.66259535908)
+[14:21:27] [Server thread/INFO]: Applied effect Speed to canhvjp
+[14:21:48] [User Authenticator #9/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[14:21:48] [Server thread/INFO]: PH1008 lost connection: You logged in from another location
+[14:21:48] [Server thread/INFO]: PH1008 left the game
+[14:21:50] [Server thread/INFO]: PH1008 joined the game
+[14:21:50] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:37884] logged in with entity id 40619 at ([world]-5202.447621902214, -45.85876597575986, -9904.66259535908)
+[14:21:54] [Async Chat Thread - #7/INFO]: <canhvjp> kien oi
+[14:21:57] [Async Chat Thread - #7/INFO]: <canhvjp> t gap m
+[14:22:03] [Async Chat Thread - #7/INFO]: <100ksup> what
+[14:22:09] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[14:22:09] [Server thread/INFO]: PH1008 left the game
+[14:22:12] [Async Chat Thread - #7/INFO]: <canhvjp> chup hinh cac kieu
+[14:22:15] [User Authenticator #9/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[14:22:17] [Server thread/INFO]: PH1008 joined the game
+[14:22:17] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:59886] logged in with entity id 41225 at ([world]-5202.447621902214, -46.0, -9904.66259535908)
+[14:23:11] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[14:23:11] [Server thread/INFO]: PH1008 left the game
+[14:23:59] [Async Chat Thread - #10/INFO]: <Logs369> Bien deo gi it kc vai
+[14:24:35] [Async Chat Thread - #10/INFO]: <canhvjp> water voice
+[14:24:39] [Async Chat Thread - #10/INFO]: <canhvjp> m ko can noi
+[14:24:42] [Async Chat Thread - #10/INFO]: <Logs369> bo me t dang o gan
+[14:24:47] [Async Chat Thread - #10/INFO]: <Logs369> khong lam an duoc gi
+[14:24:50] [Async Chat Thread - #11/INFO]: <canhvjp> m nghe t noi cho de
+[14:24:52] [Async Chat Thread - #10/INFO]: <EvoKoifis> kho nhi
+[14:24:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2973ms or 59 ticks behind
+[14:24:52] [Server thread/WARN]: 100ksup moved too quickly! 9.716680688092424,1.5800000131130219,-6.891728372840134
+[14:24:52] [Server thread/WARN]: canhvjp moved too quickly! 21.962392152005123,0.0,-6.016307062349824
+[14:24:56] [Async Chat Thread - #10/INFO]: <EvoKoifis> anh nay khong co tai nghe a?
+[14:25:06] [Async Chat Thread - #10/INFO]: <Logs369> Tai nghe t dung duoc ma no ban vc
+[14:25:13] [Async Chat Thread - #10/INFO]: <Logs369> ok vay thi ong dung chui bay gi nhe
+[14:26:06] [Async Chat Thread - #10/INFO]: <Logs369> tim netherite a
+[14:26:17] [Async Chat Thread - #10/INFO]: <Logs369> T co hang to lam
+[14:26:22] [Async Chat Thread - #10/INFO]: <Logs369> vua tim dc xong
+[14:26:41] [Server thread/INFO]: Applied effect Speed to canhvjp
+[14:28:08] [Async Chat Thread - #12/INFO]: <Logs369> ha
+[14:28:45] [Server thread/INFO]: Removed every effect from canhvjp
+[14:29:07] [Server thread/INFO]: Logs369 issued server command: /msg canhvjp nhieu kc vc canh a
+[14:29:26] [User Authenticator #10/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[14:29:28] [Server thread/INFO]: PH1008 joined the game
+[14:29:28] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:44910] logged in with entity id 49703 at ([world]-5202.447621902214, -46.0, -9904.66259535908)
+[14:29:55] [Async Chat Thread - #13/INFO]: <PH1008> dcm mang nhu cai longo lon y cai dit me mang
+[14:30:05] [Async Chat Thread - #13/INFO]: <PH1008> mang nay chos choi
+[14:30:46] [Server thread/INFO]: PH1008 lost connection: Timed out
+[14:30:46] [Server thread/INFO]: PH1008 left the game
+[14:31:59] [Async Chat Thread - #14/INFO]: <canhvjp> m lay enchant fortune
+[14:32:02] [Async Chat Thread - #15/INFO]: <canhvjp> lay nhieu kc
+[14:32:04] [Async Chat Thread - #16/INFO]: <Logs369> co roi
+[14:32:06] [Async Chat Thread - #16/INFO]: <Logs369> 50
+[14:32:10] [Async Chat Thread - #16/INFO]: <canhvjp> ngon
+[14:34:05] [User Authenticator #11/INFO]: UUID of player minhhhhhhhh is a9832b36-3a9f-4126-9624-5a52fa94738b
+[14:34:07] [Server thread/INFO]: minhhhhhhhh joined the game
+[14:34:07] [Server thread/INFO]: minhhhhhhhh[/[0:0:0:0:0:0:0:1%0]:52408] logged in with entity id 52259 at ([world]-3197.762499988079, 163.0, -6274.479735396427)
+[14:34:24] [Async Chat Thread - #18/INFO]: <EvoKoifis> toi dang xay nha
+[14:34:25] [Async Chat Thread - #18/INFO]: <EvoKoifis> kk
+[14:34:52] [Async Chat Thread - #18/INFO]: <EvoKoifis> farm co nhanh khong
+[14:35:15] [Server thread/INFO]: minhhhhhhhh lost connection: Timed out
+[14:35:15] [Server thread/INFO]: minhhhhhhhh left the game
+[14:35:21] [User Authenticator #12/INFO]: UUID of player minhhhhhhhh is a9832b36-3a9f-4126-9624-5a52fa94738b
+[14:35:22] [Server thread/INFO]: minhhhhhhhh joined the game
+[14:35:22] [Server thread/INFO]: minhhhhhhhh[/[0:0:0:0:0:0:0:1%0]:43010] logged in with entity id 52925 at ([world]-3197.8541550651375, 163.0, -6274.884330514828)
+[14:35:23] [Async Chat Thread - #18/INFO]: <100ksup> anh minh
+[14:35:31] [Async Chat Thread - #18/INFO]: <minhhhhhhhh> gi em
+[14:35:40] [Async Chat Thread - #18/INFO]: <EvoKoifis> du mick roi voice lam gi
+[14:35:42] [Async Chat Thread - #18/INFO]: <100ksup> a ko co gi
+[14:38:20] [Server thread/INFO]: Logs369 issued server command: /msg canhvjp 1 stack roi kk
+[14:38:23] [Async Chat Thread - #20/INFO]: <EvoKoifis> a u toi co looting 3 do
+[14:38:24] [Async Chat Thread - #20/INFO]: <canhvjp> them di
+[14:38:41] [Async Chat Thread - #20/INFO]: <EvoKoifis> giam render di
+[14:38:46] [Async Chat Thread - #20/INFO]: <EvoKoifis> cu giam di
+[14:39:03] [Async Chat Thread - #20/INFO]: <EvoKoifis> khong phai
+[14:39:06] [Async Chat Thread - #20/INFO]: <Logs369> anh em
+[14:39:08] [Async Chat Thread - #20/INFO]: <EvoKoifis> kieu khi toi o duoi
+[14:39:09] [Async Chat Thread - #20/INFO]: <Logs369> toi gap mot block raw iron
+[14:39:12] [Async Chat Thread - #20/INFO]: <EvoKoifis> mob o duoi no spawn
+[14:39:18] [Async Chat Thread - #20/INFO]: <EvoKoifis> con toi len roi chung no despawn
+[14:39:33] [Async Chat Thread - #20/INFO]: <EvoKoifis> nghia la kieu khi farm thi khong 1 ai o duoi
+[14:39:39] [Async Chat Thread - #20/INFO]: <EvoKoifis> khong thi mob farm khong hoat dong
+[14:39:57] [Async Chat Thread - #20/INFO]: <EvoKoifis> neu ong choi ma kieu 2-3 nguoi
+[14:39:58] [Async Chat Thread - #20/INFO]: <EvoKoifis> thi phe lamn
+[14:40:23] [Async Chat Thread - #20/INFO]: <EvoKoifis> a hay canh add plugin
+[14:40:30] [Async Chat Thread - #19/INFO]: <EvoKoifis> kieu mob spawner dao bang silk touch
+[14:40:38] [Async Chat Thread - #19/INFO]: <Logs369> kk
+[14:40:50] [Async Chat Thread - #19/INFO]: <Logs369> cho t tanh mua roi
+[14:40:50] [Async Chat Thread - #19/INFO]: <EvoKoifis> nay cho HBT mua to lam
+[14:41:14] [Async Chat Thread - #19/INFO]: <EvoKoifis> thoi dukmig khong nen farm nua
+[14:41:17] [Async Chat Thread - #19/INFO]: <EvoKoifis> tai vi toi di xuong
+[14:41:18] [Async Chat Thread - #19/INFO]: <EvoKoifis> kk
+[14:41:29] [Async Chat Thread - #19/INFO]: <EvoKoifis> dukmig thuc ra la
+[14:41:34] [Async Chat Thread - #19/INFO]: <EvoKoifis> 20p nua
+[14:41:36] [Async Chat Thread - #19/INFO]: <EvoKoifis> toi roi
+[14:41:38] [Async Chat Thread - #19/INFO]: <Logs369> Phai xay o tit ngoai bien co
+[14:42:34] [Server thread/INFO]: Applied effect Speed to canhvjp
+[14:43:16] [Async Chat Thread - #21/INFO]: <Logs369> Minh sap day kc roi
+[14:44:20] [User Authenticator #13/INFO]: UUID of player TANTHINH008 is cec3f0bf-97f0-424f-a8af-55c9c4702bc4
+[14:44:21] [Server thread/INFO]: TANTHINH008 joined the game
+[14:44:21] [Server thread/INFO]: TANTHINH008[/[0:0:0:0:0:0:0:1%0]:34138] logged in with entity id 60838 at ([world]-585.666045744967, -39.0, -2358.8889149485954)
+[14:44:21] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ffae1ed2-48ae-4a5a-b3ef-b67ee8916782, mapped to Bat['Bat'/60864, uuid='ffae1ed2-48ae-4a5a-b3ef-b67ee8916782', l='ServerLevel[world]', x=-589.58, y=-32.23, z=-2340.29, cpos=[-37, -147], tl=606, v=true], can't add Bat['Bat'/60879, uuid='ffae1ed2-48ae-4a5a-b3ef-b67ee8916782', l='ServerLevel[world]', x=-585.11, y=-36.54, z=-2331.52, cpos=[-37, -146], tl=224, v=false]
+[14:44:21] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 7f537a3d-ac64-481f-9ec4-4974964a5bfb, mapped to Bat['Bat'/60863, uuid='7f537a3d-ac64-481f-9ec4-4974964a5bfb', l='ServerLevel[world]', x=-579.71, y=-36.78, z=-2339.47, cpos=[-37, -147], tl=592, v=true], can't add Bat['Bat'/60880, uuid='7f537a3d-ac64-481f-9ec4-4974964a5bfb', l='ServerLevel[world]', x=-586.07, y=-32.87, z=-2332.68, cpos=[-37, -146], tl=210, v=false]
+[14:44:21] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 757458bf-d96f-4c23-a784-249c1254ce5f, mapped to Bat['Bat'/60868, uuid='757458bf-d96f-4c23-a784-249c1254ce5f', l='ServerLevel[world]', x=-601.33, y=-33.97, z=-2366.56, cpos=[-38, -148], tl=134, v=true], can't add Bat['Bat'/60881, uuid='757458bf-d96f-4c23-a784-249c1254ce5f', l='ServerLevel[world]', x=-598.92, y=-31.67, z=-2368.07, cpos=[-38, -149], tl=186, v=false]
+[14:44:32] [Async Chat Thread - #23/INFO]: <Logs369> Tf hang to vai cac
+[14:44:55] [Server thread/WARN]: canhvjp moved too quickly! -6.947230166354643,-0.7684762024129839,-10.87205743231334
+[14:44:55] [Server thread/WARN]: 100ksup moved too quickly! 11.307227070961687,-1.2491870787446828,-0.32756406784710634
+[14:44:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[14:45:00] [Async Chat Thread - #23/INFO]: <Logs369> cai day dupe duoc
+[14:45:24] [Async Chat Thread - #23/INFO]: <Logs369> 6
+[14:45:30] [Server thread/INFO]: 100ksup lost connection: Disconnected
+[14:45:30] [Server thread/INFO]: 100ksup left the game
+[14:45:31] [Async Chat Thread - #24/INFO]: <Logs369> thue vat 8
+[14:45:43] [Async Chat Thread - #24/INFO]: <EvoKoifis> 7 ma
+[14:45:44] [Async Chat Thread - #24/INFO]: <EvoKoifis> 8 daui
+[14:45:45] [Async Chat Thread - #24/INFO]: <EvoKoifis> dau*
+[14:46:40] [Async Chat Thread - #24/INFO]: <TANTHINH008> bao nhiu
+[14:46:51] [Async Chat Thread - #24/INFO]: <TANTHINH008> :)
+[14:47:08] [Server thread/INFO]: Logs369 issued server command: /msg canhvjp -35696 -31 18942
+[14:47:13] [Server thread/INFO]: Logs369 issued server command: /msg canhvjp hang nay to lam
+[14:47:20] [Server thread/INFO]: Logs369 issued server command: /msg canhvjp kham pha mai chua het
+[14:47:48] [Server thread/INFO]: Applied effect Speed to canhvjp
+[14:51:06] [Async Chat Thread - #25/INFO]: <EvoKoifis> chua xay xong
+[14:53:20] [Async Chat Thread - #27/INFO]: <EvoKoifis> thoi toi off day
+[14:53:22] [Async Chat Thread - #28/INFO]: <EvoKoifis> goodnight?
+[14:53:27] [Async Chat Thread - #28/INFO]: <Logs369> ha
+[14:53:29] [Async Chat Thread - #28/INFO]: <EvoKoifis> chao canh nha
+[14:53:32] [Async Chat Thread - #28/INFO]: <EvoKoifis> chao water
+[14:53:38] [Async Chat Thread - #28/INFO]: <EvoKoifis> chao tan thinh
+[14:53:46] [Async Chat Thread - #27/INFO]: <EvoKoifis> chuc ngu ngon va TBN vo dich
+[14:53:49] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[14:53:49] [Server thread/INFO]: EvoKoifis left the game
+[14:53:59] [Server thread/INFO]: Applied effect Speed to canhvjp
+[14:54:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2606ms or 52 ticks behind
+[14:54:57] [Server thread/WARN]: canhvjp moved too quickly! -15.222997312481766,-8.636747624359238,-5.235474457464079
+[14:55:13] [Server thread/INFO]: Logs369 issued server command: /msg canhvjp t dung lai o 2 stack kc 5 stack sat 4 stack vang nhe
+[14:55:19] [Server thread/INFO]: Logs369 issued server command: /msg canhvjp het cho roi
+[14:56:37] [Async Chat Thread - #31/INFO]: <TANTHINH008> anh canh ban j v
+[14:57:31] [Async Chat Thread - #32/INFO]: <Logs369> You go too far
+[14:58:33] [Async Chat Thread - #33/INFO]: <Logs369> duoc
+[14:59:25] [Server thread/INFO]: Applied effect Speed to canhvjp
+[14:59:34] [Async Chat Thread - #35/INFO]: <Logs369> Smp a
+[14:59:55] [Server thread/INFO]: Logs369 has made the advancement [Minecraft: Trial(s) Edition]
+[15:00:00] [Server thread/WARN]: minhhhhhhhh moved too quickly! -8.667701076254161,2.0554624345250403,-11.866359870211454
+[15:00:00] [Server thread/WARN]: canhvjp moved too quickly! -10.505935494362348,3.0754440651894868,-3.446817134945377
+[15:00:10] [Server thread/INFO]: Logs369 issued server command: /msg canhvjp -34676 -29 18739
+[15:00:16] [Async Chat Thread - #36/INFO]: <Logs369> ok
+[15:00:47] [Server thread/INFO]: minhhhhhhhh has made the advancement [Enchanter]
+[15:00:51] [User Authenticator #14/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[15:00:53] [Server thread/INFO]: PH1008 joined the game
+[15:00:53] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:47034] logged in with entity id 80334 at ([world]-5202.447621902214, -46.0, -9904.66259535908)
+[15:00:59] [Async Chat Thread - #36/INFO]: <Logs369> Du me phu thuy
+[15:01:21] [Async Chat Thread - #36/INFO]: <PH1008> mang nhu cai dai cho dit me mang lon
+[15:01:34] [Async Chat Thread - #36/INFO]: <Logs369> thoi tam thoi t ve nha da
+[15:01:36] [Async Chat Thread - #35/INFO]: <Logs369> het cho roi
+[15:01:38] [Async Chat Thread - #35/INFO]: <PH1008> deo
+[15:01:42] [Async Chat Thread - #35/INFO]: <PH1008> deo
+[15:01:43] [Async Chat Thread - #35/INFO]: <PH1008> deo
+[15:01:44] [Async Chat Thread - #35/INFO]: <PH1008> doe
+[15:01:46] [Async Chat Thread - #35/INFO]: <PH1008> deo
+[15:03:08] [Server thread/INFO]: PH1008 issued server command: /tell minhhhhhhhh vcl gan nha minh vai dai
+[15:03:28] [Async Chat Thread - #38/INFO]: <Logs369> hang to dung the nay co ma sai vo tu
+[15:03:44] [Async Chat Thread - #38/INFO]: <Logs369> t lo len 3 stack roi
+[15:04:33] [Async Chat Thread - #38/INFO]: <Logs369> canh can pearl hang chua
+[15:05:33] [Async Chat Thread - #39/INFO]: <Logs369> co
+[15:05:37] [Async Chat Thread - #39/INFO]: <Logs369> 9 kim cuong nhe
+[15:05:51] [Server thread/INFO]: TANTHINH008 lost connection: Disconnected
+[15:05:51] [Server thread/INFO]: TANTHINH008 left the game
+[15:05:53] [Server thread/INFO]: PH1008 issued server command: /tell minhhhhhhhh danh no
+[15:06:00] [Server thread/INFO]: minhhhhhhhh issued server command: /msg PH1008 deo
+[15:06:02] [Async Chat Thread - #39/INFO]: <Logs369> bao gom thue vat cac kieu
+[15:06:03] [Server thread/INFO]: minhhhhhhhh issued server command: /msg PH1008 giap manh vl
+[15:06:12] [Server thread/INFO]: PH1008 issued server command: /tell minhhhhhhhh the thi thoi t cung k biey
+[15:06:15] [Async Chat Thread - #40/INFO]: <canhvjp> a
+[15:06:18] [Async Chat Thread - #40/INFO]: <Logs369> ok
+[15:06:19] [Server thread/INFO]: PH1008 issued server command: /tell minhhhhhhhh dung dan no ra cho t
+[15:06:22] [Async Chat Thread - #40/INFO]: <Logs369> t dang ve nha
+[15:08:29] [Async Chat Thread - #41/INFO]: <Logs369> ok chuan bi nay
+[15:08:33] [Async Chat Thread - #41/INFO]: <Logs369> canh muon luon dk
+[15:08:38] [Async Chat Thread - #41/INFO]: <canhvjp> u
+[15:08:41] [Async Chat Thread - #41/INFO]: <canhvjp> ve
+[15:08:42] [Server thread/INFO]: PH1008 issued server command: /tell minhhhhhhhh toa do cong nha minh la bnh nhi
+[15:08:47] [User Authenticator #15/INFO]: UUID of player gato_the_gay is 45c7a210-8e9a-47b1-a1ed-94b423e1cdd2
+[15:08:48] [Server thread/INFO]: gato_the_gay joined the game
+[15:08:48] [Server thread/INFO]: gato_the_gay[/[0:0:0:0:0:0:0:1%0]:47642] logged in with entity id 89520 at ([world]3916.140256528665, 80.0, -3790.589142922162)
+[15:08:52] [Async Chat Thread - #42/INFO]: <Logs369> ve chua
+[15:08:55] [Async Chat Thread - #42/INFO]: <canhvjp> chua
+[15:09:01] [Async Chat Thread - #42/INFO]: <Logs369> tf t dat cua sap roi
+[15:09:13] [Async Chat Thread - #42/INFO]: <Logs369> mo
+[15:09:18] [Async Chat Thread - #42/INFO]: <canhvjp> wtf
+[15:09:22] [Async Chat Thread - #42/INFO]: <canhvjp> t ko ve dc a
+[15:09:33] [Async Chat Thread - #42/INFO]: <Logs369> out ra vao lai thu di
+[15:09:35] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[15:09:35] [Server thread/INFO]: canhvjp left the game
+[15:09:37] [User Authenticator #15/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[15:09:38] [Server thread/INFO]: canhvjp joined the game
+[15:09:38] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:57462] logged in with entity id 91116 at ([world]-3145.300000011921, 63.9375, -6300.218906132276)
+[15:09:58] [Async Chat Thread - #42/INFO]: <Logs369> ha
+[15:10:00] [Async Chat Thread - #42/INFO]: <Logs369> nhan di
+[15:10:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3770ms or 75 ticks behind
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -6.588787214468994,0.0,-19.305134648650892
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -6.717405230349414,0.0,-19.683891525953186
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -6.846021441708672,0.0,-20.062649088965372
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -6.974636028999157,0.0,-20.441407269116098
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -7.10324915462752,0.0,-20.8201660046916
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -7.231860964760472,0.0,-21.198925240149038
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -7.360471590947327,0.0,-21.577684925500762
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -7.489081151582468,0.0,-21.9564450157568
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -7.617689753221384,0.0,-22.335205470427354
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -7.746297491763471,0.0,-22.713966253070794
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -7.874904453518866,0.0,-23.09272733088983
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -8.003510716166147,0.0,-23.4714886743659
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -8.132116349615899,0.0,-23.850250256934487
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -8.260721416787874,0.0,-24.22901205468588
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -8.38932597430994,0.0,-24.60777404610235
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -8.517930073147454,0.0,-24.9865362118162
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -8.646533759168506,0.0,-25.36529853439879
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -8.775137073654605,0.0,-25.74406099816315
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -8.90374005375952,0.0,-26.122823588990286
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -9.032342732921279,0.0,-26.501586294174558
+[15:10:01] [Server thread/WARN]: Logs369 moved too quickly! 0.5759663318822277,-10.806526110008988,-0.39582459264056524
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -9.160945141234151,0.0,-26.88034910227998
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -9.289547305783344,0.0,-27.259112003014707
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -9.418149250945135,0.0,-27.637874987115538
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -9.546750998657899,0.0,-28.016638046246044
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -9.675352568666767,0.0,-28.395401172902893
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -9.803953978742356,0.0,-28.774164360333998
+[15:10:01] [Server thread/WARN]: Birch Boat (vehicle of minhhhhhhhh) moved too quickly! -9.932555244877676,0.0,-29.152927602462114
+[15:10:36] [Server thread/INFO]: Logs369 lost connection: Disconnected
+[15:10:36] [Server thread/INFO]: Logs369 left the game
+[15:10:39] [User Authenticator #16/INFO]: UUID of player Logs369 is d7d0c0f5-d2bd-47d2-9bf3-05ceedd7ba85
+[15:10:41] [Server thread/INFO]: Logs369 joined the game
+[15:10:41] [Server thread/INFO]: Logs369[/[0:0:0:0:0:0:0:1%0]:38880] logged in with entity id 92660 at ([world]-34058.16432122987, 79.0, 19951.9783472867)
+[15:10:51] [Async Chat Thread - #42/INFO]: <Logs369> cung khong duoc
+[15:11:00] [Async Chat Thread - #42/INFO]: <Logs369> ma canh dang o toa do bn
+[15:11:05] [Async Chat Thread - #42/INFO]: <Logs369> ow hay nether
+[15:11:19] [Async Chat Thread - #42/INFO]: <Logs369> a
+[15:11:23] [Async Chat Thread - #42/INFO]: <Logs369> canh mo chunk render di
+[15:11:26] [Async Chat Thread - #42/INFO]: <Logs369> cang cao cang tot
+[15:11:41] [Async Chat Thread - #42/INFO]: <Logs369> khong duoc a
+[15:12:19] [Async Chat Thread - #42/INFO]: <Logs369> chac xa qua nen no khong load duoc
+[15:12:32] [Async Chat Thread - #42/INFO]: <Logs369> thoi thi vuot rau di bo
+[15:12:36] [Server thread/INFO]: Villager Villager['Librarian'/88231, uuid='657fab8a-6176-477b-a947-cbbaf5d6c7e3', l='ServerLevel[world]', x=-34036.70, y=64.00, z=19936.70, cpos=[-2128, 1246], tl=212979, v=true] died, message: 'Librarian was slain by Zombie'
+[15:12:43] [Async Chat Thread - #42/INFO]: <Logs369> vc
+[15:12:46] [Async Chat Thread - #42/INFO]: <Logs369> nhanh vay
+[15:12:46] [Server thread/INFO]: Villager Villager['Librarian'/88237, uuid='a55d036b-3f4d-4056-874f-0f32b8cee1f7', l='ServerLevel[world]', x=-34036.68, y=64.00, z=19938.41, cpos=[-2128, 1246], tl=214157, v=true] died, message: 'Librarian was slain by Zombie'
+[15:13:05] [Async Chat Thread - #41/INFO]: <Logs369> duoc ma
+[15:13:06] [Server thread/INFO]: Villager Villager['Librarian'/88238, uuid='b452f24e-023c-4a55-80c4-e6e62d0b06b1', l='ServerLevel[world]', x=-34036.70, y=64.00, z=19940.70, cpos=[-2128, 1246], tl=212724, v=true] died, message: 'Librarian was slain by Zombie'
+[15:13:13] [Async Chat Thread - #41/INFO]: <Logs369> chac do chunk loader khong hoat dong duoc
+[15:13:14] [Server thread/INFO]: Villager Villager['Mason'/88236, uuid='aa713d19-fc24-4779-8397-7a1b448cb011', l='ServerLevel[world]', x=-34032.70, y=64.00, z=19939.70, cpos=[-2128, 1246], tl=213296, v=true] died, message: 'Mason was slain by Zombie'
+[15:13:22] [Server thread/INFO]: Villager Villager['Librarian'/88235, uuid='ed7d1034-253d-4429-896d-b35f376d8ff0', l='ServerLevel[world]', x=-34032.30, y=64.00, z=19937.70, cpos=[-2128, 1246], tl=213472, v=true] died, message: 'Librarian was slain by Zombie'
+[15:13:25] [Async Chat Thread - #41/INFO]: <Logs369> ok
+[15:13:31] [Server thread/INFO]: Villager Villager['Librarian'/88150, uuid='c10df73c-fe47-4521-9c16-4c7120924520', l='ServerLevel[world]', x=-34032.70, y=64.00, z=19935.70, cpos=[-2128, 1245], tl=214890, v=true] died, message: 'Librarian was slain by Zombie'
+[15:13:47] [Server thread/INFO]: Villager Villager['Fletcher'/88151, uuid='7c2e5033-ed22-4229-a428-821c6d917b70', l='ServerLevel[world]', x=-34032.70, y=64.00, z=19933.30, cpos=[-2128, 1245], tl=214201, v=true] died, message: 'Fletcher was slain by Zombie'
+[15:13:48] [Async Chat Thread - #41/INFO]: <Logs369> the thi do chunk khong load duoc roi
+[15:13:54] [Async Chat Thread - #41/INFO]: <Logs369> tan hon 100k blocks
+[15:13:56] [Server thread/INFO]: Villager Villager['Librarian'/88152, uuid='c8cd9f75-fd44-4817-98f6-fcd8282aafc9', l='ServerLevel[world]', x=-34036.70, y=64.00, z=19934.30, cpos=[-2128, 1245], tl=216220, v=true] died, message: 'Librarian was slain by Zombie'
+[15:14:02] [Async Chat Thread - #41/INFO]: <Logs369> tam hon 2000 blocks di
+[15:14:06] [Async Chat Thread - #41/INFO]: <Logs369> o nether
+[15:14:18] [Server thread/INFO]: Villager Villager['Librarian'/88232, uuid='4191ab5b-693c-4ce8-bf2c-ec0e2b27bf28', l='ServerLevel[world]', x=-34036.70, y=64.00, z=19942.70, cpos=[-2128, 1246], tl=216177, v=true] died, message: 'Librarian was slain by Zombie'
+[15:14:42] [Async Chat Thread - #41/INFO]: <Logs369> lam a
+[15:14:50] [Async Chat Thread - #41/INFO]: <canhvjp> e
+[15:15:19] [Async Chat Thread - #41/INFO]: <Logs369> uh
+[15:15:21] [Async Chat Thread - #41/INFO]: <Logs369> cung ok
+[15:15:39] [Async Chat Thread - #41/INFO]: <canhvjp> wht
+[15:15:43] [Async Chat Thread - #41/INFO]: <canhvjp> villager dau r
+[15:15:46] [Async Chat Thread - #41/INFO]: <Logs369> cho ti de t dupe smithing template
+[15:15:51] [Netty Epoll Server IO #0/WARN]: Failed to update secure chat state for gato_the_gay: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[15:15:51] [Async Chat Thread - #41/INFO]: <gato_the_gay> haha
+[15:15:53] [Async Chat Thread - #41/INFO]: <gato_the_gay> dupe
+[15:15:55] [Netty Epoll Server IO #0/WARN]: Failed to update secure chat state for gato_the_gay: 'Chat had an invalid signature. Please try reconnecting.'
+[15:15:58] [Netty Epoll Server IO #0/WARN]: Failed to update secure chat state for gato_the_gay: 'Chat disabled due to broken chain. Please try reconnecting.'
+[15:16:01] [Netty Epoll Server IO #0/WARN]: Failed to update secure chat state for gato_the_gay: 'Chat disabled due to broken chain. Please try reconnecting.'
+[15:16:05] [Netty Epoll Server IO #0/WARN]: Failed to update secure chat state for gato_the_gay: 'Chat disabled due to broken chain. Please try reconnecting.'
+[15:16:07] [Netty Epoll Server IO #3/WARN]: Failed to update secure chat state for Logs369: 'Chat had an invalid signature. Please try reconnecting.'
+[15:16:08] [Netty Epoll Server IO #0/WARN]: Failed to update secure chat state for gato_the_gay: 'Chat disabled due to broken chain. Please try reconnecting.'
+[15:16:09] [Server thread/INFO]: Logs369 lost connection: Disconnected
+[15:16:09] [Server thread/INFO]: Logs369 left the game
+[15:16:09] [Server thread/INFO]: gato_the_gay lost connection: Disconnected
+[15:16:09] [Server thread/INFO]: gato_the_gay left the game
+[15:16:11] [User Authenticator #17/INFO]: UUID of player gato_the_gay is 45c7a210-8e9a-47b1-a1ed-94b423e1cdd2
+[15:16:11] [Server thread/INFO]: gato_the_gay joined the game
+[15:16:11] [Server thread/INFO]: gato_the_gay[/[0:0:0:0:0:0:0:1%0]:55670] logged in with entity id 96929 at ([world]3915.125985590367, 81.5625, -3780.9141354972435)
+[15:16:15] [Netty Epoll Server IO #1/WARN]: Failed to update secure chat state for gato_the_gay: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[15:16:18] [User Authenticator #17/INFO]: UUID of player Logs369 is d7d0c0f5-d2bd-47d2-9bf3-05ceedd7ba85
+[15:16:19] [Server thread/INFO]: Logs369 joined the game
+[15:16:19] [Server thread/INFO]: Logs369[/[0:0:0:0:0:0:0:1%0]:49026] logged in with entity id 97161 at ([world]-34039.41136851064, 64.0, 19936.061758782915)
+[15:16:21] [Async Chat Thread - #41/INFO]: <gato_the_gay> co nit dupe
+[15:16:22] [Async Chat Thread - #42/INFO]: <Logs369> despawn
+[15:16:31] [Async Chat Thread - #42/INFO]: <Logs369> dan lang despawn duoc
+[15:16:45] [Async Chat Thread - #42/INFO]: <Logs369> do la li do t bao ong phai dat ten cho no la vay
+[15:17:37] [Async Chat Thread - #42/INFO]: <Logs369> ok
+[15:17:45] [Async Chat Thread - #42/INFO]: <Logs369> co meding backup
+[15:17:47] [Async Chat Thread - #42/INFO]: <Logs369> day nay
+[15:18:04] [Async Chat Thread - #42/INFO]: <Logs369> con kia tan 43
+[15:18:09] [Netty Epoll Server IO #1/WARN]: Failed to update secure chat state for canhvjp: 'Chat had an invalid signature. Please try reconnecting.'
+[15:18:26] [Async Chat Thread - #42/INFO]: <Logs369> cuoi vc
+[15:18:46] [Async Chat Thread - #43/INFO]: <Logs369> tiec cai proc 4 thoi kk
+[15:19:28] [Async Chat Thread - #43/INFO]: <Logs369> Thoi cai day mai tinh sau
+[15:19:33] [Async Chat Thread - #43/INFO]: <Logs369> giu may con ay thoi
+[15:20:20] [Async Chat Thread - #43/INFO]: <Logs369> kk
+[15:20:37] [Async Chat Thread - #43/INFO]: <Logs369> uhm
+[15:20:50] [Async Chat Thread - #43/INFO]: <Logs369> cai day mai nghien cuu sau
+[15:20:55] [Async Chat Thread - #43/INFO]: <Logs369> dat ten giu vai con dan lang da
+[15:21:11] [Async Chat Thread - #43/INFO]: <Logs369> hmm
+[15:21:22] [Async Chat Thread - #42/INFO]: <Logs369> ok t nghi t co cach nhung phai de mai da
+[15:21:39] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[15:21:39] [Server thread/INFO]: canhvjp left the game
+[15:21:39] [Async Chat Thread - #42/INFO]: <Logs369> ok
+[15:22:35] [Async Chat Thread - #42/INFO]: <Logs369> moi duoc 71 ngay da full do r
+[15:22:53] [Async Chat Thread - #43/INFO]: <Logs369> nam ngoai con dat ten con dan lang la tran trung kien kk
+[15:23:12] [Server thread/INFO]: Showing new title for 4 players
+[15:23:13] [Async Chat Thread - #43/INFO]: <Logs369> nam ngoai duoc 1 tuan bo het
+[15:23:16] [Async Chat Thread - #43/INFO]: <gato_the_gay> noooooo
+[15:23:22] [Server thread/INFO]: Showing new title for 4 players
+[15:23:31] [Netty Epoll Server IO #2/WARN]: Failed to update secure chat state for PH1008: 'Chat had an invalid signature. Please try reconnecting.'
+[15:23:31] [Server thread/INFO]: Showing new title for 4 players
+[15:23:40] [Async Chat Thread - #43/INFO]: <gato_the_gay> hungry
+[15:23:48] [Server thread/INFO]: Showing new title for 4 players
+[15:25:55] [User Authenticator #18/INFO]: UUID of player Kuenain is ff33a88b-ac5b-41de-b571-43a9a5fc46dd
+[15:25:56] [Server thread/INFO]: Kuenain joined the game
+[15:25:56] [Server thread/INFO]: Kuenain[/[0:0:0:0:0:0:0:1%0]:57574] logged in with entity id 107784 at ([world]-34077.21438955864, 85.0, 19943.350367962583)
+[15:26:40] [Server thread/INFO]: Logs369 has completed the challenge [Cover Me in Debris]
+[15:27:16] [Async Chat Thread - #45/INFO]: <Logs369> anh em nao an smithing template thi co the lien he
+[15:27:25] [Async Chat Thread - #45/INFO]: <Logs369> 1 cai 9kc thoi
+[15:27:46] [Async Chat Thread - #45/INFO]: <Kuenain> e
+[15:27:50] [Async Chat Thread - #45/INFO]: <Logs369> ha
+[15:27:55] [Async Chat Thread - #45/INFO]: <Kuenain> con cai netherite upgrade ko
+[15:27:58] [Async Chat Thread - #45/INFO]: <Logs369> con
+[15:28:00] [Async Chat Thread - #45/INFO]: <Logs369> thua
+[15:28:02] [Async Chat Thread - #45/INFO]: <Logs369> nhung ma
+[15:28:07] [Async Chat Thread - #45/INFO]: <Logs369> dung nho chua 1 cai
+[15:28:17] [Async Chat Thread - #45/INFO]: <Kuenain> ok
+[15:28:18] [Async Chat Thread - #45/INFO]: <Logs369> y may la cai nay
+[15:28:28] [Async Chat Thread - #45/INFO]: <Kuenain> u
+[15:28:49] [Async Chat Thread - #45/INFO]: <Kuenain> ok
+[15:29:29] [Server thread/INFO]: Logs369 has completed the challenge [Serious Dedication]
+[15:29:41] [Async Chat Thread - #45/INFO]: <Kuenain> quen mat t chua co netherite
+[15:29:45] [Async Chat Thread - #45/INFO]: <Logs369> kk
+[15:29:51] [Async Chat Thread - #46/INFO]: <Logs369> canhvjp cho t
+[15:30:11] [Netty Epoll Server IO #2/WARN]: Failed to update secure chat state for PH1008: 'Chat disabled due to broken chain. Please try reconnecting.'
+[15:31:42] [Async Chat Thread - #47/INFO]: <Logs369> tf sharp 3 43kc
+[15:33:09] [Async Chat Thread - #49/INFO]: <Logs369> vc dem di tam
+[15:33:42] [Server thread/INFO]: Logs369 has made the advancement [Glow and Behold!]
+[15:33:43] [Server thread/WARN]: PH1008 was kicked for floating too long!
+[15:33:43] [Server thread/INFO]: PH1008 lost connection: Flying is not enabled on this server
+[15:33:43] [Server thread/INFO]: PH1008 left the game
+[15:33:49] [User Authenticator #19/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[15:33:51] [Server thread/INFO]: PH1008 joined the game
+[15:33:51] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:43566] logged in with entity id 112208 at ([world]-5148.970044106517, -50.375294519126506, -9831.601705054347)
+[15:34:22] [Server thread/INFO]: PH1008 lost connection: Timed out
+[15:34:22] [Server thread/INFO]: PH1008 left the game
+[15:34:38] [Server thread/INFO]: Showing new title for 4 players
+[15:34:41] [Async Chat Thread - #49/INFO]: <gato_the_gay> no no
+[15:34:45] [User Authenticator #19/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[15:34:46] [Server thread/INFO]: PH1008 joined the game
+[15:34:46] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:44290] logged in with entity id 112581 at ([world]-5148.970044106517, -50.91785389560783, -9831.601705054347)
+[15:34:46] [Async Chat Thread - #51/INFO]: <Logs369> hi
+[15:34:47] [Async Chat Thread - #51/INFO]: <gato_the_gay> 40 di
+[15:34:51] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[15:34:51] [Server thread/INFO]: PH1008 left the game
+[15:34:54] [User Authenticator #19/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[15:34:54] [Async Chat Thread - #51/INFO]: <Logs369> lam phat screen
+[15:34:55] [Server thread/INFO]: PH1008 joined the game
+[15:34:55] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:44318] logged in with entity id 112638 at ([world]-5148.970044106517, -51.0, -9831.601705054347)
+[15:35:01] [Async Chat Thread - #51/INFO]: <Logs369> bye
+[15:35:15] [Server thread/INFO]: Stopping the server
+[15:35:15] [Server thread/INFO]: Stopping server
+[15:35:15] [Server thread/INFO]: Saving players
+[15:35:15] [Server thread/INFO]: minhhhhhhhh lost connection: Server closed
+[15:35:16] [Server thread/INFO]: minhhhhhhhh left the game
+[15:35:16] [Server thread/INFO]: gato_the_gay lost connection: Server closed
+[15:35:16] [Server thread/INFO]: gato_the_gay left the game
+[15:35:16] [Server thread/INFO]: Logs369 lost connection: Server closed
+[15:35:16] [Server thread/INFO]: Logs369 left the game
+[15:35:16] [Server thread/INFO]: Kuenain lost connection: Server closed
+[15:35:16] [Server thread/INFO]: Kuenain left the game
+[15:35:16] [Server thread/INFO]: PH1008 lost connection: Server closed
+[15:35:16] [Server thread/INFO]: PH1008 left the game
+[15:35:16] [Server thread/INFO]: Saving worlds
+[15:35:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:35:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[15:35:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[15:35:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[15:35:17] [Server thread/INFO]: [ChunkHolderManager] Saved 81 block chunks, 963 entity chunks, 0 poi chunks in world 'world' in 1.65s
+[15:35:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:35:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[15:35:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[15:35:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[15:35:21] [Server thread/INFO]: [ChunkHolderManager] Saved 26 block chunks, 218 entity chunks, 0 poi chunks in world 'world_nether' in 0.60s
+[15:35:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:35:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:35:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

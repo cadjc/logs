@@ -1,0 +1,491 @@
+[02:31:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:31:21] [ServerMain/INFO]: Loaded 1290 recipes
+[02:31:21] [ServerMain/INFO]: Loaded 1399 advancements
+[02:31:21] [Server thread/INFO]: Starting minecraft server version 1.21
+[02:31:21] [Server thread/INFO]: Loading properties
+[02:31:21] [Server thread/INFO]: This server is running Paper version 1.21-57-master@0e02aa5 (2024-07-11T19:34:02Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[02:31:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:31:22] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:31:23] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[02:31:23] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[02:31:23] [Server thread/INFO]: Default game type: SURVIVAL
+[02:31:23] [Server thread/INFO]: Generating keypair
+[02:31:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:31:23] [Server thread/INFO]: Using epoll channel type
+[02:31:23] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:31:23] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:31:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:31:23] [Server thread/INFO]: Preparing level "world"
+[02:31:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:31:25] [Server thread/INFO]: Time elapsed: 1515 ms
+[02:31:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:31:25] [Server thread/INFO]: Time elapsed: 293 ms
+[02:31:26] [Server thread/INFO]: Running delayed init tasks
+[02:31:26] [Server thread/INFO]: Done (4.126s)! For help, type "help"
+[02:31:26] [Server thread/INFO]: Timings Reset
+[02:33:28] [User Authenticator #0/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[02:33:30] [Server thread/INFO]: TaFiz008 joined the game
+[02:33:30] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:41612] logged in with entity id 12 at ([world]-30759.69999998808, 62.0, 28559.30000001192)
+[02:33:37] [Server thread/INFO]: TaFiz008 lost connection: Disconnected
+[02:33:37] [Server thread/INFO]: TaFiz008 left the game
+[02:33:56] [User Authenticator #0/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[02:33:56] [Server thread/INFO]: TaFiz008 joined the game
+[02:33:56] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:53224] logged in with entity id 282 at ([world]-30758.30000001192, 62.0, 28559.69999998808)
+[02:35:13] [Server thread/INFO]: TaFiz008 lost connection: Disconnected
+[02:35:13] [Server thread/INFO]: TaFiz008 left the game
+[02:35:22] [User Authenticator #1/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[02:35:23] [Server thread/INFO]: TaFiz008 joined the game
+[02:35:23] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:45430] logged in with entity id 810 at ([world]-30731.15859988733, 65.0, 28559.71767157484)
+[02:35:37] [User Authenticator #1/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:35:39] [Server thread/INFO]: PH1008 joined the game
+[02:35:39] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:50088] logged in with entity id 1221 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:35:44] [Async Chat Thread - #1/INFO]: <TaFiz008> ovieoveov
+[02:35:45] [Async Chat Thread - #1/INFO]: <TaFiz008> voie
+[02:36:11] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:36:11] [Server thread/INFO]: PH1008 left the game
+[02:37:12] [User Authenticator #2/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:37:13] [Server thread/INFO]: PH1008 joined the game
+[02:37:13] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:45714] logged in with entity id 1767 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:37:20] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:37:20] [Server thread/INFO]: PH1008 left the game
+[02:39:14] [User Authenticator #3/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:39:15] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:39:15] [Server thread/INFO]: PH1008 left the game
+[02:39:19] [User Authenticator #3/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:39:20] [Server thread/INFO]: PH1008 joined the game
+[02:39:20] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:60708] logged in with entity id 2203 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:39:31] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:39:31] [Server thread/INFO]: PH1008 left the game
+[02:40:23] [User Authenticator #4/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:40:25] [Server thread/INFO]: PH1008 joined the game
+[02:40:25] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:51066] logged in with entity id 2612 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:40:32] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:40:32] [Server thread/INFO]: PH1008 left the game
+[02:41:18] [User Authenticator #4/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:41:19] [Server thread/INFO]: PH1008 joined the game
+[02:41:19] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:54026] logged in with entity id 2947 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:41:23] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:41:23] [Server thread/INFO]: PH1008 left the game
+[02:41:30] [User Authenticator #4/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:41:31] [Server thread/INFO]: PH1008 joined the game
+[02:41:31] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:46284] logged in with entity id 3128 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:41:34] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:41:34] [Server thread/INFO]: PH1008 left the game
+[02:41:43] [User Authenticator #4/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:41:44] [Server thread/INFO]: PH1008 joined the game
+[02:41:44] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:33904] logged in with entity id 3253 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:41:50] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:41:50] [Server thread/INFO]: PH1008 left the game
+[02:41:54] [User Authenticator #4/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:41:55] [Server thread/INFO]: PH1008 joined the game
+[02:41:55] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:46094] logged in with entity id 3473 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:41:57] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:41:57] [Server thread/INFO]: PH1008 left the game
+[02:42:01] [User Authenticator #4/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:42:02] [Server thread/INFO]: PH1008 joined the game
+[02:42:02] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:35540] logged in with entity id 3520 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:42:04] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:42:04] [Server thread/INFO]: PH1008 left the game
+[02:42:07] [User Authenticator #4/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:42:08] [Server thread/INFO]: PH1008 joined the game
+[02:42:08] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:35582] logged in with entity id 3542 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:42:11] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:42:11] [Server thread/INFO]: PH1008 left the game
+[02:42:13] [User Authenticator #4/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:42:14] [Server thread/INFO]: PH1008 joined the game
+[02:42:14] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:43482] logged in with entity id 3577 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:42:16] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:42:16] [Server thread/INFO]: PH1008 left the game
+[02:42:18] [User Authenticator #4/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:42:19] [Server thread/INFO]: PH1008 joined the game
+[02:42:19] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:43724] logged in with entity id 3638 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:42:22] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:42:22] [Server thread/INFO]: PH1008 left the game
+[02:42:25] [User Authenticator #4/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:42:26] [Server thread/INFO]: PH1008 joined the game
+[02:42:26] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:43744] logged in with entity id 3714 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:42:27] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:42:27] [Server thread/INFO]: PH1008 left the game
+[02:43:41] [User Authenticator #5/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:43:42] [Server thread/INFO]: PH1008 joined the game
+[02:43:42] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:43432] logged in with entity id 3913 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:43:44] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:43:44] [Server thread/INFO]: PH1008 left the game
+[02:43:57] [User Authenticator #5/INFO]: UUID of player gato_the_gay is 45c7a210-8e9a-47b1-a1ed-94b423e1cdd2
+[02:43:58] [Server thread/INFO]: gato_the_gay joined the game
+[02:43:58] [Server thread/INFO]: gato_the_gay[/[0:0:0:0:0:0:0:1%0]:41546] logged in with entity id 4031 at ([world]3920.9849622211646, 80.9375, -3788.779276362179)
+[02:44:08] [Netty Epoll Server IO #2/WARN]: Failed to update secure chat state for gato_the_gay: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[02:44:08] [Async Chat Thread - #6/INFO]: <gato_the_gay> gidiawdawd
+[02:44:11] [Async Chat Thread - #6/INFO]: <gato_the_gay> dawdaw
+[02:44:12] [Netty Epoll Server IO #3/WARN]: Failed to update secure chat state for TaFiz008: 'Chat had an invalid signature. Please try reconnecting.'
+[02:44:15] [Netty Epoll Server IO #3/WARN]: Failed to update secure chat state for TaFiz008: 'Chat disabled due to broken chain. Please try reconnecting.'
+[02:44:16] [Netty Epoll Server IO #3/WARN]: Failed to update secure chat state for TaFiz008: 'Chat disabled due to broken chain. Please try reconnecting.'
+[02:44:19] [Netty Epoll Server IO #3/WARN]: Failed to update secure chat state for TaFiz008: 'Chat disabled due to broken chain. Please try reconnecting.'
+[02:44:28] [Netty Epoll Server IO #2/WARN]: Failed to update secure chat state for gato_the_gay: 'Chat had an invalid signature. Please try reconnecting.'
+[02:44:29] [Netty Epoll Server IO #3/WARN]: Failed to update secure chat state for TaFiz008: 'Chat disabled due to broken chain. Please try reconnecting.'
+[02:44:32] [Netty Epoll Server IO #3/WARN]: Failed to update secure chat state for TaFiz008: 'Chat disabled due to broken chain. Please try reconnecting.'
+[02:44:32] [Netty Epoll Server IO #2/WARN]: Failed to update secure chat state for gato_the_gay: 'Chat disabled due to broken chain. Please try reconnecting.'
+[02:44:34] [Netty Epoll Server IO #2/WARN]: Failed to update secure chat state for gato_the_gay: 'Chat disabled due to broken chain. Please try reconnecting.'
+[02:44:35] [Server thread/INFO]: TaFiz008 lost connection: Disconnected
+[02:44:35] [Server thread/INFO]: TaFiz008 left the game
+[02:44:37] [Server thread/INFO]: gato_the_gay lost connection: Disconnected
+[02:44:37] [Server thread/INFO]: gato_the_gay left the game
+[02:44:37] [User Authenticator #5/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[02:44:38] [Server thread/INFO]: TaFiz008 joined the game
+[02:44:38] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:38826] logged in with entity id 4564 at ([world]-30759.69999998808, 62.0, 28560.360923095974)
+[02:44:40] [Async Chat Thread - #6/INFO]: <TaFiz008> ☺
+[02:44:47] [User Authenticator #5/INFO]: UUID of player gato_the_gay is 45c7a210-8e9a-47b1-a1ed-94b423e1cdd2
+[02:44:47] [Server thread/INFO]: gato_the_gay joined the game
+[02:44:47] [Server thread/INFO]: gato_the_gay[/[0:0:0:0:0:0:0:1%0]:49062] logged in with entity id 4675 at ([world]3922.9138114759967, 81.0, -3787.6826634131808)
+[02:44:52] [Netty Epoll Server IO #1/WARN]: Failed to update secure chat state for gato_the_gay: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[02:44:57] [Async Chat Thread - #6/INFO]: <gato_the_gay> co loot 3 ne
+[02:45:00] [User Authenticator #5/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[02:45:01] [Server thread/INFO]: EvoKoifis joined the game
+[02:45:01] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:59788] logged in with entity id 5091 at ([world]-3153.512499988079, 58.195115867136856, -6252.286498108785)
+[02:45:02] [Async Chat Thread - #6/INFO]: <TaFiz008> ☻
+[02:45:08] [Async Chat Thread - #6/INFO]: <EvoKoifis> kho qua
+[02:45:59] [Async Chat Thread - #6/INFO]: <EvoKoifis> anh ph nay
+[02:46:01] [Async Chat Thread - #6/INFO]: <EvoKoifis> cu ep kho
+[02:46:28] [Server thread/WARN]: EvoKoifis moved too quickly! -7.890104987690847,1.8338907390617862,-12.786130178656094
+[02:46:55] [User Authenticator #6/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:46:57] [Server thread/INFO]: PH1008 joined the game
+[02:46:57] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:36354] logged in with entity id 6915 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:47:01] [Async Chat Thread - #8/INFO]: <EvoKoifis> PH dung chet
+[02:47:02] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:47:02] [Server thread/INFO]: PH1008 left the game
+[02:47:06] [User Authenticator #6/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:47:07] [Server thread/INFO]: PH1008 joined the game
+[02:47:07] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:40238] logged in with entity id 7168 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:47:10] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:47:10] [Server thread/INFO]: PH1008 left the game
+[02:47:13] [User Authenticator #6/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:47:15] [Server thread/INFO]: PH1008 joined the game
+[02:47:15] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:48766] logged in with entity id 7258 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:47:19] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:47:19] [Server thread/INFO]: PH1008 left the game
+[02:47:19] [Async Chat Thread - #8/INFO]: <EvoKoifis> no dang tuc gian a?
+[02:47:22] [User Authenticator #6/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:47:23] [Server thread/INFO]: PH1008 joined the game
+[02:47:23] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:38558] logged in with entity id 7423 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:47:26] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:47:26] [Server thread/INFO]: PH1008 left the game
+[02:47:29] [User Authenticator #6/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:47:30] [Server thread/INFO]: PH1008 joined the game
+[02:47:30] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:34156] logged in with entity id 7629 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:47:33] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:47:33] [Server thread/INFO]: PH1008 left the game
+[02:47:49] [Netty Epoll Server IO #3/WARN]: Failed to update secure chat state for TaFiz008: 'Chat had an invalid signature. Please try reconnecting.'
+[02:47:52] [Netty Epoll Server IO #3/WARN]: Failed to update secure chat state for TaFiz008: 'Chat disabled due to broken chain. Please try reconnecting.'
+[02:47:53] [Netty Epoll Server IO #3/WARN]: Failed to update secure chat state for TaFiz008: 'Chat disabled due to broken chain. Please try reconnecting.'
+[02:47:53] [Netty Epoll Server IO #3/WARN]: Failed to update secure chat state for TaFiz008: 'Chat disabled due to broken chain. Please try reconnecting.'
+[02:47:53] [Netty Epoll Server IO #3/WARN]: Failed to update secure chat state for TaFiz008: 'Chat disabled due to broken chain. Please try reconnecting.'
+[02:47:55] [Server thread/INFO]: TaFiz008 lost connection: Disconnected
+[02:47:55] [Server thread/INFO]: TaFiz008 left the game
+[02:47:57] [User Authenticator #6/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[02:47:58] [Server thread/INFO]: TaFiz008 joined the game
+[02:47:58] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:44964] logged in with entity id 8086 at ([world]-30758.5, 66.0, 28554.5)
+[02:48:08] [Async Chat Thread - #8/INFO]: <TaFiz008> alo ae out game giup tam 10s t ngu phat
+[02:48:23] [Async Chat Thread - #8/INFO]: <EvoKoifis> help me dumb
+[02:48:28] [Async Chat Thread - #8/INFO]: <TaFiz008> alo
+[02:48:30] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[02:48:30] [Server thread/INFO]: EvoKoifis left the game
+[02:49:09] [User Authenticator #7/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[02:49:10] [Server thread/INFO]: EvoKoifis joined the game
+[02:49:10] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:51912] logged in with entity id 8837 at ([world]-3497.1581853683683, 62.42326431274413, -6903.184543634085)
+[02:49:21] [Async Chat Thread - #8/INFO]: <EvoKoifis> the anh ph cu ep em kho dam
+[02:49:26] [Async Chat Thread - #8/INFO]: <EvoKoifis> ti nua bat lam no le!!!
+[02:50:29] [User Authenticator #8/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:50:30] [Server thread/INFO]: PH1008 joined the game
+[02:50:30] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:57090] logged in with entity id 10386 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:50:37] [User Authenticator #8/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:50:37] [Server thread/INFO]: PH1008 lost connection: You logged in from another location
+[02:50:37] [Server thread/INFO]: PH1008 left the game
+[02:50:38] [Server thread/INFO]: PH1008 joined the game
+[02:50:38] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:57128] logged in with entity id 10674 at ([world]-5231.476787758646, -49.854050546931155, -9730.699999988079)
+[02:50:40] [Async Chat Thread - #9/INFO]: <EvoKoifis> anh oi doi em
+[02:50:40] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:50:40] [Server thread/INFO]: PH1008 left the game
+[02:51:10] [User Authenticator #8/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:51:11] [Server thread/INFO]: PH1008 joined the game
+[02:51:11] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:40030] logged in with entity id 11483 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:51:12] [Server thread/INFO]: gato_the_gay lost connection: Disconnected
+[02:51:12] [Server thread/INFO]: gato_the_gay left the game
+[02:51:17] [Async Chat Thread - #10/INFO]: <EvoKoifis> anh oi roi di
+[02:51:19] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:51:19] [Async Chat Thread - #10/INFO]: <EvoKoifis> leftt
+[02:51:19] [Server thread/INFO]: PH1008 left the game
+[02:51:35] [User Authenticator #8/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:51:37] [Server thread/INFO]: PH1008 joined the game
+[02:51:37] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:54864] logged in with entity id 12081 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:51:39] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:51:39] [Server thread/INFO]: PH1008 left the game
+[02:51:45] [Server thread/INFO]: TaFiz008 has made the advancement [What a Deal!]
+[02:52:14] [Async Chat Thread - #10/INFO]: <EvoKoifis> anh nay cu bao hai anh em
+[02:52:16] [Async Chat Thread - #10/INFO]: <EvoKoifis> rat buong
+[02:52:19] [Async Chat Thread - #10/INFO]: <EvoKoifis> buon
+[02:52:19] [User Authenticator #8/INFO]: UUID of player gato_the_gay is 45c7a210-8e9a-47b1-a1ed-94b423e1cdd2
+[02:52:20] [Server thread/INFO]: gato_the_gay joined the game
+[02:52:20] [Server thread/INFO]: gato_the_gay[/[0:0:0:0:0:0:0:1%0]:38226] logged in with entity id 12608 at ([world]3915.5, 81.0, -3779.5)
+[02:52:34] [Async Chat Thread - #10/INFO]: <gato_the_gay> skibiddiiddi
+[02:52:39] [Async Chat Thread - #10/INFO]: <EvoKoifis> cut di
+[02:52:41] [Async Chat Thread - #10/INFO]: <gato_the_gay> omg dan lang de con r
+[02:52:42] [Async Chat Thread - #10/INFO]: <EvoKoifis> skibdi ngu
+[02:53:03] [Async Chat Thread - #10/INFO]: <gato_the_gay> thang be nay se qua Mi de phat trien tai nang
+[02:53:23] [User Authenticator #9/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:53:24] [Server thread/INFO]: PH1008 joined the game
+[02:53:24] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:46354] logged in with entity id 13842 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:53:27] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:53:27] [Server thread/INFO]: PH1008 left the game
+[02:53:40] [User Authenticator #9/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:53:42] [Server thread/INFO]: PH1008 joined the game
+[02:53:42] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:37008] logged in with entity id 14219 at ([world]-5231.476787758646, -50.0, -9730.699999988079)
+[02:53:46] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:53:46] [Server thread/INFO]: PH1008 left the game
+[02:53:47] [Async Chat Thread - #10/INFO]: <EvoKoifis> ti nua cho lam no le tiep kk
+[02:53:53] [User Authenticator #9/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:53:54] [Server thread/INFO]: PH1008 joined the game
+[02:53:54] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:58478] logged in with entity id 14510 at ([world]-5223.244940297971, -47.0, -9730.782713334773)
+[02:53:57] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:53:57] [Server thread/INFO]: PH1008 left the game
+[02:53:57] [Async Chat Thread - #10/INFO]: <EvoKoifis> ph doi em
+[02:54:03] [User Authenticator #9/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:54:04] [Server thread/INFO]: PH1008 joined the game
+[02:54:04] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:55992] logged in with entity id 14732 at ([world]-5223.244940297971, -43.0, -9730.782713334773)
+[02:54:07] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:54:07] [Server thread/INFO]: PH1008 left the game
+[02:54:10] [User Authenticator #9/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:54:11] [Server thread/INFO]: PH1008 joined the game
+[02:54:11] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:52112] logged in with entity id 14919 at ([world]-5223.244940297971, -39.0, -9730.782713334773)
+[02:54:15] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[02:54:15] [Server thread/INFO]: PH1008 left the game
+[02:54:23] [User Authenticator #9/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:54:24] [Server thread/INFO]: PH1008 joined the game
+[02:54:24] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:37690] logged in with entity id 15223 at ([world]-5223.244940297971, -32.91692218219353, -9730.782713334773)
+[02:54:56] [Server thread/INFO]: PH1008 has made the advancement [Take Aim]
+[02:55:02] [Async Chat Thread - #10/INFO]: <EvoKoifis> anh nay sap chet roi
+[02:55:03] [Async Chat Thread - #10/INFO]: <EvoKoifis> vinh bie
+[02:55:46] [Server thread/INFO]: Showing new title for 4 players
+[02:55:50] [Async Chat Thread - #10/INFO]: <EvoKoifis> what
+[02:56:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2937ms or 58 ticks behind
+[02:57:50] [Async Chat Thread - #12/INFO]: <EvoKoifis> bo to su
+[02:57:53] [Async Chat Thread - #12/INFO]: <EvoKoifis> chet roi
+[02:57:55] [Async Chat Thread - #12/INFO]: <EvoKoifis> ep em di
+[02:58:02] [Async Chat Thread - #13/INFO]: <EvoKoifis> the em di ve nhe
+[02:58:06] [Async Chat Thread - #13/INFO]: <EvoKoifis> ph oi
+[02:59:21] [Async Chat Thread - #14/INFO]: <EvoKoifis> thoi ke ph
+[02:59:23] [Async Chat Thread - #14/INFO]: <EvoKoifis> kho dam
+[02:59:52] [Async Chat Thread - #14/INFO]: <TaFiz008> canh oi
+[02:59:57] [Async Chat Thread - #14/INFO]: <TaFiz008> kick thang ph ra giup
+[03:00:00] [Async Chat Thread - #16/INFO]: <TaFiz008> ☻
+[03:00:21] [Async Chat Thread - #16/INFO]: <TaFiz008> ae giup troi sang phat
+[03:00:27] [User Authenticator #10/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[03:00:28] [Server thread/INFO]: canhvjp joined the game
+[03:00:28] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:35352] logged in with entity id 19903 at ([world]-34081.620651576246, 82.0, 19950.433010635854)
+[03:00:41] [Async Chat Thread - #16/INFO]: <TaFiz008> e
+[03:00:44] [Async Chat Thread - #16/INFO]: <TaFiz008> giup troi sang
+[03:00:45] [Async Chat Thread - #16/INFO]: <canhvjp> e
+[03:00:51] [Async Chat Thread - #16/INFO]: <canhvjp> ae minh ngu
+[03:01:00] [Async Chat Thread - #16/INFO]: <EvoKoifis> em khong co giuong
+[03:01:00] [Async Chat Thread - #16/INFO]: <canhvjp> doi ti
+[03:01:03] [Async Chat Thread - #16/INFO]: <EvoKoifis> doi em roi
+[03:01:04] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[03:01:04] [Server thread/INFO]: EvoKoifis left the game
+[03:01:06] [Async Chat Thread - #16/INFO]: <canhvjp> t ko co giuong
+[03:01:11] [Async Chat Thread - #16/INFO]: <TaFiz008> out ra cai
+[03:01:11] [Async Chat Thread - #16/INFO]: <gato_the_gay> out gem
+[03:01:12] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[03:01:12] [Server thread/INFO]: PH1008 left the game
+[03:01:17] [Server thread/INFO]: canhvjp has made the advancement [Sweet Dreams]
+[03:01:19] [Async Chat Thread - #16/INFO]: <canhvjp> roi
+[03:01:19] [User Authenticator #10/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[03:01:20] [Server thread/INFO]: EvoKoifis joined the game
+[03:01:20] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:41356] logged in with entity id 20680 at ([world]-4493.125401318186, 88.0, -7612.839235279481)
+[03:01:21] [Async Chat Thread - #16/INFO]: <canhvjp> ngu r
+[03:01:23] [Async Chat Thread - #15/INFO]: <gato_the_gay> lol
+[03:01:25] [Async Chat Thread - #15/INFO]: <TaFiz008> out
+[03:01:27] [Async Chat Thread - #15/INFO]: <canhvjp> ae ngu di
+[03:01:27] [Async Chat Thread - #15/INFO]: <TaFiz008> chua
+[03:01:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3677ms or 73 ticks behind
+[03:01:34] [Async Chat Thread - #15/INFO]: <TaFiz008> EvoKoifis
+[03:01:35] [Async Chat Thread - #15/INFO]: <canhvjp> hoac out trong 1 sec
+[03:01:36] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[03:01:36] [Server thread/INFO]: EvoKoifis left the game
+[03:01:41] [User Authenticator #10/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[03:01:42] [Server thread/INFO]: PH1008 joined the game
+[03:01:42] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:58486] logged in with entity id 21187 at ([world]-5165.462638505564, -46.0, -9700.138659146138)
+[03:01:58] [User Authenticator #10/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[03:01:59] [Server thread/INFO]: EvoKoifis joined the game
+[03:01:59] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:37544] logged in with entity id 21770 at ([world]-4521.852793498827, 104.19366615334314, -7607.025719692135)
+[03:02:00] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[03:02:00] [Server thread/INFO]: PH1008 left the game
+[03:02:04] [User Authenticator #10/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[03:02:06] [Server thread/INFO]: PH1008 joined the game
+[03:02:06] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:37562] logged in with entity id 22073 at ([world]-5160.287132467829, -46.43095288687629, -9694.941850224632)
+[03:02:10] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[03:02:10] [Server thread/INFO]: PH1008 left the game
+[03:02:12] [User Authenticator #10/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[03:02:13] [Server thread/INFO]: PH1008 joined the game
+[03:02:13] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:40026] logged in with entity id 22375 at ([world]-5160.287132467829, -40.0, -9694.941850224632)
+[03:03:09] [Async Chat Thread - #15/INFO]: <EvoKoifis> co
+[03:03:56] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[03:03:56] [Server thread/INFO]: PH1008 left the game
+[03:04:56] [Async Chat Thread - #18/INFO]: <EvoKoifis> YESSS
+[03:05:00] [Async Chat Thread - #19/INFO]: <EvoKoifis> SPURCE
+[03:05:26] [User Authenticator #11/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[03:05:28] [Server thread/INFO]: PH1008 joined the game
+[03:05:28] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:33150] logged in with entity id 25593 at ([world]-5160.594603008425, -26.0, -9694.010192666834)
+[03:05:50] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[03:05:50] [Server thread/INFO]: PH1008 left the game
+[03:06:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4124ms or 82 ticks behind
+[03:07:11] [User Authenticator #12/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[03:07:12] [Server thread/INFO]: PH1008 joined the game
+[03:07:12] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:52752] logged in with entity id 26954 at ([world]-5160.594603008425, -26.0, -9694.010192666834)
+[03:11:38] [Server thread/WARN]: EvoKoifis moved too quickly! 0.7361283563350298,-10.0,7.5747199179450035
+[03:11:41] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[03:11:41] [Server thread/INFO]: canhvjp left the game
+[03:11:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5142ms or 102 ticks behind
+[03:11:41] [Server thread/WARN]: EvoKoifis moved too quickly! 2.806673463286643,-7.250657101752225,7.694169789437183
+[03:11:41] [Server thread/WARN]: TaFiz008 moved too quickly! -1.0110143129350035,4.166109260938214,-9.70578392189418
+[03:11:43] [User Authenticator #13/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[03:11:44] [Server thread/INFO]: canhvjp joined the game
+[03:11:44] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:50992] logged in with entity id 31055 at ([world]-34043.35977562943, 64.0, 19932.642150978725)
+[03:12:40] [Async Chat Thread - #21/INFO]: <canhvjp> ae ngu dc ko
+[03:12:44] [Async Chat Thread - #21/INFO]: <EvoKoifis> no beds
+[03:12:47] [Async Chat Thread - #21/INFO]: <EvoKoifis> de em roi
+[03:12:48] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[03:12:48] [Server thread/INFO]: EvoKoifis left the game
+[03:12:50] [Async Chat Thread - #21/INFO]: <canhvjp> t can lam viec voi bon dan lang
+[03:13:05] [Async Chat Thread - #21/INFO]: <canhvjp> kia
+[03:13:07] [User Authenticator #14/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[03:13:08] [Server thread/INFO]: EvoKoifis joined the game
+[03:13:08] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:47206] logged in with entity id 32506 at ([world]-3409.5779592644135, 71.0, -6497.596525988072)
+[03:13:21] [Async Chat Thread - #21/INFO]: <canhvjp> ae ngu di
+[03:13:25] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[03:13:25] [Server thread/INFO]: EvoKoifis left the game
+[03:13:31] [Async Chat Thread - #21/INFO]: <gato_the_gay> t se xay may farm sat
+[03:13:36] [Async Chat Thread - #21/INFO]: <canhvjp> ngu di da
+[03:13:45] [Async Chat Thread - #21/INFO]: <gato_the_gay> ok ngu r
+[03:13:46] [User Authenticator #14/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[03:13:47] [Server thread/INFO]: EvoKoifis joined the game
+[03:13:47] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:36532] logged in with entity id 33185 at ([world]-3382.7567601840888, 63.0, -6469.160215144204)
+[03:13:47] [Async Chat Thread - #21/INFO]: <gato_the_gay> ai ch ngu
+[03:13:50] [Async Chat Thread - #21/INFO]: <canhvjp> ph
+[03:13:52] [Async Chat Thread - #21/INFO]: <TaFiz008> canh ti chuyen giup sang hard toi set up zombie doctor
+[03:13:52] [Async Chat Thread - #21/INFO]: <canhvjp> Ph
+[03:13:53] [Async Chat Thread - #21/INFO]: <EvoKoifis> dua tuong ngu roi
+[03:13:55] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[03:13:55] [Server thread/INFO]: EvoKoifis left the game
+[03:14:03] [Async Chat Thread - #21/INFO]: <canhvjp> ph ngu di
+[03:14:15] [Async Chat Thread - #22/INFO]: <canhvjp> phphph
+[03:14:17] [Async Chat Thread - #22/INFO]: <canhvjp> dm
+[03:14:20] [Async Chat Thread - #22/INFO]: <TaFiz008> phpphphphphphhp
+[03:14:23] [Async Chat Thread - #22/INFO]: <TaFiz008> phphphph
+[03:14:28] [User Authenticator #14/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[03:14:29] [Server thread/INFO]: EvoKoifis joined the game
+[03:14:29] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:43484] logged in with entity id 33701 at ([world]-3363.55512078503, 63.0, -6452.503607447676)
+[03:14:33] [Async Chat Thread - #22/INFO]: <EvoKoifis> oat do heo
+[03:14:34] [Async Chat Thread - #22/INFO]: <canhvjp> ph ngu di dm
+[03:14:43] [Async Chat Thread - #22/INFO]: <TaFiz008> kick no ra cai di canh oi
+[03:14:44] [Async Chat Thread - #22/INFO]: <canhvjp> k thi out game 10 giay
+[03:14:49] [Async Chat Thread - #22/INFO]: <TaFiz008> no afk roi
+[03:14:57] [Async Chat Thread - #22/INFO]: <EvoKoifis> doi em 1 ti em ve giuong
+[03:15:00] [Server thread/INFO]: PH1008 lost connection: Kicked by an operator
+[03:15:00] [Server thread/INFO]: PH1008 left the game
+[03:15:00] [Server thread/INFO]: Kicked PH1008: Kicked by an operator
+[03:15:03] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[03:15:03] [Server thread/INFO]: EvoKoifis left the game
+[03:15:15] [User Authenticator #14/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[03:15:16] [Server thread/INFO]: EvoKoifis joined the game
+[03:15:16] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:54706] logged in with entity id 34729 at ([world]-3277.3311275385076, 62.0, -6320.222889877923)
+[03:15:29] [User Authenticator #14/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[03:15:32] [Server thread/INFO]: PH1008 joined the game
+[03:15:32] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:51640] logged in with entity id 35332 at ([world]-5160.318036640029, -26.0, -9693.701508797309)
+[03:16:39] [Async Chat Thread - #23/INFO]: <EvoKoifis> CHUNG NO DE THEM ROI
+[03:16:41] [Async Chat Thread - #23/INFO]: <EvoKoifis> YESSSSSSSSSSSS
+[03:16:46] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[03:16:46] [Server thread/INFO]: canhvjp left the game
+[03:16:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4372ms or 87 ticks behind
+[03:16:47] [User Authenticator #15/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[03:16:48] [Server thread/INFO]: canhvjp joined the game
+[03:16:48] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:53332] logged in with entity id 36490 at ([world]-34039.50927204026, 64.0, 19930.597305738815)
+[03:17:01] [Async Chat Thread - #23/INFO]: <PH1008> m bat may thang dan lang con lam viec hoc tap di
+[03:17:12] [Async Chat Thread - #23/INFO]: <PH1008> moi sinh da phai thuoc toan bo cong thuc dao ham
+[03:17:17] [Async Chat Thread - #23/INFO]: <gato_the_gay> mendingw
+[03:17:19] [Async Chat Thread - #23/INFO]: <PH1008> bat may thang dan lang con hoc di
+[03:17:33] [Async Chat Thread - #23/INFO]: <EvoKoifis> em di trieu hoi skibidi toilet da
+[03:17:36] [Async Chat Thread - #23/INFO]: <EvoKoifis> roi em quay lai
+[03:17:40] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[03:17:40] [Server thread/INFO]: EvoKoifis left the game
+[03:25:02] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[03:25:02] [Server thread/INFO]: PH1008 left the game
+[03:25:06] [User Authenticator #16/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[03:25:07] [Server thread/INFO]: PH1008 joined the game
+[03:25:07] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:48428] logged in with entity id 41976 at ([world]-5148.428839978182, -36.0, -9667.508677875556)
+[03:25:29] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[03:25:29] [Server thread/INFO]: canhvjp left the game
+[03:25:32] [User Authenticator #16/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[03:25:33] [Server thread/INFO]: canhvjp joined the game
+[03:25:33] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:50648] logged in with entity id 42368 at ([world]-34052.07829063775, 63.00743217308072, 19933.927826051808)
+[03:28:05] [User Authenticator #17/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[03:28:06] [Server thread/INFO]: EvoKoifis joined the game
+[03:28:06] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:36216] logged in with entity id 43838 at ([world]-3145.8768484290013, 63.0, -6271.65555665092)
+[03:28:30] [Async Chat Thread - #26/INFO]: <EvoKoifis> co 4 thang nho roi
+[03:29:02] [Async Chat Thread - #26/INFO]: <EvoKoifis> ngu voi dan lang
+[03:29:05] [Async Chat Thread - #26/INFO]: <EvoKoifis> loving it
+[03:29:42] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[03:29:42] [Server thread/INFO]: canhvjp left the game
+[03:29:47] [User Authenticator #18/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[03:29:48] [Server thread/INFO]: canhvjp joined the game
+[03:29:48] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:50698] logged in with entity id 45515 at ([world]-34058.24498129702, 62.110764312744145, 19809.953288478588)
+[03:30:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3307ms or 66 ticks behind
+[03:30:04] [Server thread/WARN]: gato_the_gay moved too quickly! 8.561988827183086,-1.0,-14.371530420921317
+[03:30:12] [Async Chat Thread - #26/INFO]: <gato_the_gay> elytra lag bo me sv
+[03:30:19] [Async Chat Thread - #28/INFO]: <canhvjp> wtf elytra
+[03:30:32] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[03:30:33] [Server thread/INFO]: canhvjp left the game
+[03:30:46] [Async Chat Thread - #28/INFO]: <gato_the_gay> jenny mod
+[03:31:10] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[03:31:10] [Server thread/INFO]: EvoKoifis left the game
+[03:35:13] [Server thread/INFO]: TaFiz008 drowned
+[03:35:18] [Server thread/INFO]: TaFiz008 lost connection: Timed out
+[03:35:18] [Server thread/INFO]: TaFiz008 left the game
+[03:35:23] [User Authenticator #19/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[03:35:23] [Server thread/INFO]: TaFiz008 joined the game
+[03:35:23] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:49418] logged in with entity id 50867 at ([world]-30801.548731814604, 62.40196753537169, 26970.217589682965)
+[03:36:04] [User Authenticator #19/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[03:36:05] [Server thread/INFO]: EvoKoifis joined the game
+[03:36:05] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:57164] logged in with entity id 52072 at ([world]-3200.560274818937, 66.0, -6327.646481619369)
+[03:36:51] [Server thread/WARN]: TaFiz008 moved too quickly! 2.6656242269709765,-0.12129684053920187,12.500456011068309
+[03:38:15] [User Authenticator #20/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[03:38:15] [Server thread/INFO]: TaFiz008 lost connection: You logged in from another location
+[03:38:15] [Server thread/INFO]: TaFiz008 left the game
+[03:38:15] [Server thread/INFO]: TaFiz008 joined the game
+[03:38:15] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:51552] logged in with entity id 54458 at ([world]-30753.687921178218, 65.9375, 28567.130092663465)
+[03:40:10] [Async Chat Thread - #31/INFO]: <EvoKoifis> kids in the basement
+[03:48:45] [Async Chat Thread - #33/INFO]: <gato_the_gay> thanh nien nay di choc warden nay h
+[03:50:36] [Server thread/INFO]: TaFiz008 has made the advancement [A Throwaway Joke]
+[03:50:40] [Async Chat Thread - #35/INFO]: <EvoKoifis> oat
+[03:50:40] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[03:50:40] [Server thread/INFO]: PH1008 left the game
+[03:50:41] [Async Chat Thread - #35/INFO]: <gato_the_gay> joke
+[03:50:45] [Async Chat Thread - #35/INFO]: <TaFiz008> joke
+[03:50:47] [Async Chat Thread - #35/INFO]: <EvoKoifis> funni
+[03:53:51] [User Authenticator #21/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[03:53:54] [Server thread/INFO]: PH1008 joined the game
+[03:53:54] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:40372] logged in with entity id 68771 at ([world]-5136.549441701656, -9.0, -9782.047125692112)
+[03:54:32] [Server thread/INFO]: TaFiz008 lost connection: Timed out
+[03:54:32] [Server thread/INFO]: TaFiz008 left the game
+[03:54:36] [User Authenticator #21/INFO]: UUID of player TaFiz008 is d39c4299-2602-442c-bcbe-5f4ead016690
+[03:54:36] [Server thread/INFO]: TaFiz008 joined the game
+[03:54:36] [Server thread/INFO]: TaFiz008[/[0:0:0:0:0:0:0:1%0]:54730] logged in with entity id 69447 at ([world]-30751.524016079224, 66.0, 28570.177993863155)
+[03:56:20] [Server thread/INFO]: gato_the_gay has made the advancement [Minecraft: Trial(s) Edition]
+[03:56:27] [Async Chat Thread - #38/INFO]: <gato_the_gay> ho
+[03:58:39] [Server thread/INFO]: TaFiz008 has made the advancement [Local Brewery]
+[04:01:12] [Server thread/INFO]: EvoKoifis has made the advancement [Enchanter]
+[04:02:35] [Async Chat Thread - #40/INFO]: <gato_the_gay> adu loot day emeral luon
+[04:04:04] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[04:04:04] [Server thread/INFO]: EvoKoifis left the game
+[04:04:07] [Async Chat Thread - #42/INFO]: <gato_the_gay> block emeral wtf
+[04:04:11] [Async Chat Thread - #42/INFO]: <gato_the_gay> rich

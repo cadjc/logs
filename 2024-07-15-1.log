@@ -1,0 +1,69 @@
+[02:24:52] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/MusicBox-2.1.2-all.jar'...
+[02:24:52] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/ImageFrame-1.7.9.0.jar'...
+[02:24:53] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/NoteBlockAPI-1.6.2.jar'...
+[02:24:54] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/NoteBlockAPI-1.6.2.jar' in 1184ms.
+[02:24:55] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/MusicBox-2.1.2-all.jar' in 3154ms.
+[02:24:56] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/ImageFrame-1.7.9.0.jar' in 3519ms.
+[02:25:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:25:19] [ServerMain/INFO]: Loaded 1290 recipes
+[02:25:19] [ServerMain/INFO]: Loaded 1399 advancements
+[02:25:20] [Server thread/INFO]: Starting minecraft server version 1.21
+[02:25:20] [Server thread/INFO]: Loading properties
+[02:25:20] [Server thread/INFO]: This server is running Paper version 1.21-57-master@0e02aa5 (2024-07-11T19:34:02Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[02:25:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:25:21] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:25:23] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[02:25:23] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[02:25:23] [Server thread/INFO]: Default game type: SURVIVAL
+[02:25:23] [Server thread/INFO]: Generating keypair
+[02:25:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:25:24] [Server thread/INFO]: Using epoll channel type
+[02:25:24] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:25:24] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:25:24] [Server thread/INFO]: [NoteBlockAPI] Loading server plugin NoteBlockAPI v1.6.2
+[02:25:24] [Server thread/INFO]: [ImageFrame] Loading server plugin ImageFrame v1.7.9.0
+[02:25:24] [Server thread/INFO]: [MusicBox] Loading server plugin MusicBox v2.1.2
+[02:25:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:25:24] [Server thread/INFO]: Preparing level "world"
+[02:25:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:25:29] [Server thread/INFO]: Time elapsed: 4103 ms
+[02:25:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:25:30] [Server thread/INFO]: Time elapsed: 980 ms
+[02:25:30] [Server thread/INFO]: [NoteBlockAPI] Enabling NoteBlockAPI v1.6.2
+[02:25:31] [Server thread/INFO]: [ImageFrame] Enabling ImageFrame v1.7.9.0
+[02:25:35] [Server thread/INFO]: [ImageFrame] ImageFrame has been Enabled!
+[02:25:35] [Server thread/INFO]: [MusicBox] Enabling MusicBox v2.1.2
+[02:25:36] [Server thread/INFO]: Running delayed init tasks
+[02:25:36] [Craft Scheduler Thread - 2 - ImageFrame/INFO]: [ImageFrame] Data loading completed! Loaded 0 ImageMaps!
+[02:25:36] [Server thread/INFO]: Done (15.670s)! For help, type "help"
+[02:25:36] [Server thread/INFO]: Timings Reset
+[02:25:55] [User Authenticator #0/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[02:26:00] [Server thread/INFO]: canhvjp joined the game
+[02:26:01] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:40742] logged in with entity id 28 at ([world]-34066.94613631338, 82.0, 19948.686899634744)
+[02:26:01] [Craft Scheduler Thread - 0 - ImageFrame/INFO]: Map color cache not found, building it in the background
+[02:26:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2702ms or 54 ticks behind
+[02:26:10] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[02:26:10] [Server thread/INFO]: canhvjp left the game
+[02:26:13] [Server thread/INFO]: Stopping the server
+[02:26:13] [Server thread/INFO]: Stopping server
+[02:26:13] [Server thread/INFO]: [MusicBox] Disabling MusicBox v2.1.2
+[02:26:13] [Server thread/INFO]: [ImageFrame] Disabling ImageFrame v1.7.9.0
+[02:26:13] [Server thread/INFO]: [ImageFrame] ImageFrame has been Disabled!
+[02:26:13] [Server thread/INFO]: [NoteBlockAPI] Disabling NoteBlockAPI v1.6.2
+[02:26:13] [Server thread/INFO]: Saving players
+[02:26:13] [Server thread/INFO]: Saving worlds
+[02:26:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:26:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:26:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:26:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:26:17] [Server thread/INFO]: [ChunkHolderManager] Saved 472 block chunks, 472 entity chunks, 0 poi chunks in world 'world' in 3.02s
+[02:26:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:26:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:26:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:26:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:26:17] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.26s
+[02:26:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:26:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:26:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

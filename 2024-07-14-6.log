@@ -1,0 +1,115 @@
+[11:25:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:25:33] [ServerMain/INFO]: Loaded 1290 recipes
+[11:25:33] [ServerMain/INFO]: Loaded 1399 advancements
+[11:25:33] [Server thread/INFO]: Starting minecraft server version 1.21
+[11:25:33] [Server thread/INFO]: Loading properties
+[11:25:34] [Server thread/INFO]: This server is running Paper version 1.21-57-master@0e02aa5 (2024-07-11T19:34:02Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[11:25:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:25:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:25:36] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[11:25:36] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[11:25:36] [Server thread/INFO]: Default game type: SURVIVAL
+[11:25:36] [Server thread/INFO]: Generating keypair
+[11:25:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:25:36] [Server thread/INFO]: Using epoll channel type
+[11:25:36] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[11:25:36] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[11:25:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:25:36] [Server thread/INFO]: Preparing level "world"
+[11:25:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:25:40] [Server thread/INFO]: Time elapsed: 2453 ms
+[11:25:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:25:40] [Server thread/INFO]: Time elapsed: 273 ms
+[11:25:40] [Server thread/INFO]: Running delayed init tasks
+[11:25:40] [Server thread/INFO]: Done (6.484s)! For help, type "help"
+[11:25:40] [Server thread/INFO]: Timings Reset
+[11:28:11] [User Authenticator #0/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[11:28:13] [Server thread/INFO]: PH1008 joined the game
+[11:28:14] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:34248] logged in with entity id 15 at ([world]-5196.855115717691, -2.0, -9790.412215373959)
+[11:28:42] [User Authenticator #0/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[11:28:44] [Server thread/INFO]: canhvjp joined the game
+[11:28:44] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:52520] logged in with entity id 370 at ([world]-34064.843827314944, 81.5, 19948.377597732244)
+[11:29:44] [Async Chat Thread - #1/INFO]: <canhvjp> e
+[11:29:59] [Async Chat Thread - #0/INFO]: <canhvjp> m vao nhanh v ph
+[11:30:10] [Async Chat Thread - #0/INFO]: <PH1008> ngau nhien check server
+[11:30:13] [Async Chat Thread - #0/INFO]: <PH1008> thi thay ip moi
+[11:30:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3908ms or 78 ticks behind
+[11:30:44] [Server thread/WARN]: PH1008 moved too quickly! -11.808609942549083,-1.751864001409054,15.583608021392138
+[11:32:07] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[11:32:07] [Server thread/INFO]: canhvjp left the game
+[11:32:14] [User Authenticator #1/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[11:32:15] [Server thread/INFO]: canhvjp joined the game
+[11:32:15] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:55046] logged in with entity id 1783 at ([world]-34075.665330467884, 82.0, 19945.36317192765)
+[11:32:36] [Async Chat Thread - #2/INFO]: <canhvjp> m lam nole tiep ko
+[11:32:40] [Async Chat Thread - #2/INFO]: <PH1008> deo
+[11:32:44] [Async Chat Thread - #2/INFO]: <canhvjp> m gay su a
+[11:32:47] [Async Chat Thread - #2/INFO]: <canhvjp> m phai chet
+[11:32:51] [Async Chat Thread - #2/INFO]: <PH1008> khong bao gio lam nole nua!!!
+[11:33:43] [Async Chat Thread - #2/INFO]: <PH1008> af anh canh ban cai de nang cap netherite k
+[11:40:06] [User Authenticator #2/INFO]: UUID of player Kuenain is ff33a88b-ac5b-41de-b571-43a9a5fc46dd
+[11:40:07] [Server thread/INFO]: Kuenain joined the game
+[11:40:07] [Server thread/INFO]: Kuenain[/[0:0:0:0:0:0:0:1%0]:58288] logged in with entity id 4482 at ([world]-34071.309761813245, 82.0, 19952.253998908735)
+[11:40:28] [Server thread/INFO]: Kuenain lost connection: Disconnected
+[11:40:28] [Server thread/INFO]: Kuenain left the game
+[11:40:35] [Async Chat Thread - #4/INFO]: <canhvjp> co
+[11:40:37] [Async Chat Thread - #5/INFO]: <canhvjp> co ban
+[11:40:46] [Async Chat Thread - #5/INFO]: <canhvjp> m muon mua a
+[11:41:18] [Async Chat Thread - #5/INFO]: <PH1008> u
+[11:41:23] [Async Chat Thread - #5/INFO]: <PH1008> bnh kc
+[11:46:47] [User Authenticator #3/INFO]: UUID of player TANTHINH008 is cec3f0bf-97f0-424f-a8af-55c9c4702bc4
+[11:46:48] [Server thread/INFO]: TANTHINH008 joined the game
+[11:46:48] [Server thread/INFO]: TANTHINH008[/[0:0:0:0:0:0:0:1%0]:47816] logged in with entity id 6264 at ([world]280.5, 67.0, -23.5)
+[11:46:56] [Async Chat Thread - #6/INFO]: <TANTHINH008> asd
+[11:47:00] [Async Chat Thread - #6/INFO]: <PH1008> qwe
+[11:47:01] [Async Chat Thread - #8/INFO]: <PH1008> zxc
+[11:47:58] [Async Chat Thread - #8/INFO]: <TANTHINH008> ae dau r
+[11:48:02] [Async Chat Thread - #8/INFO]: <canhvjp> sao
+[11:48:10] [Async Chat Thread - #8/INFO]: <TANTHINH008> dg dau v
+[11:48:15] [Async Chat Thread - #8/INFO]: <canhvjp> dang o base
+[11:48:17] [Async Chat Thread - #8/INFO]: <canhvjp> farm do
+[11:48:29] [Async Chat Thread - #8/INFO]: <PH1008> e
+[11:48:40] [Async Chat Thread - #8/INFO]: <PH1008> cai ban tao kieu mau me cho giap lam ntn nhi
+[11:49:08] [Async Chat Thread - #8/INFO]: <TANTHINH008> toa do
+[11:49:13] [Async Chat Thread - #8/INFO]: <PH1008> deo
+[11:49:19] [Async Chat Thread - #8/INFO]: <PH1008> hihi
+[11:49:19] [Async Chat Thread - #8/INFO]: <TANTHINH008> lan dau t choi smp
+[11:49:20] [Async Chat Thread - #8/INFO]: <PH1008> <3
+[11:49:34] [Async Chat Thread - #8/INFO]: <PH1008> m can than k keo bi nili giet day
+[11:49:48] [Async Chat Thread - #8/INFO]: <TANTHINH008> nili la gi
+[11:49:52] [Async Chat Thread - #8/INFO]: <PH1008> nilou
+[11:49:59] [Async Chat Thread - #8/INFO]: <PH1008> meya gigi do
+[11:50:32] [Server thread/INFO]: TANTHINH008 has made the advancement [Voluntary Exile]
+[11:50:32] [Server thread/INFO]: TANTHINH008 has made the advancement [Monster Hunter]
+[11:52:26] [Server thread/INFO]: TANTHINH008 has made the advancement [Stone Age]
+[11:52:43] [Server thread/INFO]: There are 14 whitelisted player(s): EvoKoifis, TaFiz008, canhvjp, Kuenain, 100ksup, ihuedepressed, dUkMiG, Logs369, shrddr, moonnight143, PH1008, HustGDVN, gato_the_gay, itz_namthamnam
+[11:52:50] [Server thread/INFO]: TANTHINH008 has made the advancement [Getting an Upgrade]
+[11:53:09] [Async Chat Thread - #9/INFO]: <TANTHINH008> co ngu k
+[11:53:13] [Async Chat Thread - #9/INFO]: <TANTHINH008> sap chet r
+[11:53:20] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[11:53:34] [Server thread/INFO]: [Not Secure] [Server] ae xin phep
+[11:53:40] [Server thread/INFO]: [Not Secure] [Server] toi restart server
+[11:53:43] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[11:53:43] [Server thread/INFO]: PH1008 left the game
+[11:53:45] [Server thread/INFO]: Stopping the server
+[11:53:45] [Server thread/INFO]: Stopping server
+[11:53:45] [Server thread/INFO]: Saving players
+[11:53:45] [Server thread/INFO]: canhvjp lost connection: Server closed
+[11:53:45] [Server thread/INFO]: canhvjp left the game
+[11:53:45] [Server thread/INFO]: TANTHINH008 lost connection: Server closed
+[11:53:45] [Server thread/INFO]: TANTHINH008 left the game
+[11:53:45] [Server thread/INFO]: Saving worlds
+[11:53:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:53:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[11:53:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[11:53:45] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[11:53:47] [Server thread/INFO]: [ChunkHolderManager] Saved 774 block chunks, 1555 entity chunks, 1 poi chunks in world 'world' in 1.89s
+[11:53:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[11:53:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[11:53:47] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[11:53:47] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[11:53:47] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.04s
+[11:53:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:53:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:53:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

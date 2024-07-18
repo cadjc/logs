@@ -1,0 +1,186 @@
+[08:02:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[08:02:48] [ServerMain/INFO]: Loaded 1290 recipes
+[08:02:48] [ServerMain/INFO]: Loaded 1399 advancements
+[08:02:49] [Server thread/INFO]: Starting minecraft server version 1.21
+[08:02:49] [Server thread/INFO]: Loading properties
+[08:02:49] [Server thread/INFO]: This server is running Paper version 1.21-57-master@0e02aa5 (2024-07-11T19:34:02Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[08:02:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:02:49] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:02:50] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[08:02:50] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[08:02:50] [Server thread/INFO]: Default game type: SURVIVAL
+[08:02:50] [Server thread/INFO]: Generating keypair
+[08:02:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:02:50] [Server thread/INFO]: Using default channel type
+[08:02:50] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[08:02:50] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[08:02:50] [Server thread/INFO]: [NoteBlockAPI] Loading server plugin NoteBlockAPI v1.6.2
+[08:02:50] [Server thread/INFO]: [MusicBox] Loading server plugin MusicBox v2.1.2
+[08:02:50] [Server thread/INFO]: [ImageFrame] Loading server plugin ImageFrame v1.7.9.0
+[08:02:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:02:50] [Server thread/INFO]: Preparing level "world"
+[08:02:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:02:52] [Server thread/INFO]: Time elapsed: 794 ms
+[08:02:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[08:02:52] [Server thread/INFO]: Time elapsed: 251 ms
+[08:02:52] [Server thread/INFO]: [NoteBlockAPI] Enabling NoteBlockAPI v1.6.2
+[08:02:52] [Server thread/INFO]: [MusicBox] Enabling MusicBox v2.1.2
+[08:02:52] [Server thread/INFO]: [ImageFrame] Enabling ImageFrame v1.7.9.0
+[08:02:53] [Server thread/INFO]: [ImageFrame] ImageFrame has been Enabled!
+[08:02:53] [Server thread/INFO]: Running delayed init tasks
+[08:02:53] [Server thread/INFO]: Done (4.230s)! For help, type "help"
+[08:02:53] [Server thread/INFO]: Timings Reset
+[08:02:53] [Craft Scheduler Thread - 4 - ImageFrame/INFO]: [ImageFrame] Data loading completed! Loaded 1 ImageMaps!
+[08:09:15] [User Authenticator #0/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[08:09:17] [Server thread/INFO]: canhvjp joined the game
+[08:09:17] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1]:62979] logged in with entity id 11 at ([world]-34075.30890690253, 82.0, 19965.323553081034)
+[08:16:12] [User Authenticator #1/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[08:16:14] [Server thread/INFO]: EvoKoifis joined the game
+[08:16:14] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1]:62988] logged in with entity id 1598 at ([world]-3197.4781262790184, 163.0, -6275.040162803433)
+[08:16:25] [Async Chat Thread - #2/INFO]: <EvoKoifis> gio dai chicken roi
+[08:16:31] [Async Chat Thread - #2/INFO]: <EvoKoifis> 2 level
+[08:23:32] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[08:23:32] [Server thread/INFO]: canhvjp left the game
+[08:24:33] [User Authenticator #2/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[08:24:34] [Server thread/INFO]: canhvjp joined the game
+[08:24:34] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1]:63005] logged in with entity id 5541 at ([world]-34522.30000001192, -15.0, 19831.30000001192)
+[08:26:18] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[08:26:18] [Server thread/INFO]: canhvjp left the game
+[08:26:54] [User Authenticator #3/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[08:26:56] [Server thread/INFO]: canhvjp joined the game
+[08:26:56] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1]:63013] logged in with entity id 6662 at ([world]-34519.434022436864, -11.0, 19902.659886769652)
+[08:59:27] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[08:59:27] [Server thread/INFO]: canhvjp left the game
+[08:59:30] [User Authenticator #4/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[08:59:31] [Server thread/INFO]: canhvjp joined the game
+[08:59:31] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1]:63088] logged in with entity id 20751 at ([world]-33166.62382648249, 44.0, 19708.69999998808)
+[08:59:34] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[08:59:34] [Server thread/INFO]: canhvjp left the game
+[09:00:08] [User Authenticator #4/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[09:00:09] [Server thread/INFO]: canhvjp joined the game
+[09:00:09] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1]:63091] logged in with entity id 20914 at ([world]-33166.62382648249, 44.0, 19708.69999998808)
+[09:00:15] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[09:00:15] [Server thread/INFO]: canhvjp left the game
+[09:00:28] [User Authenticator #4/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[09:00:29] [Server thread/INFO]: canhvjp joined the game
+[09:00:29] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1]:63093] logged in with entity id 21213 at ([world]-33166.62382648249, 37.0, 19708.69999998808)
+[09:04:32] [Async Chat Thread - #6/INFO]: <EvoKoifis> ngu di anh
+[09:04:43] [Async Chat Thread - #6/INFO]: <canhvjp> dang danh trial chamber
+[09:04:44] [Async Chat Thread - #6/INFO]: <canhvjp> ko ngu dc
+[09:05:17] [Async Chat Thread - #6/INFO]: <EvoKoifis> gus
+[09:11:46] [Server thread/INFO]: canhvjp has made the advancement [Wax Off]
+[09:13:23] [User Authenticator #5/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[09:13:23] [Server thread/INFO]: canhvjp lost connection: You logged in from another location
+[09:13:23] [Server thread/INFO]: canhvjp left the game
+[09:13:25] [Server thread/INFO]: canhvjp joined the game
+[09:13:25] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1]:63104] logged in with entity id 27466 at ([world]-33219.72001464193, -15.0, 19745.187425333945)
+[09:16:37] [Server thread/INFO]: canhvjp has made the advancement [Wax On]
+[09:24:37] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[09:24:37] [Server thread/INFO]: canhvjp left the game
+[09:29:39] [User Authenticator #6/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[09:29:40] [Server thread/INFO]: canhvjp joined the game
+[09:29:40] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1]:63115] logged in with entity id 35291 at ([world]-34076.23809196004, 83.0, 19946.699858496886)
+[09:30:25] [Server thread/INFO]: EvoKoifis has made the advancement [Glow and Behold!]
+[09:32:52] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[09:32:52] [Server thread/INFO]: canhvjp left the game
+[09:32:55] [User Authenticator #7/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[09:32:57] [Server thread/INFO]: canhvjp joined the game
+[09:32:57] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1]:63126] logged in with entity id 37006 at ([world_nether]-4249.942978032975, 129.0, 2487.228619035949)
+[09:33:00] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[09:33:00] [Server thread/INFO]: canhvjp left the game
+[09:34:13] [User Authenticator #8/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[09:34:14] [Server thread/INFO]: canhvjp joined the game
+[09:34:14] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1]:63129] logged in with entity id 37234 at ([world_nether]-4252.052117750969, 128.0, 2487.326805363195)
+[09:54:50] [Server thread/INFO]: canhvjp has made the advancement [You've Got a Friend in Me]
+[09:57:39] [Async Chat Thread - #12/INFO]: <EvoKoifis> wth
+[09:57:41] [Async Chat Thread - #12/INFO]: <EvoKoifis> tu nay den gio
+[09:57:45] [Async Chat Thread - #12/INFO]: <EvoKoifis> 4 trade mending
+[10:05:13] [Server thread/INFO]: Villager Villager['Librarian'/33443, uuid='d8ad03c7-5234-4abd-8e99-2a2ea711b43c', l='ServerLevel[world]', x=-3142.70, y=51.00, z=-6246.70, cpos=[-197, -391], tl=1213059, v=true] died, message: 'Librarian suffocated in a wall'
+[10:08:26] [User Authenticator #9/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[10:08:30] [Server thread/INFO]: PH1008 joined the game
+[10:08:30] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1]:63182] logged in with entity id 54343 at ([world_nether]2206.2690481161007, 128.0, -5369.326258242684)
+[10:10:26] [Async Chat Thread - #15/INFO]: <PH1008> base canhvip xa den muc nao the
+[10:11:09] [Async Chat Thread - #15/INFO]: <canhvjp> m muon den a
+[10:11:14] [Async Chat Thread - #15/INFO]: <PH1008> khong
+[10:11:24] [Async Chat Thread - #15/INFO]: <PH1008> chi hoi thoi
+[10:11:58] [Async Chat Thread - #15/INFO]: <canhvjp> rat xa
+[10:12:03] [Async Chat Thread - #15/INFO]: <canhvjp> t noi v thoi
+[10:12:19] [Async Chat Thread - #15/INFO]: <PH1008> ok thong tin rat huu ich cam on canhvjp
+[10:12:50] [Server thread/WARN]: PH1008 moved too quickly! 13.062738477271068,0.0,0.30576756687605666
+[10:13:39] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[10:13:39] [Server thread/INFO]: canhvjp left the game
+[10:13:47] [Server thread/INFO]: canhvjp (/[0:0:0:0:0:0:0:1]:63193) lost connection: Disconnected
+[10:14:02] [User Authenticator #10/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[10:14:04] [Server thread/INFO]: canhvjp joined the game
+[10:14:04] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1]:63194] logged in with entity id 60161 at ([world_nether]-4253.895607197157, 129.5, 2467.1339351843794)
+[10:15:37] [Server thread/WARN]: PH1008 moved too quickly! 10.01036615274279,-1.0013359791121559,0.04447812412036001
+[10:18:24] [Server thread/INFO]: canhvjp fell from a high place
+[10:18:27] [Async Chat Thread - #18/INFO]: <EvoKoifis> ỉip
+[10:18:28] [Async Chat Thread - #18/INFO]: <PH1008> oat
+[10:18:30] [Async Chat Thread - #19/INFO]: <EvoKoifis> rip
+[10:18:50] [Async Chat Thread - #19/INFO]: <PH1008> 200lv gone
+[10:18:56] [Async Chat Thread - #19/INFO]: <canhvjp> t co xp farm ma
+[10:18:58] [Async Chat Thread - #19/INFO]: <canhvjp> kk
+[10:19:01] [Async Chat Thread - #19/INFO]: <EvoKoifis> ma canh sao co nhieu exp vay
+[10:19:04] [Async Chat Thread - #19/INFO]: <PH1008> bo to su exp farm j
+[10:19:06] [Async Chat Thread - #19/INFO]: <canhvjp> xp farm
+[10:19:18] [Async Chat Thread - #19/INFO]: <EvoKoifis> co khi la gold farm
+[10:19:24] [Async Chat Thread - #19/INFO]: <PH1008> u co khi
+[10:24:35] [Async Chat Thread - #20/INFO]: <PH1008> 16
+[10:24:41] [Async Chat Thread - #20/INFO]: <EvoKoifis> 16 gi?
+[10:24:47] [Async Chat Thread - #20/INFO]: <PH1008> 16
+[10:24:50] [Async Chat Thread - #20/INFO]: <PH1008> la mmb
+[10:24:54] [Async Chat Thread - #20/INFO]: <canhvjp> ae xem xp farm cua t ko
+[10:25:02] [Async Chat Thread - #20/INFO]: <EvoKoifis> co
+[10:25:07] [Async Chat Thread - #20/INFO]: <PH1008> ok o dau
+[10:25:07] [Async Chat Thread - #20/INFO]: <canhvjp> doi ti
+[10:25:16] [Async Chat Thread - #20/INFO]: <canhvjp> dm t quay video cho xem
+[10:25:22] [Async Chat Thread - #20/INFO]: <canhvjp> ai cho toaa do
+[10:25:28] [Async Chat Thread - #20/INFO]: <PH1008> bo to su
+[10:26:32] [Async Chat Thread - #22/INFO]: <canhvjp> vao discord neu muon xem
+[10:32:55] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[10:32:55] [Server thread/INFO]: canhvjp left the game
+[10:42:07] [User Authenticator #11/INFO]: UUID of player gato_the_gay is 45c7a210-8e9a-47b1-a1ed-94b423e1cdd2
+[10:42:08] [Server thread/INFO]: gato_the_gay joined the game
+[10:42:08] [Server thread/INFO]: gato_the_gay[/[0:0:0:0:0:0:0:1]:63225] logged in with entity id 82550 at ([world]3917.301044978509, 80.0, -3789.1168983374782)
+[10:48:51] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[10:48:51] [Server thread/INFO]: EvoKoifis left the game
+[10:51:41] [Netty Server IO #3/WARN]: Failed to update secure chat state for gato_the_gay: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[10:51:41] [Async Chat Thread - #24/INFO]: <gato_the_gay> AWDAW
+[10:51:50] [Async Chat Thread - #24/INFO]: <PH1008> gay
+[11:02:09] [User Authenticator #12/INFO]: UUID of player Kuenain is ff33a88b-ac5b-41de-b571-43a9a5fc46dd
+[11:02:11] [Server thread/INFO]: Kuenain joined the game
+[11:02:11] [Server thread/INFO]: Kuenain[/[0:0:0:0:0:0:0:1]:63248] logged in with entity id 96659 at ([world]-34085.69999998808, 83.0, 19949.695955243427)
+[11:09:34] [Server thread/INFO]: That player does not exist
+[11:09:41] [Server thread/INFO]: Added DaDenLucChiaTayR to the whitelist
+[11:10:52] [Server thread/INFO]: [Not Secure] [Server] reload server
+[11:10:55] [Server thread/INFO]: PH1008 lost connection: Disconnected
+[11:10:55] [Server thread/INFO]: PH1008 left the game
+[11:11:05] [Server thread/INFO]: Kuenain lost connection: Disconnected
+[11:11:05] [Server thread/INFO]: Kuenain left the game
+[11:11:05] [Server thread/INFO]: [Not Secure] [Server] ae cho 2 phut
+[11:11:10] [Server thread/INFO]: Stopping the server
+[11:11:10] [Server thread/INFO]: Stopping server
+[11:11:10] [Server thread/INFO]: [ImageFrame] Disabling ImageFrame v1.7.9.0
+[11:11:10] [Server thread/INFO]: [ImageFrame] ImageFrame has been Disabled!
+[11:11:10] [Server thread/INFO]: [MusicBox] Disabling MusicBox v2.1.2
+[11:11:10] [Server thread/INFO]: [NoteBlockAPI] Disabling NoteBlockAPI v1.6.2
+[11:11:10] [Server thread/INFO]: Saving players
+[11:11:10] [Server thread/INFO]: gato_the_gay lost connection: Server closed
+[11:11:10] [Server thread/INFO]: gato_the_gay left the game
+[11:11:10] [Server thread/INFO]: Saving worlds
+[11:11:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:11:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[11:11:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[11:11:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[11:11:12] [Server thread/INFO]: [ChunkHolderManager] Saved 1137 block chunks, 1458 entity chunks, 0 poi chunks in world 'world' in 1.77s
+[11:11:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[11:11:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[11:11:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[11:11:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[11:11:12] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.08s
+[11:11:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:11:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:11:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

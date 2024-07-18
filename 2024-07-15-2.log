@@ -1,0 +1,468 @@
+[02:27:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:27:28] [ServerMain/INFO]: Loaded 1290 recipes
+[02:27:28] [ServerMain/INFO]: Loaded 1399 advancements
+[02:27:28] [Server thread/INFO]: Starting minecraft server version 1.21
+[02:27:28] [Server thread/INFO]: Loading properties
+[02:27:29] [Server thread/INFO]: This server is running Paper version 1.21-57-master@0e02aa5 (2024-07-11T19:34:02Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[02:27:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:27:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:27:30] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[02:27:30] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[02:27:31] [Server thread/INFO]: Default game type: SURVIVAL
+[02:27:31] [Server thread/INFO]: Generating keypair
+[02:27:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:27:31] [Server thread/INFO]: Using epoll channel type
+[02:27:31] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:27:31] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:27:31] [Server thread/INFO]: [NoteBlockAPI] Loading server plugin NoteBlockAPI v1.6.2
+[02:27:31] [Server thread/INFO]: [ImageFrame] Loading server plugin ImageFrame v1.7.9.0
+[02:27:31] [Server thread/INFO]: [MusicBox] Loading server plugin MusicBox v2.1.2
+[02:27:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:27:31] [Server thread/INFO]: Preparing level "world"
+[02:27:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:27:34] [Server thread/INFO]: Time elapsed: 1987 ms
+[02:27:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:27:35] [Server thread/INFO]: Time elapsed: 344 ms
+[02:27:35] [Server thread/INFO]: [NoteBlockAPI] Enabling NoteBlockAPI v1.6.2
+[02:27:35] [Server thread/INFO]: [ImageFrame] Enabling ImageFrame v1.7.9.0
+[02:27:37] [Server thread/INFO]: [ImageFrame] ImageFrame has been Enabled!
+[02:27:37] [Server thread/INFO]: [MusicBox] Enabling MusicBox v2.1.2
+[02:27:37] [Server thread/INFO]: Running delayed init tasks
+[02:27:37] [Server thread/INFO]: Done (8.451s)! For help, type "help"
+[02:27:37] [Server thread/INFO]: Timings Reset
+[02:27:37] [Craft Scheduler Thread - 2 - ImageFrame/INFO]: [ImageFrame] Data loading completed! Loaded 0 ImageMaps!
+[02:28:13] [User Authenticator #0/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[02:28:14] [Server thread/INFO]: canhvjp joined the game
+[02:28:15] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:50546] logged in with entity id 28 at ([world]-34073.734207978574, 82.16477328182607, 19948.373650270638)
+[02:28:15] [Craft Scheduler Thread - 3 - ImageFrame/INFO]: Map color cache not found, building it in the background
+[02:28:36] [Worker-Main-1/INFO]: Map color cache build successfully
+[02:28:43] [User Authenticator #0/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[02:28:44] [Server thread/INFO]: EvoKoifis joined the game
+[02:28:44] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:40626] logged in with entity id 373 at ([world]-3129.699999988079, 62.0, -6242.701995303464)
+[02:29:50] [Async Chat Thread - #2/INFO]: <EvoKoifis> ngu di anh
+[02:31:21] [User Authenticator #1/INFO]: UUID of player PH1008 is 5c616ce3-47da-4542-92bf-6015a6c3c9d9
+[02:31:23] [Server thread/INFO]: PH1008 joined the game
+[02:31:23] [Server thread/INFO]: PH1008[/[0:0:0:0:0:0:0:1%0]:38070] logged in with entity id 1505 at ([world]-5159.704315264529, -50.160000026226044, -9832.725696673378)
+[02:31:51] [User Authenticator #1/INFO]: UUID of player Logs369 is d7d0c0f5-d2bd-47d2-9bf3-05ceedd7ba85
+[02:31:53] [Server thread/INFO]: Logs369 joined the game
+[02:31:53] [Server thread/INFO]: Logs369[/[0:0:0:0:0:0:0:1%0]:42566] logged in with entity id 2187 at ([world]-34054.82458206679, 63.0, 19945.710390792035)
+[02:31:53] [Server thread/INFO]: PH1008 issued server command: /tell EvoKoifis em yeu
+[02:32:02] [Server thread/INFO]: EvoKoifis issued server command: /msg PH1008 chua vao da gay
+[02:32:15] [Async Chat Thread - #4/INFO]: <Logs369> canh co giong cay ma trong rung co bon cho soi khong
+[02:32:31] [Server thread/INFO]: This command can only be ran by players!
+[02:32:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6109ms or 122 ticks behind
+[02:33:36] [User Authenticator #2/INFO]: UUID of player HustGDVN is 80a5c332-139b-4de0-9e7c-2eb508f5e3a0
+[02:33:37] [Server thread/INFO]: Logs369 issued server command: /msg canhvjp base cu xay lo thien hay la secret base
+[02:33:37] [Server thread/INFO]: HustGDVN joined the game
+[02:33:37] [Server thread/INFO]: HustGDVN[/[0:0:0:0:0:0:0:1%0]:37246] logged in with entity id 2947 at ([world]292.5, 73.0, -7.5)
+[02:33:42] [Async Chat Thread - #6/INFO]: <Logs369> blakefu kk
+[02:33:43] [Server thread/INFO]: Made HustGDVN a server operator
+[02:33:45] [Async Chat Thread - #6/INFO]: <PH1008> em yeu blake cua a
+[02:33:59] [Server thread/INFO]: HustGDVN issued server command: /imageframe create limbo https://i.ytimg.com/vi/ryBbuH_SPbs/maxresdefault.jpg 16 9 combined
+[02:34:09] [Server thread/INFO]: HustGDVN issued server command: /imageframe create limbo https://i.ytimg.com/vi/ryBbuH_SPbs/maxresdefault.jpg 8 4 combined
+[02:34:12] [Server thread/INFO]: HustGDVN issued server command: /gamemode creative
+[02:34:12] [Server thread/INFO]: [HustGDVN: Set own game mode to Creative Mode]
+[02:34:12] [Async Chat Thread - #6/INFO]: <Logs369> bao thang ph gay co sai dau
+[02:34:16] [Server thread/INFO]: HustGDVN issued server command: /imageframe create limbo https://i.ytimg.com/vi/ryBbuH_SPbs/maxresdefault.jpg 8 4 combined
+[02:34:18] [Async Chat Thread - #6/INFO]: <EvoKoifis> u
+[02:34:18] [Async Chat Thread - #6/INFO]: <PH1008> m noi gi co
+[02:34:20] [Async Chat Thread - #6/INFO]: <Logs369> lai con dao mo
+[02:34:21] [Async Chat Thread - #6/INFO]: <EvoKoifis> noi xong lai tu ai
+[02:34:28] [Async Chat Thread - #6/INFO]: <Logs369> dang yeu anh dukmig
+[02:34:31] [Server thread/INFO]: HustGDVN issued server command: /tp canhvjp
+[02:34:31] [Server thread/INFO]: [HustGDVN: Teleported HustGDVN to canhvjp]
+[02:34:33] [Async Chat Thread - #6/INFO]: <Logs369> tu dung lai chuyen sang blake
+[02:34:42] [Async Chat Thread - #6/INFO]: <PH1008> fake
+[02:34:42] [Async Chat Thread - #6/INFO]: <EvoKoifis> nay ph con goi toi la em yeu co ma
+[02:34:43] [Async Chat Thread - #6/INFO]: <EvoKoifis> kk
+[02:36:48] [Async Chat Thread - #7/INFO]: <HustGDVN> ee ph
+[02:36:50] [Async Chat Thread - #7/INFO]: <PH1008> j
+[02:36:55] [Async Chat Thread - #7/INFO]: <HustGDVN> t den cho m nhe
+[02:36:58] [Async Chat Thread - #7/INFO]: <PH1008> lam meo gi
+[02:37:06] [Async Chat Thread - #7/INFO]: <PH1008> den cho thang water
+[02:37:08] [Async Chat Thread - #7/INFO]: <HustGDVN> t la admin
+[02:37:10] [Async Chat Thread - #7/INFO]: <PH1008> no giau vai l
+[02:37:17] [Async Chat Thread - #7/INFO]: <EvoKoifis> khoan
+[02:37:18] [Async Chat Thread - #7/INFO]: <HustGDVN> tang qua mien phi
+[02:37:29] [Server thread/INFO]: HustGDVN issued server command: /tp 0 ~ 0
+[02:37:29] [Server thread/INFO]: [HustGDVN: Teleported HustGDVN to 0.500000, 80.000000, 0.500000]
+[02:37:30] [Async Chat Thread - #8/INFO]: <Logs369> anh blakefu tim tafiz ay
+[02:37:35] [Async Chat Thread - #8/INFO]: <EvoKoifis> ngon
+[02:37:37] [Async Chat Thread - #8/INFO]: <PH1008> a u
+[02:37:39] [Async Chat Thread - #7/INFO]: <Logs369> giau cuc
+[02:37:42] [Async Chat Thread - #7/INFO]: <PH1008> tafiz choi 1 minh
+[02:37:44] [Async Chat Thread - #7/INFO]: <PH1008> giau vcl
+[02:37:56] [Async Chat Thread - #7/INFO]: <HustGDVN> t canhvjp vao acc khac test plugin ma
+[02:38:13] [Async Chat Thread - #7/INFO]: <Logs369> biet ngay
+[02:38:22] [Async Chat Thread - #7/INFO]: <Logs369> cai "ee" thay nghi nghi roi kk
+[02:39:01] [Server thread/INFO]: EvoKoifis lost connection: Timed out
+[02:39:01] [Server thread/INFO]: EvoKoifis left the game
+[02:40:15] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[02:40:15] [Server thread/INFO]: canhvjp left the game
+[02:40:38] [User Authenticator #3/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[02:40:39] [Server thread/INFO]: EvoKoifis joined the game
+[02:40:39] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:35158] logged in with entity id 7154 at ([world]-3256.8447038888066, 68.0, -6260.295552863952)
+[02:40:45] [Async Chat Thread - #9/INFO]: <EvoKoifis> kho qua
+[02:40:48] [Async Chat Thread - #9/INFO]: <EvoKoifis> nay mat mang
+[02:40:51] [Server thread/INFO]: HustGDVN issued server command: /musicbox shop
+[02:40:55] [Async Chat Thread - #9/INFO]: <Logs369> anh hien hon vay a
+[02:40:56] [Server thread/ERROR]: Could not pass event InventoryClickEvent to MusicBox v2.1.2
+java.lang.NoClassDefFoundError: net/milkbowl/vault/economy/Economy
+	at MusicBox-2.1.2-all.jar/ru.spliterash.musicbox.utils.EconomyUtils.getBalance(EconomyUtils.java:31) ~[MusicBox-2.1.2-all.jar:?]
+	at MusicBox-2.1.2-all.jar/ru.spliterash.musicbox.utils.EconomyUtils.canBuy(EconomyUtils.java:45) ~[MusicBox-2.1.2-all.jar:?]
+	at MusicBox-2.1.2-all.jar/ru.spliterash.musicbox.gui.GUIActions.playerBuyMusic(GUIActions.java:302) ~[MusicBox-2.1.2-all.jar:?]
+	at MusicBox-2.1.2-all.jar/ru.spliterash.musicbox.gui.GUIActions.buyAllContainer(GUIActions.java:322) ~[MusicBox-2.1.2-all.jar:?]
+	at MusicBox-2.1.2-all.jar/ru.spliterash.musicbox.gui.song.SongContainerGUI.lambda$openPage$2(SongContainerGUI.java:100) ~[MusicBox-2.1.2-all.jar:?]
+	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at MusicBox-2.1.2-all.jar/ru.spliterash.musicbox.minecraft.gui.actions.ClickAction.onEvent(ClickAction.java:30) ~[MusicBox-2.1.2-all.jar:?]
+	at MusicBox-2.1.2-all.jar/ru.spliterash.musicbox.minecraft.gui.GUI.onInventoryClick(GUI.java:92) ~[MusicBox-2.1.2-all.jar:?]
+	at MusicBox-2.1.2-all.jar/ru.spliterash.musicbox.minecraft.gui.GUI$1.onClick(GUI.java:29) ~[MusicBox-2.1.2-all.jar:?]
+	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:40) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-57-0e02aa5]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-57-0e02aa5]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-57-0e02aa5]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3122) ~[paper-1.21.jar:1.21-57-0e02aa5]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.21.jar:1.21-57-0e02aa5]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.21.jar:1.21-57-0e02aa5]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.jar:1.21-57-0e02aa5]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-57-0e02aa5]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-57-0e02aa5]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-57-0e02aa5]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1542) ~[paper-1.21.jar:1.21-57-0e02aa5]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-57-0e02aa5]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-57-0e02aa5]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1519) ~[paper-1.21.jar:1.21-57-0e02aa5]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1512) ~[paper-1.21.jar:1.21-57-0e02aa5]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-57-0e02aa5]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1471) ~[paper-1.21.jar:1.21-57-0e02aa5]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1478) ~[paper-1.21.jar:1.21-57-0e02aa5]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1323) ~[paper-1.21.jar:1.21-57-0e02aa5]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-57-0e02aa5]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.economy.Economy
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	... 33 more
+[02:41:12] [Server thread/INFO]: HustGDVN issued server command: /musicbox play HustGDVN Bad_Apple
+[02:41:18] [User Authenticator #3/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[02:41:19] [Server thread/INFO]: canhvjp joined the game
+[02:41:19] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:41190] logged in with entity id 7905 at ([world]-34070.636531863245, 82.0, 19946.94372203156)
+[02:41:24] [Async Chat Thread - #9/INFO]: <Logs369> kk
+[02:41:33] [Server thread/INFO]: HustGDVN issued server command: /musicbox shutup
+[02:41:33] [Server thread/INFO]: Logs369 issued server command: /msg canhvjp sao ong xay tren noc nether lam gi
+[02:41:38] [Server thread/INFO]: HustGDVN issued server command: /musicbox shutup HustGDVN
+[02:41:56] [Server thread/INFO]: HustGDVN issued server command: /musicbox play @a AMOGUS
+[02:42:03] [Server thread/INFO]: HustGDVN issued server command: /musicbox play PH1008 AMOGUS
+[02:42:10] [Server thread/INFO]: HustGDVN issued server command: /musicbox play canhvjp AMOGUS
+[02:42:32] [Server thread/INFO]: HustGDVN issued server command: /musicbox play canhvjp,logs369 AMOGUS
+[02:42:38] [Server thread/INFO]: HustGDVN issued server command: /musicbox play logs369 AMOGUS
+[02:42:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3004ms or 60 ticks behind
+[02:42:46] [Server thread/WARN]: PH1008 moved too quickly! 5.360393727154587,0.003016261509046103,11.227005029018983
+[02:42:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! -2.0739083727021352,0.0,-20.111615976056783
+[02:42:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! -2.072477372821595,0.0,-20.510937172250124
+[02:42:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! -2.0708865146589233,0.0,-20.91032509101933
+[02:42:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! -2.0691479492161307,0.0,-21.309773030305223
+[02:42:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! -2.067276447218319,0.0,-21.70927498805395
+[02:42:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! -2.065281467490422,0.0,-22.10882553261399
+[02:42:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! -2.0631753578054486,0.0,-22.508419805304584
+[02:42:46] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved too quickly! -2.060969231162744,0.0,-22.90805343331158
+[02:42:56] [Server thread/INFO]: HustGDVN issued server command: /musicbox play EvoKoifis AMOGUS
+[02:43:00] [Async Chat Thread - #11/INFO]: <EvoKoifis> wth
+[02:43:25] [Async Chat Thread - #11/INFO]: <EvoKoifis> oat do heo
+[02:43:27] [Async Chat Thread - #11/INFO]: <EvoKoifis> canh lam gi vay
+[02:43:43] [Async Chat Thread - #11/INFO]: <Logs369> kk
+[02:43:44] [Async Chat Thread - #11/INFO]: <HustGDVN> test nhac
+[02:43:52] [Async Chat Thread - #11/INFO]: <Logs369> mo flamewall di
+[02:43:54] [Server thread/INFO]: HustGDVN issued server command: /musicbox play EvoKoifis Astronomia
+[02:44:00] [Server thread/INFO]: HustGDVN issued server command: /musicbox play canhvjp Astronomia
+[02:45:04] [Server thread/INFO]: HustGDVN issued server command: /tp @e[type=minecraft:trident] canhvjp
+[02:45:21] [Async Chat Thread - #13/INFO]: <Logs369> dang stream anh em nhe
+[02:45:42] [Server thread/INFO]: HustGDVN issued server command: /tp @e[type=minecraft:trident] canhvjp
+[02:46:21] [Server thread/INFO]: HustGDVN issued server command: /weather thunder
+[02:46:21] [Server thread/INFO]: [HustGDVN: Set the weather to rain & thunder]
+[02:46:23] [Server thread/INFO]: HustGDVN lost connection: Disconnected
+[02:46:23] [Server thread/INFO]: HustGDVN left the game
+[02:46:51] [Async Chat Thread - #15/INFO]: <EvoKoifis> cai nay set danh vao nha la chicken
+[02:47:03] [Async Chat Thread - #15/INFO]: <EvoKoifis> ok vua noi xong
+[02:47:09] [Async Chat Thread - #15/INFO]: <EvoKoifis> set danh dung 5 block
+[02:47:55] [Async Chat Thread - #15/INFO]: <Logs369> e canh
+[02:47:59] [Async Chat Thread - #15/INFO]: <canhvjp> sao
+[02:48:02] [Async Chat Thread - #15/INFO]: <Logs369> nem trident vao dan lang di
+[02:48:05] [Async Chat Thread - #15/INFO]: <canhvjp> ok
+[02:48:07] [Async Chat Thread - #15/INFO]: <Logs369> co advancement
+[02:48:16] [Async Chat Thread - #15/INFO]: <canhvjp> villager o nha ha?
+[02:48:25] [Async Chat Thread - #15/INFO]: <Logs369> mot con nao ma ong thay suc vat nhat
+[02:48:26] [Async Chat Thread - #15/INFO]: <canhvjp> hay o lang
+[02:48:32] [Async Chat Thread - #15/INFO]: <Logs369> o day luon
+[02:48:50] [Server thread/INFO]: Summoned new Villager
+[02:48:56] [Server thread/INFO]: Villager Villager['Villager'/12595, uuid='c795e8da-6b8b-4502-a877-02ce3acccc72', l='ServerLevel[world]', x=-34047.30, y=64.36, z=19935.30, cpos=[-2128, 1245], tl=121, v=true] was struck by lightning LightningBolt['Lightning Bolt'/12690, uuid='bd4d0bb6-fcc5-47bb-9c11-9565385f02f3', l='ServerLevel[world]', x=-34047.35, y=64.00, z=19934.91, cpos=[-2128, 1245], tl=1, v=true].
+[02:48:56] [Server thread/INFO]: canhvjp has made the advancement [Very Very Frightening]
+[02:49:10] [Async Chat Thread - #16/INFO]: <canhvjp> r
+[02:50:52] [Async Chat Thread - #17/INFO]: <Logs369> e canh ong co don hang nao khong
+[02:50:59] [Async Chat Thread - #17/INFO]: <canhvjp> co dukmig
+[02:51:13] [Async Chat Thread - #17/INFO]: <Logs369> no mua gi
+[02:52:16] [Server thread/INFO]: Logs369 has completed the challenge [Hot Tourist Destinations]
+[02:58:53] [Async Chat Thread - #19/INFO]: <canhvjp> ee
+[02:58:56] [Async Chat Thread - #20/INFO]: <canhvjp> ph1008
+[02:58:59] [Async Chat Thread - #19/INFO]: <PH1008> oi
+[02:59:02] [Async Chat Thread - #19/INFO]: <PH1008> oi oi
+[02:59:05] [Async Chat Thread - #19/INFO]: <canhvjp> ra spawn
+[02:59:07] [Async Chat Thread - #19/INFO]: <canhvjp> co qua
+[02:59:11] [Async Chat Thread - #19/INFO]: <PH1008> dang ban viec re
+[02:59:12] [Async Chat Thread - #19/INFO]: <PH1008> r
+[02:59:14] [Async Chat Thread - #20/INFO]: <PH1008> ti nua
+[02:59:17] [Async Chat Thread - #20/INFO]: <Logs369> top 10 scam
+[02:59:17] [Async Chat Thread - #20/INFO]: <PH1008> lam xong farm da
+[03:01:57] [Server thread/INFO]: Villager Villager['tran trung kien'/19179, uuid='106e330d-23a6-4e1e-96c2-2e1449baeadb', l='ServerLevel[world]', x=-34036.30, y=64.00, z=19932.30, cpos=[-2128, 1245], tl=280325, v=true] died, message: 'tran trung kien went up in flames'
+[03:01:57] [Server thread/INFO]: Named entity Villager['tran trung kien'/19179, uuid='106e330d-23a6-4e1e-96c2-2e1449baeadb', l='ServerLevel[world]', x=-34036.30, y=64.00, z=19932.30, cpos=[-2128, 1245], tl=280325, v=true] died: tran trung kien went up in flames
+[03:02:00] [Server thread/INFO]: Villager Villager['Mason'/19182, uuid='bba25351-061b-44f3-9ef3-efd314c51df5', l='ServerLevel[world]', x=-34032.70, y=64.00, z=19941.70, cpos=[-2128, 1246], tl=280253, v=true] died, message: 'Mason went up in flames'
+[03:02:06] [Server thread/INFO]: Villager Villager['Mason'/19181, uuid='d09e1867-b731-40ee-84de-f2d7b4ef5444', l='ServerLevel[world]', x=-34032.38, y=64.00, z=19943.47, cpos=[-2128, 1246], tl=280227, v=true] died, message: 'Mason went up in flames'
+[03:02:09] [Server thread/INFO]: Villager Villager['Mason'/19198, uuid='e2310829-7a64-4ccc-8007-0cd6aaae45e8', l='ServerLevel[world]', x=-34028.30, y=64.00, z=19944.69, cpos=[-2127, 1246], tl=281175, v=true] died, message: 'Mason went up in flames'
+[03:02:11] [Server thread/INFO]: Villager Villager['tran trung kien'/19196, uuid='9bbadec3-1d1a-45b4-9092-741cf5aa20ac', l='ServerLevel[world]', x=-34028.60, y=64.00, z=19942.22, cpos=[-2127, 1246], tl=280993, v=true] died, message: 'tran trung kien went up in flames'
+[03:02:11] [Server thread/INFO]: Named entity Villager['tran trung kien'/19196, uuid='9bbadec3-1d1a-45b4-9092-741cf5aa20ac', l='ServerLevel[world]', x=-34028.60, y=64.00, z=19942.22, cpos=[-2127, 1246], tl=280993, v=true] died: tran trung kien went up in flames
+[03:02:13] [Server thread/INFO]: Villager Villager['tran trung kien'/19197, uuid='22a935ce-afda-4008-ad4c-d6e24eac07e6', l='ServerLevel[world]', x=-34028.62, y=64.00, z=19940.70, cpos=[-2127, 1246], tl=281163, v=true] died, message: 'tran trung kien went up in flames'
+[03:02:13] [Server thread/INFO]: Named entity Villager['tran trung kien'/19197, uuid='22a935ce-afda-4008-ad4c-d6e24eac07e6', l='ServerLevel[world]', x=-34028.62, y=64.00, z=19940.70, cpos=[-2127, 1246], tl=281163, v=true] died: tran trung kien went up in flames
+[03:02:15] [Server thread/INFO]: Villager Villager['tran trung kien'/19194, uuid='b13e5a46-8a91-4c6e-a280-5033d4605616', l='ServerLevel[world]', x=-34028.39, y=64.00, z=19938.65, cpos=[-2127, 1246], tl=280440, v=true] died, message: 'tran trung kien went up in flames'
+[03:02:15] [Server thread/INFO]: Named entity Villager['tran trung kien'/19194, uuid='b13e5a46-8a91-4c6e-a280-5033d4605616', l='ServerLevel[world]', x=-34028.39, y=64.00, z=19938.65, cpos=[-2127, 1246], tl=280440, v=true] died: tran trung kien went up in flames
+[03:02:19] [Server thread/INFO]: Villager Villager['Librarian'/19195, uuid='253db606-9725-41ca-9554-4af3dd0d5395', l='ServerLevel[world]', x=-34028.70, y=64.00, z=19936.79, cpos=[-2127, 1246], tl=281365, v=true] died, message: 'Librarian went up in flames'
+[03:02:27] [Server thread/INFO]: Villager Villager['tran trung kien'/19184, uuid='091f3296-82e7-4e86-9ad9-76e8e0cbb9e7', l='ServerLevel[world]', x=-34035.43, y=65.00, z=19935.05, cpos=[-2128, 1245], tl=281341, v=true] died, message: 'tran trung kien burned to death'
+[03:02:27] [Server thread/INFO]: Named entity Villager['tran trung kien'/19184, uuid='091f3296-82e7-4e86-9ad9-76e8e0cbb9e7', l='ServerLevel[world]', x=-34035.43, y=65.00, z=19935.05, cpos=[-2128, 1245], tl=281341, v=true] died: tran trung kien burned to death
+[03:02:53] [Server thread/INFO]: Villager Villager['tran trung kien'/19185, uuid='607cb254-303a-4a82-8c4e-b8c82d2b7364', l='ServerLevel[world]', x=-34038.43, y=64.00, z=19942.64, cpos=[-2128, 1246], tl=281986, v=true] died, message: 'tran trung kien burned to death'
+[03:02:53] [Server thread/INFO]: Named entity Villager['tran trung kien'/19185, uuid='607cb254-303a-4a82-8c4e-b8c82d2b7364', l='ServerLevel[world]', x=-34038.43, y=64.00, z=19942.64, cpos=[-2128, 1246], tl=281986, v=true] died: tran trung kien burned to death
+[03:04:33] [Async Chat Thread - #21/INFO]: <Logs369> Wtf tu dung t bi chay
+[03:08:21] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved wrongly! 0.26007849304915
+[03:08:21] [Server thread/WARN]: Oak Boat (vehicle of Logs369) moved wrongly! 0.5136957871281993
+[03:13:46] [Server thread/INFO]: Showing new title for 4 players
+[03:14:05] [Server thread/INFO]: Showing new title for 4 players
+[03:14:12] [Async Chat Thread - #23/INFO]: <EvoKoifis> ia10cut chet roi
+[03:14:20] [Async Chat Thread - #23/INFO]: <Logs369> vai lon canh oi
+[03:14:20] [Async Chat Thread - #23/INFO]: <EvoKoifis> khong tin tra yt
+[03:14:30] [Server thread/INFO]: Logs369 issued server command: /msg canhvjp minh mat them 2 con dan lang nua roi
+[03:14:40] [Server thread/INFO]: Applied effect Instant Damage to EvoKoifis
+[03:14:57] [Async Chat Thread - #24/INFO]: <canhvjp> sao
+[03:15:09] [Async Chat Thread - #24/INFO]: <canhvjp> dan lang lm sao
+[03:15:10] [Server thread/INFO]: Logs369 issued server command: /msg canhvjp mat them con dang lang fire aspect
+[03:15:24] [Server thread/INFO]: canhvjp issued server command: /w Logs369 lam lai sau
+[03:15:30] [Server thread/INFO]: canhvjp issued server command: /w Logs369 breed bon kia
+[03:15:35] [Async Chat Thread - #23/INFO]: <canhvjp> r lam trading hall
+[03:15:36] [Server thread/INFO]: Logs369 issued server command: /msg canhvjp gio xay o tren noc nether ha
+[03:15:42] [Async Chat Thread - #24/INFO]: <canhvjp> u
+[03:15:50] [Server thread/INFO]: Logs369 issued server command: /msg canhvjp co cai portal nao link tren tang bedrock khong
+[03:15:57] [Async Chat Thread - #23/INFO]: <Logs369> de t lam duong ray luon
+[03:16:02] [Server thread/INFO]: canhvjp issued server command: /w bay h xay la link
+[03:16:10] [Server thread/INFO]: canhvjp issued server command: /w Logs369 bay h xay la link luon
+[03:16:17] [Server thread/INFO]: canhvjp issued server command: /w Logs369 no o gan ma
+[03:16:27] [Async Chat Thread - #23/INFO]: <Logs369> where
+[03:16:36] [Server thread/INFO]: canhvjp issued server command: /w Logs369 nma it dan lang qua
+[03:16:42] [Async Chat Thread - #24/INFO]: <Logs369> nhu nay la ok roi
+[03:16:43] [Server thread/INFO]: canhvjp issued server command: /w Logs369 breed them di
+[03:16:50] [Async Chat Thread - #23/INFO]: <Logs369> vay cho t mot ti
+[03:18:08] [Async Chat Thread - #25/INFO]: <Logs369> bon nay de nhieu vc
+[03:18:12] [Async Chat Thread - #26/INFO]: <canhvjp> link ma
+[03:19:01] [Async Chat Thread - #26/INFO]: <Logs369> sao bon nay xong chuong het roi
+[03:19:22] [User Authenticator #4/INFO]: UUID of player HmzyyX is d0135778-6e50-40e9-93a9-328349820168
+[03:19:24] [Server thread/INFO]: HmzyyX joined the game
+[03:19:24] [Server thread/INFO]: HmzyyX[/[0:0:0:0:0:0:0:1%0]:33920] logged in with entity id 30626 at ([world]-810.55912124579, 61.859056672531494, 828.6584865731697)
+[03:19:25] [Async Chat Thread - #26/INFO]: <Logs369> e co ai o day co bone meals khong
+[03:19:28] [Async Chat Thread - #26/INFO]: <Logs369> trade
+[03:19:42] [Async Chat Thread - #26/INFO]: <canhvjp> t giet wither ske
+[03:19:42] [Async Chat Thread - #26/INFO]: <Logs369> gia ca thuong luong
+[03:19:48] [Async Chat Thread - #26/INFO]: <canhvjp> 1 dong bone ben tren
+[03:20:10] [Async Chat Thread - #26/INFO]: <Logs369> khong co
+[03:23:09] [Async Chat Thread - #27/INFO]: <Logs369> chang thay con ske nao
+[03:23:16] [Async Chat Thread - #28/INFO]: <Logs369> tuyet chung roi
+[03:25:03] [Async Chat Thread - #29/INFO]: <HmzyyX> -410 62 663 cs ocean monument
+[03:25:21] [Server thread/INFO]: Villager Villager['tran trung kien'/34883, uuid='ad4b6201-7453-40bb-bc2d-2f6c8f5b93c7', l='ServerLevel[world]', x=-34018.33, y=64.56, z=19934.46, cpos=[-2127, 1245], tl=24191, v=true] died, message: 'tran trung kien suffocated in a wall'
+[03:25:21] [Server thread/INFO]: Named entity Villager['tran trung kien'/34883, uuid='ad4b6201-7453-40bb-bc2d-2f6c8f5b93c7', l='ServerLevel[world]', x=-34018.33, y=64.56, z=19934.46, cpos=[-2127, 1245], tl=24191, v=true] died: tran trung kien suffocated in a wall
+[03:25:23] [Server thread/INFO]: Villager Villager['tran trung kien'/33386, uuid='e9a571d7-3ec2-4fb4-99fa-f7c7cdf88b03', l='ServerLevel[world]', x=-34017.30, y=64.56, z=19934.30, cpos=[-2127, 1245], tl=24210, v=true] died, message: 'tran trung kien suffocated in a wall'
+[03:25:23] [Server thread/INFO]: Named entity Villager['tran trung kien'/33386, uuid='e9a571d7-3ec2-4fb4-99fa-f7c7cdf88b03', l='ServerLevel[world]', x=-34017.30, y=64.56, z=19934.30, cpos=[-2127, 1245], tl=24210, v=true] died: tran trung kien suffocated in a wall
+[03:25:59] [Server thread/INFO]: Villager Villager['tran trung kien'/36807, uuid='632dcb2d-8f33-482d-b4e6-59137d625ed4', l='ServerLevel[world]', x=-34018.89, y=64.56, z=19933.71, cpos=[-2127, 1245], tl=24203, v=true] died, message: 'tran trung kien suffocated in a wall'
+[03:25:59] [Server thread/INFO]: Named entity Villager['tran trung kien'/36807, uuid='632dcb2d-8f33-482d-b4e6-59137d625ed4', l='ServerLevel[world]', x=-34018.89, y=64.56, z=19933.71, cpos=[-2127, 1245], tl=24203, v=true] died: tran trung kien suffocated in a wall
+[03:26:18] [Async Chat Thread - #31/INFO]: <Logs369> E canh ong can may golden apple
+[03:26:20] [Server thread/WARN]: PH1008 moved wrongly!
+[03:27:33] [User Authenticator #5/INFO]: UUID of player minhhhhhhhh is a9832b36-3a9f-4126-9624-5a52fa94738b
+[03:27:34] [Server thread/INFO]: minhhhhhhhh joined the game
+[03:27:34] [Server thread/INFO]: minhhhhhhhh[/[0:0:0:0:0:0:0:1%0]:53066] logged in with entity id 39630 at ([world]-5197.699999988079, -44.0, -9925.575967216453)
+[03:27:39] [Async Chat Thread - #33/INFO]: <minhhhhhhhh> helo
+[03:27:40] [Async Chat Thread - #34/INFO]: <Logs369> chao dukmig
+[03:27:42] [Async Chat Thread - #34/INFO]: <PH1008> chao em yeu
+[03:27:45] [Async Chat Thread - #33/INFO]: <minhhhhhhhh> co nen strim
+[03:27:48] [Async Chat Thread - #34/INFO]: <Logs369> uh
+[03:27:48] [Server thread/WARN]: PH1008 moved too quickly! -1.1663750750367399,-1.713346453700126,-11.005603117993815
+[03:27:49] [Async Chat Thread - #34/INFO]: <HmzyyX> chao anh dukmig
+[03:27:49] [Async Chat Thread - #34/INFO]: <canhvjp> r
+[03:27:51] [Async Chat Thread - #34/INFO]: <canhvjp> sang het r
+[03:27:53] [Async Chat Thread - #34/INFO]: <PH1008> strim thi che cord di
+[03:27:53] [Async Chat Thread - #34/INFO]: <minhhhhhhhh> t dang setup not
+[03:28:11] [Async Chat Thread - #34/INFO]: <Logs369> canh can may golden apples
+[03:28:18] [Async Chat Thread - #34/INFO]: <canhvjp> m sang dem di
+[03:28:25] [Async Chat Thread - #34/INFO]: <Logs369> t phai farm da
+[03:28:25] [Async Chat Thread - #34/INFO]: <canhvjp> t con che thuoc da
+[03:29:44] [Async Chat Thread - #35/INFO]: <canhvjp> ee
+[03:29:45] [Async Chat Thread - #35/INFO]: <canhvjp> minh
+[03:29:48] [User Authenticator #6/INFO]: UUID of player gato_the_gay is 45c7a210-8e9a-47b1-a1ed-94b423e1cdd2
+[03:29:49] [Server thread/INFO]: gato_the_gay joined the game
+[03:29:49] [Server thread/INFO]: gato_the_gay[/[0:0:0:0:0:0:0:1%0]:39794] logged in with entity id 41573 at ([world]3888.6055332900664, 82.0, -3778.388678855496)
+[03:29:55] [Async Chat Thread - #35/INFO]: <canhvjp> dukmig oi
+[03:29:56] [Netty Epoll Server IO #0/WARN]: Failed to update secure chat state for gato_the_gay: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[03:29:56] [Async Chat Thread - #36/INFO]: <gato_the_gay> meow meow
+[03:30:01] [Async Chat Thread - #36/INFO]: <gato_the_gay> gyuatt
+[03:30:07] [Netty Epoll Server IO #2/WARN]: Failed to update secure chat state for EvoKoifis: 'Chat had an invalid signature. Please try reconnecting.'
+[03:30:09] [Server thread/INFO]: EvoKoifis lost connection: Disconnected
+[03:30:09] [Server thread/INFO]: EvoKoifis left the game
+[03:30:11] [User Authenticator #6/INFO]: UUID of player EvoKoifis is 230bd0f2-c1cb-4be8-81b5-59d271f2351d
+[03:30:12] [Server thread/INFO]: EvoKoifis joined the game
+[03:30:12] [Server thread/INFO]: EvoKoifis[/[0:0:0:0:0:0:0:1%0]:55382] logged in with entity id 42231 at ([world]-3090.5227803015096, 81.5, -6259.144550648936)
+[03:30:14] [Netty Epoll Server IO #3/WARN]: Failed to update secure chat state for canhvjp: 'Chat had an invalid signature. Please try reconnecting.'
+[03:30:15] [Async Chat Thread - #35/INFO]: <EvoKoifis> chat nhu chicken
+[03:30:16] [Netty Epoll Server IO #3/WARN]: Failed to update secure chat state for canhvjp: 'Chat disabled due to broken chain. Please try reconnecting.'
+[03:30:18] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[03:30:18] [Server thread/INFO]: canhvjp left the game
+[03:30:20] [User Authenticator #6/INFO]: UUID of player canhvjp is 6ce961f5-d685-4d10-a921-2a5d3a163147
+[03:30:21] [Server thread/INFO]: canhvjp joined the game
+[03:30:21] [Server thread/INFO]: canhvjp[/[0:0:0:0:0:0:0:1%0]:35536] logged in with entity id 42461 at ([world]-34047.18642643507, 64.0, 19931.787178461374)
+[03:30:22] [Netty Epoll Server IO #0/WARN]: Failed to update secure chat state for Logs369: 'Chat had an invalid signature. Please try reconnecting.'
+[03:30:23] [Server thread/INFO]: Logs369 lost connection: Disconnected
+[03:30:23] [Server thread/INFO]: Logs369 left the game
+[03:30:25] [Async Chat Thread - #35/INFO]: <canhvjp> dcm dik
+[03:30:26] [Server thread/INFO]: canhvjp lost connection: Disconnected
+[03:30:26] [Server thread/INFO]: canhvjp left the game
+[03:30:27] [Server thread/INFO]: HmzyyX has made the advancement [Suit Up]
+[03:30:29] [User Authenticator #6/INFO]: UUID of player Logs369 is d7d0c0f5-d2bd-47d2-9bf3-05ceedd7ba85
+[03:30:30] [Server thread/INFO]: Logs369 joined the game
+[03:30:30] [Server thread/INFO]: Logs369[/[0:0:0:0:0:0:0:1%0]:36770] logged in with entity id 42600 at ([world]-34105.19854939603, 70.0, 19793.692664902297)
+[03:32:46] [Netty Epoll Server IO #0/WARN]: Failed to update secure chat state for gato_the_gay: 'Chat had an invalid signature. Please try reconnecting.'
+[03:32:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2970ms or 59 ticks behind
+[03:32:52] [Netty Epoll Server IO #0/WARN]: Failed to update secure chat state for gato_the_gay: 'Chat disabled due to broken chain. Please try reconnecting.'
+[03:33:04] [Async Chat Thread - #37/INFO]: <Logs369> e canh ong can brown mushroom khong
+[03:33:05] [Server thread/INFO]: Named entity Zombie['iron'/41588, uuid='39e8fb4e-f54d-407d-b984-eac50d4c7bce', l='ServerLevel[world]', x=3895.07, y=80.49, z=-3776.79, cpos=[243, -237], tl=6957, v=true] died: iron burned to death
+[03:33:21] [Async Chat Thread - #37/INFO]: <Logs369> a dau canh bay mau roi
+[03:36:25] [Server thread/INFO]: gato_the_gay lost connection: Disconnected
+[03:36:25] [Server thread/INFO]: gato_the_gay left the game
+[03:36:27] [User Authenticator #7/INFO]: UUID of player gato_the_gay is 45c7a210-8e9a-47b1-a1ed-94b423e1cdd2
+[03:36:27] [Server thread/INFO]: gato_the_gay joined the game
+[03:36:27] [Server thread/INFO]: gato_the_gay[/[0:0:0:0:0:0:0:1%0]:49478] logged in with entity id 48799 at ([world]3886.7832791904634, 81.0, -3789.8249504514706)
+[03:36:31] [Netty Epoll Server IO #2/WARN]: Failed to update secure chat state for gato_the_gay: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[03:36:31] [Netty Epoll Server IO #2/WARN]: Failed to update secure chat state for gato_the_gay: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[03:36:38] [Server thread/INFO]: gato_the_gay lost connection: Disconnected
+[03:36:38] [Server thread/INFO]: gato_the_gay left the game
+[03:36:40] [User Authenticator #7/INFO]: UUID of player gato_the_gay is 45c7a210-8e9a-47b1-a1ed-94b423e1cdd2
+[03:36:40] [Server thread/INFO]: gato_the_gay joined the game
+[03:36:40] [Server thread/INFO]: gato_the_gay[/[0:0:0:0:0:0:0:1%0]:55028] logged in with entity id 49136 at ([world]3886.7832791904634, 81.0, -3789.8249504514706)
+[03:36:43] [Netty Epoll Server IO #0/WARN]: Failed to update secure chat state for gato_the_gay: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[03:36:47] [Async Chat Thread - #39/INFO]: <gato_the_gay> skin giong nhau v
+[03:37:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3387ms or 67 ticks behind
+[03:37:52] [Server thread/WARN]: HmzyyX moved too quickly! -1.6107536435871452,-0.604424101326714,11.60717922299068
+[03:37:52] [Server thread/WARN]: Dark Oak Boat (vehicle of Logs369) moved too quickly! -14.042281566165911,0.0,-14.26368930119861
+[03:37:52] [Server thread/WARN]: Dark Oak Boat (vehicle of Logs369) moved too quickly! -14.305955580821319,0.0,-14.546217209099268
+[03:37:52] [Server thread/WARN]: Dark Oak Boat (vehicle of Logs369) moved too quickly! -14.577438529915526,0.0,-14.821276390190178
+[03:37:52] [Server thread/WARN]: Dark Oak Boat (vehicle of Logs369) moved too quickly! -14.855377251893515,0.0,-15.090526793432218
+[03:37:52] [Server thread/WARN]: Dark Oak Boat (vehicle of Logs369) moved too quickly! -15.138194541272242,0.0,-15.355928352651972
+[03:37:52] [Server thread/WARN]: Dark Oak Boat (vehicle of Logs369) moved too quickly! -15.424083803321992,0.0,-15.61962812454658
+[03:37:52] [Server thread/WARN]: Dark Oak Boat (vehicle of Logs369) moved too quickly! -15.711009296697739,0.0,-15.88383447430897
+[03:37:52] [Server thread/WARN]: Dark Oak Boat (vehicle of Logs369) moved too quickly! -15.996693035696808,0.0,-16.15071405555136
+[03:37:52] [Server thread/WARN]: Dark Oak Boat (vehicle of Logs369) moved too quickly! -16.27861369206221,0.0,-16.42228555827751
+[03:37:52] [Server thread/WARN]: Dark Oak Boat (vehicle of Logs369) moved too quickly! -16.554023311007768,0.0,-16.700314375812013
+[03:37:52] [Server thread/WARN]: Dark Oak Boat (vehicle of Logs369) moved too quickly! -16.819972263074305,0.0,-16.986220870949182
+[03:37:52] [Server thread/WARN]: Dark Oak Boat (vehicle of Logs369) moved too quickly! -17.07464073614392,0.0,-17.280488955733745
+[03:37:52] [Server thread/WARN]: Dark Oak Boat (vehicle of Logs369) moved too quickly! -17.31725293524505,0.0,-17.583015187177807
+[03:37:52] [Server thread/WARN]: Dark Oak Boat (vehicle of Logs369) moved too quickly! -17.547936135735654,0.0,-17.89334028173107
+[03:37:52] [Server thread/WARN]: Dark Oak Boat (vehicle of Logs369) moved too quickly! -17.767572740398464,0.0,-18.21078358717932
+[03:37:52] [Server thread/WARN]: Dark Oak Boat (vehicle of Logs369) moved too quickly! -17.977654491885914,0.0,-18.534509140688897
+[03:37:52] [Server thread/WARN]: Dark Oak Boat (vehicle of Logs369) moved too quickly! -18.18014225616207,0.0,-18.863545804331807
+[03:37:52] [Server thread/WARN]: Dark Oak Boat (vehicle of Logs369) moved too quickly! -18.377340689061384,0.0,-19.19677616215631
+[03:38:34] [Server thread/INFO]: HmzyyX has made the advancement [Ice Bucket Challenge]
+[03:39:13] [Netty Epoll Server IO #1/WARN]: Failed to update secure chat state for HmzyyX: 'Chat had an invalid signature. Please try reconnecting.'
+[03:39:17] [Netty Epoll Server IO #1/WARN]: Failed to update secure chat state for HmzyyX: 'Chat disabled due to broken chain. Please try reconnecting.'
+[03:39:33] [Netty Epoll Server IO #1/WARN]: Failed to update secure chat state for HmzyyX: 'Chat disabled due to broken chain. Please try reconnecting.'
+[03:39:54] [Async Chat Thread - #41/INFO]: <Logs369> dan lang gi ro ngheo
+[03:40:22] [Server thread/INFO]: PH1008 has made the advancement [Those Were the Days]
+[03:42:08] [Server thread/INFO]: Logs369 has made the advancement [Best Friends Forever]
+[03:42:09] [Server thread/INFO]: HmzyyX lost connection: Disconnected
+[03:42:09] [Server thread/INFO]: HmzyyX left the game
+[03:42:13] [Async Chat Thread - #43/INFO]: <Logs369> con ngua ngu
+[03:42:31] [User Authenticator #8/INFO]: UUID of player HmzyyX is d0135778-6e50-40e9-93a9-328349820168
+[03:42:33] [Server thread/INFO]: HmzyyX joined the game
+[03:42:33] [Server thread/INFO]: HmzyyX[/[0:0:0:0:0:0:0:1%0]:52734] logged in with entity id 56690 at ([world]-828.1357927856902, 84.0, 1640.9521614934633)
+[03:42:33] [Async Chat Thread - #43/INFO]: <Logs369> uay con nay ngon phte
+[03:42:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2594ms or 51 ticks behind
+[03:42:55] [Server thread/WARN]: EvoKoifis moved too quickly! -10.404053240031317,-5.751864001409061,4.031060436960615
+[03:42:59] [Async Chat Thread - #43/INFO]: <EvoKoifis> dukmig o dau nhi
+[03:43:22] [Server thread/INFO]: PH1008 has made the advancement [War Pigs]
+[03:43:27] [Async Chat Thread - #43/INFO]: <EvoKoifis> dukmig voice di
+[03:44:51] [User Authenticator #9/INFO]: UUID of player moonnight143 is b7a499c9-e021-415d-8cd8-89c79aadfa81
+[03:44:54] [Server thread/INFO]: moonnight143 joined the game
+[03:44:54] [Server thread/INFO]: moonnight143[/[0:0:0:0:0:0:0:1%0]:46428] logged in with entity id 60005 at ([world]301.69999998807907, 8.0, -59.69999998807907)
+[03:45:08] [Async Chat Thread - #45/INFO]: <moonnight143> hi
+[03:45:13] [Async Chat Thread - #45/INFO]: <HmzyyX> hi anh
+[03:45:20] [Async Chat Thread - #45/INFO]: <moonnight143> ai v
+[03:45:26] [Async Chat Thread - #45/INFO]: <Logs369> dit me con cam co dau
+[03:45:34] [Server thread/INFO]: HmzyyX issued server command: /w moonnight143 haiminh256
+[03:45:56] [Server thread/INFO]: Logs369 has made the advancement [Voluntary Exile]
+[03:46:40] [Server thread/INFO]: Logs369 has made the advancement [Ol' Betsy]
+[03:46:46] [Async Chat Thread - #47/INFO]: <HmzyyX> -800 110 1665 cs village a qua thi qua
+[03:46:48] [Server thread/INFO]: Logs369 has made the advancement [Who's the Pillager Now?]
+[03:47:04] [Async Chat Thread - #47/INFO]: <EvoKoifis> thang nay khong xay base o do di
+[03:47:06] [Async Chat Thread - #47/INFO]: <EvoKoifis> cu lo
+[03:47:09] [Async Chat Thread - #47/INFO]: <HmzyyX> ke
+[03:47:12] [Async Chat Thread - #47/INFO]: <HmzyyX> em ko xay base
+[03:47:15] [Server thread/INFO]: Logs369 issued server command: /msg EvoKoifis ra giet no di
+[03:47:25] [Server thread/INFO]: EvoKoifis issued server command: /msg Logs369 xa lam
+[03:47:27] [Async Chat Thread - #48/INFO]: <HmzyyX> xay base cs dc pha base
+[03:47:29] [Async Chat Thread - #48/INFO]: <HmzyyX> ko
+[03:47:33] [Server thread/INFO]: HmzyyX has made the advancement [Not Today, Thank You]
+[03:47:44] [Async Chat Thread - #48/INFO]: <moonnight143> dang o spawn
+[03:47:47] [Async Chat Thread - #48/INFO]: <moonnight143> damn
+[03:47:57] [Server thread/INFO]: HmzyyX issued server command: /w moonnight143 anh vo team cua em ko
+[03:47:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2539ms or 50 ticks behind
+[03:48:01] [Async Chat Thread - #47/INFO]: <EvoKoifis> moonnight big balls
+[03:48:09] [Async Chat Thread - #47/INFO]: <moonnight143> and big cock
+[03:48:52] [Async Chat Thread - #47/INFO]: <moonnight143> hang cho spawn nhieu kim cuong vai
+[03:48:54] [Server thread/INFO]: HmzyyX has made the advancement [Sweet Dreams]
+[03:49:37] [Server thread/INFO]: PH1008 has made the advancement [Who is Cutting Onions?]
+[03:51:44] [Async Chat Thread - #49/INFO]: <moonnight143> djtme anh da trang oi tha e
+[03:51:59] [Server thread/INFO]: Villager Villager['Villager'/56738, uuid='aee64b84-cac1-40f1-b039-9e0bfdbefa39', l='ServerLevel[world]', x=-802.19, y=109.00, z=1666.30, cpos=[-51, 104], tl=19528, v=true] died, message: 'Villager was slain by Zombie'
+[03:52:59] [Async Chat Thread - #51/INFO]: <HmzyyX> xay farm iron thoi hehhe :)
+[03:53:12] [Async Chat Thread - #51/INFO]: <moonnight143> ai qua cuu toi
+[03:53:20] [Async Chat Thread - #51/INFO]: <HmzyyX> xin toa do anh oi
+[03:53:21] [Async Chat Thread - #51/INFO]: <moonnight143> con half hearth
+[03:53:29] [Async Chat Thread - #51/INFO]: <moonnight143> 267 31
+[03:53:48] [Async Chat Thread - #51/INFO]: <HmzyyX> anh qua -936 1534
+[03:53:54] [Async Chat Thread - #51/INFO]: <HmzyyX> cs village
+[03:53:56] [Async Chat Thread - #52/INFO]: <HmzyyX> food
+[03:54:00] [Async Chat Thread - #52/INFO]: <moonnight143> ok
+[03:55:01] [Async Chat Thread - #53/INFO]: <HmzyyX> trong day dc pha base cua ng khac ko
+[03:55:13] [Netty Epoll Server IO #2/WARN]: Failed to update secure chat state for PH1008: 'Chat had an invalid signature. Please try reconnecting.'
+[03:57:11] [Async Chat Thread - #55/INFO]: <HmzyyX> anh moonnight143 di den dau r
+[03:57:17] [Server thread/INFO]: gato_the_gay lost connection: Timed out
+[03:57:17] [Server thread/INFO]: gato_the_gay left the game
+[03:57:20] [Async Chat Thread - #55/INFO]: <moonnight143> dang den
+[03:57:20] [User Authenticator #10/INFO]: UUID of player gato_the_gay is 45c7a210-8e9a-47b1-a1ed-94b423e1cdd2
+[03:57:21] [Server thread/INFO]: gato_the_gay joined the game
+[03:57:21] [Server thread/INFO]: gato_the_gay[/[0:0:0:0:0:0:0:1%0]:42356] logged in with entity id 74825 at ([world]3939.403700478064, 69.0, -3751.5590590187508)
+[03:57:26] [Async Chat Thread - #55/INFO]: <HmzyyX> oke anh
+[03:57:34] [Async Chat Thread - #56/INFO]: <EvoKoifis> argentina ghi ban roi
+[03:57:35] [Async Chat Thread - #55/INFO]: <HmzyyX> can giap luon ko
+[03:57:36] [Async Chat Thread - #55/INFO]: <EvoKoifis> pessi ta
+[03:57:44] [Async Chat Thread - #55/INFO]: <HmzyyX> pessi cola espuma
+[03:57:49] [Server thread/WARN]: Horse (vehicle of Logs369) moved wrongly! 0.3172393663286136
+[03:57:54] [Server thread/WARN]: Horse (vehicle of Logs369) moved wrongly! 0.44905624515376985
+[03:57:54] [Server thread/WARN]: Horse (vehicle of Logs369) moved wrongly! 0.7106165505247191
+[03:57:54] [Server thread/WARN]: Horse (vehicle of Logs369) moved wrongly! 1.167379094818898
+[03:58:10] [Server thread/INFO]: Logs369 issued server command: /msg moonnight143 ong giet hai minh di
+[03:58:17] [Server thread/INFO]: HmzyyX has made the advancement [What a Deal!]
+[03:58:17] [Server thread/INFO]: Logs369 issued server command: /msg moonnight143 toi se cho ong cai gi do
+[03:58:33] [Server thread/INFO]: Logs369 issued server command: /msg moonnight143 tranh thu do lava vao nguoi no luc no khong de y
+[03:58:48] [Server thread/INFO]: Logs369 issued server command: /msg moonnight143 ong se co full giap kc
+[03:59:31] [Server thread/INFO]: gato_the_gay lost connection: Timed out
+[03:59:31] [Server thread/INFO]: gato_the_gay left the game
+[03:59:45] [User Authenticator #11/INFO]: UUID of player gato_the_gay is 45c7a210-8e9a-47b1-a1ed-94b423e1cdd2
+[03:59:46] [Server thread/INFO]: gato_the_gay joined the game
+[03:59:46] [Server thread/INFO]: gato_the_gay[/[0:0:0:0:0:0:0:1%0]:53332] logged in with entity id 78874 at ([world]3917.7530384805887, 80.0, -3772.233028894717)
+[04:00:03] [Async Chat Thread - #57/INFO]: <moonnight143> ok
+[04:00:19] [Async Chat Thread - #57/INFO]: <HmzyyX> anh thay village chua
